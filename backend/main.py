@@ -1,3 +1,4 @@
+from fastapi.responses import FileResponse
 import numpy as np
 import json
 import logging
@@ -35,7 +36,7 @@ except Exception as e:
 
 
 class VideoMetadata(BaseModel):
-    file: str
+    file: FileResponse
     metadata: List[List[dict]]
 
 
@@ -50,7 +51,8 @@ def get_video_from_path(video_name: str) -> VideoMetadata:
     with open(json_file_path, "r") as json_file:
         json_data = json.load(json_file)
 
-    return VideoMetadata(file=file_path, metadata=json_data)
+    file_response = FileResponse(file_path, media_type="video/mp4")
+    return VideoMetadata(file=file_response, metadata=json_data)
 
 
 @app.post("/drone_footage")
@@ -63,9 +65,9 @@ async def upload_drone_footage(file: UploadFile) -> VideoMetadata:
                 status_code=400,
                 detail="Invalid file format. Only MP4 files are allowed.",
             )
-        video = get_video_from_path(file.filename)
+        video_data = get_video_from_path(file.filename)
         logging.info(f"Processed video for file: {file.filename}")
-        return video
+        return video_data
     else:
         logging.error("No file found in the request.")
         raise HTTPException(status_code=400, detail="No file found")
