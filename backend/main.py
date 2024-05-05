@@ -33,6 +33,7 @@ async def upload_drone_footage(file: UploadFile) -> tuple[FileResponse, VideoMet
         raise HTTPException(status_code=400, detail="Invalid file format. Only MP4 files are allowed.")
             
 @app.post("/grounding_dino")
+async def run_grounding_dino(query: str):
 
 
 if __name__ == "__main__":
