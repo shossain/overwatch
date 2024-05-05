@@ -16,6 +16,11 @@ openmim = "^0.3.9"
 transformers = "^4.40.1"
 decord = "^0.6.0"
 opencv-python = "^4.9.0.80"
+supervision = "^0.20.0"
+addict = "^2.4.0"
+yapf = "^0.40.2"
+pycocotools = "^2.0.7"
+timm = "^0.9.16"
 
 
 [build-system]
