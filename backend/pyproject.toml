@@ -15,6 +15,7 @@ torchvision = "^0.18.0"
 openmim = "^0.3.9"
 transformers = "^4.40.1"
 decord = "^0.6.0"
+opencv-python = "^4.9.0.80"
 
 
 [build-system]
