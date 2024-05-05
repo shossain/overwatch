@@ -5,6 +5,7 @@ import axios from "axios";
 import { Button } from "@/components/ui/button";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import { useDropzone } from "react-dropzone";
+import Chat from "./chat";
 
 const API_URL = "http://localhost:8080";
 
@@ -115,12 +116,7 @@ export default function Home() {
 
       {uploadedVideo && (
         <div className="mt-8">
-          <video
-            src={uploadedVideo}
-            controls
-            width="640"
-            height="480"
-          />
+          <video src={uploadedVideo} controls width="640" height="480" />
         </div>
       )}
 
@@ -137,14 +133,9 @@ export default function Home() {
           </p>
         </a>
 
-        <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <div className="group rounded-lg border border-transparent px-5 py-4 transition-color hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
           <h2 className="mb-3 text-2xl font-semibold">
-            Q&A{" "}
+            Chat
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
@@ -152,7 +143,10 @@ export default function Home() {
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
             Ask us anything!
           </p>
-        </a>
+          <div className="mt-4">
+            <Chat />
+          </div>
+        </div>
       </div>
     </main>
   );
