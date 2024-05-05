@@ -1,9 +1,11 @@
 # Overwatch
 
+## Systems Diagram
 
-
+![Overwatch Systems Diagram](overwatch_systems_diagram.png)
 
 ## UAVInference
+
 This module takes in a list of environment states (with descriptions of the objects in the world), and outputs an array of strings that serve as a log of the events that have transpired throughout the video.
 
 If a significant event happens (i.e. a new object enters the scene, an existing object is destroyed, etc.) the model will reason about the event that has happened based on the metadata for the video, and append an event entry to a JSON log.
@@ -15,9 +17,7 @@ Usage:
 Navigate to the directory containing this README file. First, install all dependencies in a Python 3.10 environment as follows:
 
 ```
-conda create -n "UAVInferenceEnv" python==3.10
-conda activate UAVInferenceEnv
-poetry install
+poetry install --no-root
 poetry shell
 ```
 
