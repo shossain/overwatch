@@ -199,21 +199,21 @@ export default function Home() {
             onLoadedMetadata={handleLoadedMetadata}
           />
           <div className="mt-4">
-            <div className="bg-black shadow-md rounded-lg p-4 text-white">
-              <div className="font-bold mb-2">Current Metadata</div>
-              <div>{currentMetadata}</div>
-              <div className="mt-4">
-                <div className="font-bold mb-2">Metadata Log</div>
+            <div className="bg-black shadow-md rounded-lg p-6 text-white">
+              <div className="text-xl font-bold mb-4">Current Metadata</div>
+              <div className="text-lg">{currentMetadata}</div>
+              <div className="mt-6">
+                <div className="text-xl font-bold mb-4">Metadata Log</div>
                 <div
-                  className="max-h-64 overflow-y-auto"
+                  className="max-h-64 overflow-y-auto space-y-4"
                   ref={(el) => el?.scrollIntoView({ behavior: "smooth" })}
                 >
                   {metadataLog.map((entry, index) => (
-                    <div key={index} className="mb-2">
-                      <div className="text-sm text-gray-300">
+                    <div key={index}>
+                      <div className="text-sm text-gray-400">
                         Timestamp: {formatTimestamp(entry.timestamp)}
                       </div>
-                      <div>{entry.data}</div>
+                      <div className="text-base">{entry.data}</div>
                     </div>
                   ))}
                 </div>
