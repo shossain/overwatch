@@ -27,6 +27,7 @@ export default function Home() {
     }[]
   >([]);
   const [currentTime, setCurrentTime] = useState(0);
+  const [frameRate, setFrameRate] = useState(30);
 
   const handleDismiss = () => {
     setUploadStatus(null);
@@ -53,6 +54,19 @@ export default function Home() {
     }
 
     setCurrentTime(currentTime);
+  };
+  const handleLoadedMetadata = (
+    event: React.SyntheticEvent<HTMLVideoElement>,
+  ) => {
+    const video = event.currentTarget as HTMLVideoElement;
+    const stream = video.captureStream();
+    const videoTracks = stream.getVideoTracks();
+    if (videoTracks.length > 0) {
+      const frameRate = videoTracks[0].getSettings().frameRate || 30;
+      setFrameRate(frameRate);
+    }
+
+    handleTimeUpdate(event);
   };
 
   const formatTimestamp = (seconds: number) => {
@@ -182,6 +196,7 @@ export default function Home() {
             width="720"
             height="500"
             onTimeUpdate={handleTimeUpdate}
+            onLoadedMetadata={handleLoadedMetadata}
           />
           <div className="mt-4">
             <div className="bg-black shadow-md rounded-lg p-4 text-white">
