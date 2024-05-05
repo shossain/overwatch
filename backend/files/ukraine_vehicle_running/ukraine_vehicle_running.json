@@ -1,1 +1,1101 @@
-[[{"id": 1, "centroid": [782, 431], "size": 1192.0, "prompt": "person"}, {"id": 3, "centroid": [772, 353], "size": 54314.0, "prompt": "person"}, {"id": 1, "centroid": [673, 361], "size": 18.0, "prompt": "vehicle"}, {"id": 2, "centroid": [772, 354], "size": 55045.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [778, 439], "size": 1205.0, "prompt": "person"}, {"id": 3, "centroid": [774, 351], "size": 55156.0, "prompt": "person"}, {"id": 2, "centroid": [774, 352], "size": 55736.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [787, 436], "size": 1429.0, "prompt": "person"}, {"id": 3, "centroid": [776, 349], "size": 55275.0, "prompt": "person"}, {"id": 2, "centroid": [776, 350], "size": 55877.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [791, 434], "size": 1764.0, "prompt": "person"}, {"id": 3, "centroid": [779, 347], "size": 55176.0, "prompt": "person"}, {"id": 2, "centroid": [780, 348], "size": 55939.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [789, 434], "size": 1912.0, "prompt": "person"}, {"id": 3, "centroid": [784, 345], "size": 55297.0, "prompt": "person"}, {"id": 2, "centroid": [784, 346], "size": 56152.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [787, 433], "size": 1844.0, "prompt": "person"}, {"id": 3, "centroid": [790, 343], "size": 55563.0, "prompt": "person"}, {"id": 2, "centroid": [789, 344], "size": 56355.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [788, 433], "size": 1875.0, "prompt": "person"}, {"id": 3, "centroid": [795, 341], "size": 56105.0, "prompt": "person"}, {"id": 2, "centroid": [795, 342], "size": 56753.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [805, 428], "size": 1843.0, "prompt": "person"}, {"id": 3, "centroid": [801, 338], "size": 56076.0, "prompt": "person"}, {"id": 2, "centroid": [801, 339], "size": 56746.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [816, 424], "size": 1748.0, "prompt": "person"}, {"id": 3, "centroid": [807, 336], "size": 56292.0, "prompt": "person"}, {"id": 2, "centroid": [807, 337], "size": 56900.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [818, 423], "size": 1721.0, "prompt": "person"}, {"id": 3, "centroid": [815, 334], "size": 56430.0, "prompt": "person"}, {"id": 2, "centroid": [815, 334], "size": 57006.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [832, 419], "size": 1754.0, "prompt": "person"}, {"id": 3, "centroid": [822, 332], "size": 56217.0, "prompt": "person"}, {"id": 2, "centroid": [822, 332], "size": 56720.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [844, 417], "size": 1703.0, "prompt": "person"}, {"id": 3, "centroid": [830, 330], "size": 56411.0, "prompt": "person"}, {"id": 2, "centroid": [830, 331], "size": 57054.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [842, 415], "size": 1834.0, "prompt": "person"}, {"id": 3, "centroid": [837, 328], "size": 56402.0, "prompt": "person"}, {"id": 2, "centroid": [837, 329], "size": 57085.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [853, 413], "size": 1784.0, "prompt": "person"}, {"id": 3, "centroid": [844, 326], "size": 56313.0, "prompt": "person"}, {"id": 2, "centroid": [844, 327], "size": 56967.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [853, 413], "size": 1680.0, "prompt": "person"}, {"id": 3, "centroid": [851, 325], "size": 56344.0, "prompt": "person"}, {"id": 2, "centroid": [851, 325], "size": 56855.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [849, 411], "size": 1722.0, "prompt": "person"}, {"id": 3, "centroid": [857, 323], "size": 55816.0, "prompt": "person"}, {"id": 2, "centroid": [857, 323], "size": 56270.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [841, 412], "size": 1752.0, "prompt": "person"}, {"id": 3, "centroid": [863, 321], "size": 55366.0, "prompt": "person"}, {"id": 2, "centroid": [863, 322], "size": 55866.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [843, 410], "size": 1792.0, "prompt": "person"}, {"id": 3, "centroid": [866, 320], "size": 55359.0, "prompt": "person"}, {"id": 2, "centroid": [866, 320], "size": 55739.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [844, 408], "size": 1686.0, "prompt": "person"}, {"id": 3, "centroid": [869, 317], "size": 55242.0, "prompt": "person"}, {"id": 2, "centroid": [869, 318], "size": 55581.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [846, 406], "size": 1663.0, "prompt": "person"}, {"id": 3, "centroid": [870, 316], "size": 55055.0, "prompt": "person"}, {"id": 2, "centroid": [870, 316], "size": 55346.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [847, 404], "size": 1576.0, "prompt": "person"}, {"id": 3, "centroid": [870, 314], "size": 55010.0, "prompt": "person"}, {"id": 2, "centroid": [870, 314], "size": 55327.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [843, 402], "size": 1571.0, "prompt": "person"}, {"id": 3, "centroid": [869, 312], "size": 54865.0, "prompt": "person"}, {"id": 2, "centroid": [869, 313], "size": 55192.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [835, 403], "size": 1824.0, "prompt": "person"}, {"id": 3, "centroid": [867, 311], "size": 54846.0, "prompt": "person"}, {"id": 2, "centroid": [867, 311], "size": 55265.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [833, 401], "size": 1985.0, "prompt": "person"}, {"id": 3, "centroid": [866, 309], "size": 54941.0, "prompt": "person"}, {"id": 2, "centroid": [865, 309], "size": 55480.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [832, 399], "size": 1969.0, "prompt": "person"}, {"id": 3, "centroid": [864, 307], "size": 55189.0, "prompt": "person"}, {"id": 2, "centroid": [863, 308], "size": 55754.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [829, 397], "size": 1829.0, "prompt": "person"}, {"id": 3, "centroid": [861, 305], "size": 55244.0, "prompt": "person"}, {"id": 2, "centroid": [861, 306], "size": 55849.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [829, 395], "size": 1775.0, "prompt": "person"}, {"id": 3, "centroid": [858, 304], "size": 55642.0, "prompt": "person"}, {"id": 2, "centroid": [858, 305], "size": 56253.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [829, 394], "size": 1703.0, "prompt": "person"}, {"id": 3, "centroid": [855, 303], "size": 55796.0, "prompt": "person"}, {"id": 2, "centroid": [855, 304], "size": 56466.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [828, 394], "size": 1628.0, "prompt": "person"}, {"id": 3, "centroid": [852, 303], "size": 55865.0, "prompt": "person"}, {"id": 2, "centroid": [852, 304], "size": 56477.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [834, 392], "size": 1426.0, "prompt": "person"}, {"id": 3, "centroid": [849, 302], "size": 55824.0, "prompt": "person"}, {"id": 2, "centroid": [849, 303], "size": 56407.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [831, 392], "size": 1370.0, "prompt": "person"}, {"id": 3, "centroid": [846, 303], "size": 55914.0, "prompt": "person"}, {"id": 2, "centroid": [846, 304], "size": 56413.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [820, 393], "size": 1362.0, "prompt": "person"}, {"id": 3, "centroid": [843, 303], "size": 55921.0, "prompt": "person"}, {"id": 2, "centroid": [843, 304], "size": 56486.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [818, 393], "size": 1380.0, "prompt": "person"}, {"id": 3, "centroid": [840, 304], "size": 55877.0, "prompt": "person"}, {"id": 2, "centroid": [840, 304], "size": 56474.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [818, 392], "size": 1371.0, "prompt": "person"}, {"id": 3, "centroid": [837, 304], "size": 55930.0, "prompt": "person"}, {"id": 2, "centroid": [837, 305], "size": 56502.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [817, 393], "size": 1406.0, "prompt": "person"}, {"id": 3, "centroid": [835, 304], "size": 55804.0, "prompt": "person"}, {"id": 2, "centroid": [835, 305], "size": 56316.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [817, 393], "size": 1415.0, "prompt": "person"}, {"id": 3, "centroid": [832, 305], "size": 55675.0, "prompt": "person"}, {"id": 2, "centroid": [832, 306], "size": 56153.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [818, 393], "size": 1509.0, "prompt": "person"}, {"id": 3, "centroid": [829, 306], "size": 55477.0, "prompt": "person"}, {"id": 2, "centroid": [829, 307], "size": 56013.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [812, 394], "size": 1513.0, "prompt": "person"}, {"id": 3, "centroid": [826, 307], "size": 55367.0, "prompt": "person"}, {"id": 2, "centroid": [826, 308], "size": 55897.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [807, 395], "size": 1403.0, "prompt": "person"}, {"id": 3, "centroid": [824, 307], "size": 55269.0, "prompt": "person"}, {"id": 2, "centroid": [824, 308], "size": 55729.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [805, 395], "size": 1272.0, "prompt": "person"}, {"id": 3, "centroid": [821, 307], "size": 55206.0, "prompt": "person"}, {"id": 2, "centroid": [821, 308], "size": 55598.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [805, 394], "size": 1356.0, "prompt": "person"}, {"id": 3, "centroid": [818, 307], "size": 55041.0, "prompt": "person"}, {"id": 2, "centroid": [818, 308], "size": 55461.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [801, 394], "size": 1412.0, "prompt": "person"}, {"id": 3, "centroid": [816, 307], "size": 55055.0, "prompt": "person"}, {"id": 2, "centroid": [816, 308], "size": 55486.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [802, 394], "size": 1400.0, "prompt": "person"}, {"id": 3, "centroid": [814, 307], "size": 54986.0, "prompt": "person"}, {"id": 2, "centroid": [814, 308], "size": 55407.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [805, 393], "size": 1395.0, "prompt": "person"}, {"id": 3, "centroid": [811, 307], "size": 54978.0, "prompt": "person"}, {"id": 2, "centroid": [811, 308], "size": 55488.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [805, 393], "size": 1517.0, "prompt": "person"}, {"id": 3, "centroid": [809, 307], "size": 54890.0, "prompt": "person"}, {"id": 2, "centroid": [809, 308], "size": 55474.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [799, 394], "size": 1532.0, "prompt": "person"}, {"id": 3, "centroid": [807, 307], "size": 54884.0, "prompt": "person"}, {"id": 2, "centroid": [807, 308], "size": 55515.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [796, 394], "size": 1490.0, "prompt": "person"}, {"id": 3, "centroid": [806, 307], "size": 54780.0, "prompt": "person"}, {"id": 2, "centroid": [806, 307], "size": 55359.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [789, 394], "size": 1507.0, "prompt": "person"}, {"id": 3, "centroid": [804, 306], "size": 54719.0, "prompt": "person"}, {"id": 2, "centroid": [804, 307], "size": 55301.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [786, 394], "size": 1538.0, "prompt": "person"}, {"id": 3, "centroid": [802, 306], "size": 54707.0, "prompt": "person"}, {"id": 2, "centroid": [802, 307], "size": 55266.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [782, 395], "size": 1566.0, "prompt": "person"}, {"id": 3, "centroid": [800, 306], "size": 54613.0, "prompt": "person"}, {"id": 2, "centroid": [800, 307], "size": 55193.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [784, 394], "size": 1562.0, "prompt": "person"}, {"id": 3, "centroid": [799, 307], "size": 54752.0, "prompt": "person"}, {"id": 2, "centroid": [799, 307], "size": 55289.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [791, 393], "size": 1523.0, "prompt": "person"}, {"id": 3, "centroid": [797, 307], "size": 54502.0, "prompt": "person"}, {"id": 2, "centroid": [797, 308], "size": 54982.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [788, 393], "size": 1565.0, "prompt": "person"}, {"id": 3, "centroid": [795, 307], "size": 54416.0, "prompt": "person"}, {"id": 2, "centroid": [795, 308], "size": 55004.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [784, 394], "size": 1521.0, "prompt": "person"}, {"id": 3, "centroid": [793, 308], "size": 54350.0, "prompt": "person"}, {"id": 2, "centroid": [793, 308], "size": 54965.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [701, 472], "size": 2933.0, "prompt": "person"}, {"id": 3, "centroid": [734, 352], "size": 91440.0, "prompt": "person"}, {"id": 2, "centroid": [733, 354], "size": 92630.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [697, 473], "size": 2771.0, "prompt": "person"}, {"id": 3, "centroid": [732, 353], "size": 91315.0, "prompt": "person"}, {"id": 2, "centroid": [731, 355], "size": 92450.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [697, 473], "size": 2780.0, "prompt": "person"}, {"id": 3, "centroid": [729, 353], "size": 91290.0, "prompt": "person"}, {"id": 2, "centroid": [728, 355], "size": 92381.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [695, 473], "size": 2886.0, "prompt": "person"}, {"id": 3, "centroid": [727, 353], "size": 91220.0, "prompt": "person"}, {"id": 2, "centroid": [726, 355], "size": 92401.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [695, 471], "size": 3054.0, "prompt": "person"}, {"id": 3, "centroid": [724, 353], "size": 91010.0, "prompt": "person"}, {"id": 2, "centroid": [724, 355], "size": 92328.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [693, 471], "size": 3131.0, "prompt": "person"}, {"id": 3, "centroid": [722, 353], "size": 90947.0, "prompt": "person"}, {"id": 2, "centroid": [721, 355], "size": 92324.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [693, 470], "size": 3264.0, "prompt": "person"}, {"id": 3, "centroid": [720, 353], "size": 90551.0, "prompt": "person"}, {"id": 2, "centroid": [719, 355], "size": 91970.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [691, 470], "size": 3315.0, "prompt": "person"}, {"id": 3, "centroid": [718, 353], "size": 90588.0, "prompt": "person"}, {"id": 2, "centroid": [718, 355], "size": 92124.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [686, 470], "size": 3362.0, "prompt": "person"}, {"id": 3, "centroid": [716, 353], "size": 90753.0, "prompt": "person"}, {"id": 2, "centroid": [715, 355], "size": 92380.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [682, 471], "size": 3222.0, "prompt": "person"}, {"id": 3, "centroid": [714, 353], "size": 90891.0, "prompt": "person"}, {"id": 2, "centroid": [713, 356], "size": 92543.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [678, 471], "size": 3320.0, "prompt": "person"}, {"id": 3, "centroid": [712, 353], "size": 90799.0, "prompt": "person"}, {"id": 2, "centroid": [711, 356], "size": 92675.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [676, 471], "size": 3578.0, "prompt": "person"}, {"id": 3, "centroid": [710, 353], "size": 90590.0, "prompt": "person"}, {"id": 2, "centroid": [709, 356], "size": 92679.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [676, 470], "size": 3779.0, "prompt": "person"}, {"id": 3, "centroid": [708, 353], "size": 90622.0, "prompt": "person"}, {"id": 2, "centroid": [707, 356], "size": 92878.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [672, 472], "size": 3430.0, "prompt": "person"}, {"id": 3, "centroid": [706, 353], "size": 90947.0, "prompt": "person"}, {"id": 2, "centroid": [705, 356], "size": 92998.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [672, 472], "size": 3177.0, "prompt": "person"}, {"id": 3, "centroid": [704, 353], "size": 91080.0, "prompt": "person"}, {"id": 2, "centroid": [703, 355], "size": 92657.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [669, 474], "size": 3221.0, "prompt": "person"}, {"id": 3, "centroid": [701, 353], "size": 91416.0, "prompt": "person"}, {"id": 2, "centroid": [700, 356], "size": 93222.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [664, 475], "size": 2961.0, "prompt": "person"}, {"id": 3, "centroid": [699, 354], "size": 91793.0, "prompt": "person"}, {"id": 2, "centroid": [699, 356], "size": 93258.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [660, 477], "size": 2815.0, "prompt": "person"}, {"id": 3, "centroid": [697, 355], "size": 92210.0, "prompt": "person"}, {"id": 2, "centroid": [697, 357], "size": 93766.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [657, 477], "size": 2511.0, "prompt": "person"}, {"id": 3, "centroid": [696, 355], "size": 92283.0, "prompt": "person"}, {"id": 2, "centroid": [695, 357], "size": 93710.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [657, 477], "size": 2528.0, "prompt": "person"}, {"id": 3, "centroid": [694, 355], "size": 92165.0, "prompt": "person"}, {"id": 2, "centroid": [693, 357], "size": 93622.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [657, 477], "size": 3005.0, "prompt": "person"}, {"id": 3, "centroid": [691, 356], "size": 92637.0, "prompt": "person"}, {"id": 2, "centroid": [691, 358], "size": 93898.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [657, 478], "size": 3109.0, "prompt": "person"}, {"id": 3, "centroid": [689, 357], "size": 93592.0, "prompt": "person"}, {"id": 2, "centroid": [689, 359], "size": 94861.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [654, 478], "size": 3061.0, "prompt": "person"}, {"id": 3, "centroid": [687, 358], "size": 93805.0, "prompt": "person"}, {"id": 2, "centroid": [687, 360], "size": 95038.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [648, 478], "size": 2916.0, "prompt": "person"}, {"id": 3, "centroid": [685, 358], "size": 93816.0, "prompt": "person"}, {"id": 2, "centroid": [684, 360], "size": 95462.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [647, 478], "size": 2958.0, "prompt": "person"}, {"id": 3, "centroid": [683, 358], "size": 93743.0, "prompt": "person"}, {"id": 2, "centroid": [682, 360], "size": 95574.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [645, 477], "size": 2784.0, "prompt": "person"}, {"id": 3, "centroid": [680, 357], "size": 94210.0, "prompt": "person"}, {"id": 2, "centroid": [680, 359], "size": 95520.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [647, 476], "size": 2580.0, "prompt": "person"}, {"id": 3, "centroid": [676, 357], "size": 95514.0, "prompt": "person"}, {"id": 2, "centroid": [676, 359], "size": 96393.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [644, 476], "size": 2516.0, "prompt": "person"}, {"id": 3, "centroid": [672, 357], "size": 96419.0, "prompt": "person"}, {"id": 2, "centroid": [673, 358], "size": 97172.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [641, 476], "size": 2440.0, "prompt": "person"}, {"id": 3, "centroid": [670, 357], "size": 97058.0, "prompt": "person"}, {"id": 2, "centroid": [671, 358], "size": 97148.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [643, 475], "size": 2368.0, "prompt": "person"}, {"id": 3, "centroid": [668, 357], "size": 97184.0, "prompt": "person"}, {"id": 2, "centroid": [668, 358], "size": 97450.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [640, 475], "size": 2356.0, "prompt": "person"}, {"id": 3, "centroid": [666, 356], "size": 96961.0, "prompt": "person"}, {"id": 2, "centroid": [666, 357], "size": 97360.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [641, 475], "size": 2353.0, "prompt": "person"}, {"id": 3, "centroid": [664, 356], "size": 97033.0, "prompt": "person"}, {"id": 2, "centroid": [665, 357], "size": 97533.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [643, 474], "size": 2422.0, "prompt": "person"}, {"id": 3, "centroid": [663, 356], "size": 96956.0, "prompt": "person"}, {"id": 2, "centroid": [663, 357], "size": 97487.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [640, 473], "size": 2506.0, "prompt": "person"}, {"id": 3, "centroid": [661, 356], "size": 97087.0, "prompt": "person"}, {"id": 2, "centroid": [661, 357], "size": 97765.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [639, 473], "size": 2578.0, "prompt": "person"}, {"id": 3, "centroid": [660, 355], "size": 97113.0, "prompt": "person"}, {"id": 2, "centroid": [660, 357], "size": 98126.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [645, 470], "size": 2157.0, "prompt": "person"}, {"id": 3, "centroid": [658, 355], "size": 97259.0, "prompt": "person"}, {"id": 2, "centroid": [658, 357], "size": 98266.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [653, 467], "size": 1845.0, "prompt": "person"}, {"id": 3, "centroid": [657, 355], "size": 97070.0, "prompt": "person"}, {"id": 2, "centroid": [656, 356], "size": 98030.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [647, 468], "size": 1915.0, "prompt": "person"}, {"id": 3, "centroid": [655, 354], "size": 96880.0, "prompt": "person"}, {"id": 2, "centroid": [655, 355], "size": 98064.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [636, 470], "size": 2250.0, "prompt": "person"}, {"id": 3, "centroid": [654, 353], "size": 96529.0, "prompt": "person"}, {"id": 2, "centroid": [654, 355], "size": 98097.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [626, 474], "size": 2842.0, "prompt": "person"}, {"id": 3, "centroid": [654, 352], "size": 95712.0, "prompt": "person"}, {"id": 2, "centroid": [653, 354], "size": 97895.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [616, 478], "size": 3602.0, "prompt": "person"}, {"id": 3, "centroid": [653, 350], "size": 95043.0, "prompt": "person"}, {"id": 2, "centroid": [651, 354], "size": 97836.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [606, 486], "size": 4498.0, "prompt": "person"}, {"id": 3, "centroid": [652, 348], "size": 94189.0, "prompt": "person"}, {"id": 2, "centroid": [650, 353], "size": 97668.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [605, 486], "size": 4495.0, "prompt": "person"}, {"id": 3, "centroid": [651, 348], "size": 94397.0, "prompt": "person"}, {"id": 2, "centroid": [649, 353], "size": 97561.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [602, 485], "size": 4325.0, "prompt": "person"}, {"id": 3, "centroid": [650, 348], "size": 94541.0, "prompt": "person"}, {"id": 2, "centroid": [648, 353], "size": 97612.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [597, 484], "size": 4585.0, "prompt": "person"}, {"id": 3, "centroid": [649, 348], "size": 94481.0, "prompt": "person"}, {"id": 2, "centroid": [647, 352], "size": 97518.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [591, 486], "size": 4951.0, "prompt": "person"}, {"id": 3, "centroid": [648, 348], "size": 94551.0, "prompt": "person"}, {"id": 2, "centroid": [647, 352], "size": 97608.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [589, 486], "size": 4863.0, "prompt": "person"}, {"id": 3, "centroid": [648, 347], "size": 94692.0, "prompt": "person"}, {"id": 2, "centroid": [646, 352], "size": 97815.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [588, 484], "size": 4789.0, "prompt": "person"}, {"id": 3, "centroid": [647, 347], "size": 94655.0, "prompt": "person"}, {"id": 2, "centroid": [645, 352], "size": 97854.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [587, 484], "size": 4831.0, "prompt": "person"}, {"id": 3, "centroid": [647, 347], "size": 94589.0, "prompt": "person"}, {"id": 2, "centroid": [644, 352], "size": 97982.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [585, 485], "size": 4881.0, "prompt": "person"}, {"id": 3, "centroid": [646, 347], "size": 94583.0, "prompt": "person"}, {"id": 2, "centroid": [644, 352], "size": 97914.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [584, 485], "size": 4941.0, "prompt": "person"}, {"id": 3, "centroid": [646, 347], "size": 94467.0, "prompt": "person"}, {"id": 2, "centroid": [644, 352], "size": 97835.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [583, 485], "size": 4901.0, "prompt": "person"}, {"id": 3, "centroid": [646, 347], "size": 94497.0, "prompt": "person"}, {"id": 2, "centroid": [644, 352], "size": 97724.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [582, 485], "size": 4900.0, "prompt": "person"}, {"id": 3, "centroid": [646, 347], "size": 94479.0, "prompt": "person"}, {"id": 2, "centroid": [643, 351], "size": 97565.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [584, 484], "size": 4859.0, "prompt": "person"}, {"id": 3, "centroid": [646, 347], "size": 94374.0, "prompt": "person"}, {"id": 2, "centroid": [643, 351], "size": 97345.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [590, 481], "size": 4514.0, "prompt": "person"}, {"id": 3, "centroid": [645, 347], "size": 94617.0, "prompt": "person"}, {"id": 2, "centroid": [643, 351], "size": 97129.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [600, 476], "size": 3899.0, "prompt": "person"}, {"id": 3, "centroid": [644, 348], "size": 95145.0, "prompt": "person"}, {"id": 2, "centroid": [643, 351], "size": 97101.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [617, 466], "size": 3178.0, "prompt": "person"}, {"id": 3, "centroid": [643, 349], "size": 95971.0, "prompt": "person"}, {"id": 2, "centroid": [643, 351], "size": 97206.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [619, 465], "size": 3134.0, "prompt": "person"}, {"id": 3, "centroid": [643, 350], "size": 96089.0, "prompt": "person"}, {"id": 2, "centroid": [643, 351], "size": 97216.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [618, 465], "size": 3167.0, "prompt": "person"}, {"id": 3, "centroid": [643, 350], "size": 95951.0, "prompt": "person"}, {"id": 2, "centroid": [643, 351], "size": 97024.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [618, 465], "size": 3268.0, "prompt": "person"}, {"id": 3, "centroid": [643, 349], "size": 95804.0, "prompt": "person"}, {"id": 2, "centroid": [643, 351], "size": 96872.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [616, 466], "size": 3419.0, "prompt": "person"}, {"id": 3, "centroid": [643, 350], "size": 95900.0, "prompt": "person"}, {"id": 2, "centroid": [643, 351], "size": 97000.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [615, 466], "size": 3447.0, "prompt": "person"}, {"id": 3, "centroid": [643, 350], "size": 95837.0, "prompt": "person"}, {"id": 2, "centroid": [643, 351], "size": 96931.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [614, 467], "size": 3428.0, "prompt": "person"}, {"id": 3, "centroid": [644, 350], "size": 95795.0, "prompt": "person"}, {"id": 2, "centroid": [644, 351], "size": 96865.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [614, 467], "size": 3451.0, "prompt": "person"}, {"id": 3, "centroid": [644, 350], "size": 95737.0, "prompt": "person"}, {"id": 2, "centroid": [644, 351], "size": 96800.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [615, 467], "size": 3370.0, "prompt": "person"}, {"id": 3, "centroid": [644, 350], "size": 95863.0, "prompt": "person"}, {"id": 2, "centroid": [644, 351], "size": 96803.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [614, 467], "size": 3359.0, "prompt": "person"}, {"id": 3, "centroid": [645, 350], "size": 95778.0, "prompt": "person"}, {"id": 2, "centroid": [645, 351], "size": 96659.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [614, 468], "size": 3268.0, "prompt": "person"}, {"id": 3, "centroid": [645, 351], "size": 95791.0, "prompt": "person"}, {"id": 2, "centroid": [645, 352], "size": 96584.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [615, 468], "size": 3212.0, "prompt": "person"}, {"id": 3, "centroid": [646, 351], "size": 95494.0, "prompt": "person"}, {"id": 2, "centroid": [646, 352], "size": 96297.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [617, 468], "size": 3303.0, "prompt": "person"}, {"id": 3, "centroid": [647, 350], "size": 94852.0, "prompt": "person"}, {"id": 2, "centroid": [647, 352], "size": 95960.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [617, 468], "size": 3171.0, "prompt": "person"}, {"id": 3, "centroid": [648, 351], "size": 94882.0, "prompt": "person"}, {"id": 2, "centroid": [647, 352], "size": 95874.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [616, 468], "size": 3122.0, "prompt": "person"}, {"id": 3, "centroid": [647, 351], "size": 95157.0, "prompt": "person"}, {"id": 2, "centroid": [647, 352], "size": 95990.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [617, 468], "size": 3095.0, "prompt": "person"}, {"id": 3, "centroid": [647, 351], "size": 95299.0, "prompt": "person"}, {"id": 2, "centroid": [647, 352], "size": 96065.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [616, 468], "size": 3025.0, "prompt": "person"}, {"id": 3, "centroid": [648, 351], "size": 95520.0, "prompt": "person"}, {"id": 2, "centroid": [648, 352], "size": 96238.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [617, 467], "size": 3101.0, "prompt": "person"}, {"id": 3, "centroid": [648, 350], "size": 95713.0, "prompt": "person"}, {"id": 2, "centroid": [648, 351], "size": 96466.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [617, 467], "size": 3159.0, "prompt": "person"}, {"id": 3, "centroid": [649, 348], "size": 94999.0, "prompt": "person"}, {"id": 2, "centroid": [650, 349], "size": 95768.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [618, 467], "size": 3163.0, "prompt": "person"}, {"id": 3, "centroid": [650, 347], "size": 94719.0, "prompt": "person"}, {"id": 2, "centroid": [650, 348], "size": 95679.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [619, 467], "size": 3159.0, "prompt": "person"}, {"id": 3, "centroid": [650, 347], "size": 94813.0, "prompt": "person"}, {"id": 2, "centroid": [650, 349], "size": 95765.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [720, 523], "size": 11280.0, "prompt": "person"}, {"id": 3, "centroid": [740, 358], "size": 181608.0, "prompt": "person"}, {"id": 2, "centroid": [740, 359], "size": 182454.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [721, 525], "size": 11665.0, "prompt": "person"}, {"id": 3, "centroid": [739, 360], "size": 181422.0, "prompt": "person"}, {"id": 2, "centroid": [739, 361], "size": 182092.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [729, 527], "size": 13400.0, "prompt": "person"}, {"id": 3, "centroid": [739, 362], "size": 181209.0, "prompt": "person"}, {"id": 2, "centroid": [740, 365], "size": 180895.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [730, 532], "size": 13702.0, "prompt": "person"}, {"id": 3, "centroid": [739, 366], "size": 181563.0, "prompt": "person"}, {"id": 2, "centroid": [738, 370], "size": 181285.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [732, 536], "size": 14873.0, "prompt": "person"}, {"id": 3, "centroid": [729, 376], "size": 186173.0, "prompt": "person"}, {"id": 2, "centroid": [737, 374], "size": 181545.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [737, 539], "size": 16122.0, "prompt": "person"}, {"id": 3, "centroid": [734, 378], "size": 182308.0, "prompt": "person"}, {"id": 2, "centroid": [736, 378], "size": 181526.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [738, 542], "size": 16318.0, "prompt": "person"}, {"id": 3, "centroid": [735, 381], "size": 181310.0, "prompt": "person"}, {"id": 2, "centroid": [735, 382], "size": 180556.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [738, 545], "size": 16500.0, "prompt": "person"}, {"id": 3, "centroid": [734, 386], "size": 180991.0, "prompt": "person"}, {"id": 2, "centroid": [735, 386], "size": 180399.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [739, 548], "size": 16570.0, "prompt": "person"}, {"id": 3, "centroid": [735, 387], "size": 179568.0, "prompt": "person"}, {"id": 2, "centroid": [736, 388], "size": 179209.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [738, 551], "size": 16254.0, "prompt": "person"}, {"id": 3, "centroid": [736, 390], "size": 179106.0, "prompt": "person"}, {"id": 2, "centroid": [736, 391], "size": 178764.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [736, 553], "size": 16023.0, "prompt": "person"}, {"id": 3, "centroid": [737, 391], "size": 178724.0, "prompt": "person"}, {"id": 2, "centroid": [736, 392], "size": 178696.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [734, 555], "size": 16234.0, "prompt": "person"}, {"id": 3, "centroid": [736, 394], "size": 178966.0, "prompt": "person"}, {"id": 2, "centroid": [735, 395], "size": 179174.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [735, 557], "size": 16287.0, "prompt": "person"}, {"id": 3, "centroid": [736, 395], "size": 178496.0, "prompt": "person"}, {"id": 2, "centroid": [736, 396], "size": 178640.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [734, 559], "size": 16511.0, "prompt": "person"}, {"id": 3, "centroid": [737, 396], "size": 177883.0, "prompt": "person"}, {"id": 2, "centroid": [737, 397], "size": 177729.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [737, 560], "size": 16326.0, "prompt": "person"}, {"id": 3, "centroid": [739, 396], "size": 177184.0, "prompt": "person"}, {"id": 2, "centroid": [738, 397], "size": 176817.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [737, 561], "size": 16135.0, "prompt": "person"}, {"id": 3, "centroid": [740, 396], "size": 176809.0, "prompt": "person"}, {"id": 2, "centroid": [739, 397], "size": 176344.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [738, 561], "size": 16103.0, "prompt": "person"}, {"id": 3, "centroid": [739, 397], "size": 176863.0, "prompt": "person"}, {"id": 2, "centroid": [738, 398], "size": 176444.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [738, 561], "size": 16157.0, "prompt": "person"}, {"id": 3, "centroid": [739, 397], "size": 176780.0, "prompt": "person"}, {"id": 2, "centroid": [738, 398], "size": 176553.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [736, 561], "size": 15461.0, "prompt": "person"}, {"id": 3, "centroid": [739, 397], "size": 177067.0, "prompt": "person"}, {"id": 2, "centroid": [737, 398], "size": 177001.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [734, 562], "size": 15200.0, "prompt": "person"}, {"id": 3, "centroid": [738, 398], "size": 177081.0, "prompt": "person"}, {"id": 4, "centroid": [251, 608], "size": 5120.0, "prompt": "person"}, {"id": 2, "centroid": [738, 399], "size": 176541.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [733, 563], "size": 15030.0, "prompt": "person"}, {"id": 3, "centroid": [738, 398], "size": 177351.0, "prompt": "person"}, {"id": 4, "centroid": [243, 608], "size": 5474.0, "prompt": "person"}, {"id": 2, "centroid": [737, 399], "size": 176892.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [731, 562], "size": 14759.0, "prompt": "person"}, {"id": 3, "centroid": [738, 398], "size": 177757.0, "prompt": "person"}, {"id": 4, "centroid": [237, 604], "size": 5615.0, "prompt": "person"}, {"id": 2, "centroid": [737, 399], "size": 177235.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [730, 562], "size": 14630.0, "prompt": "person"}, {"id": 3, "centroid": [737, 398], "size": 177977.0, "prompt": "person"}, {"id": 4, "centroid": [230, 600], "size": 5513.0, "prompt": "person"}, {"id": 2, "centroid": [736, 399], "size": 177838.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [731, 561], "size": 14836.0, "prompt": "person"}, {"id": 3, "centroid": [737, 398], "size": 178039.0, "prompt": "person"}, {"id": 4, "centroid": [224, 599], "size": 5606.0, "prompt": "person"}, {"id": 2, "centroid": [734, 398], "size": 176999.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [732, 562], "size": 15365.0, "prompt": "person"}, {"id": 3, "centroid": [735, 397], "size": 176918.0, "prompt": "person"}, {"id": 4, "centroid": [218, 598], "size": 5896.0, "prompt": "person"}, {"id": 2, "centroid": [733, 398], "size": 176543.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [731, 562], "size": 15209.0, "prompt": "person"}, {"id": 3, "centroid": [734, 397], "size": 176656.0, "prompt": "person"}, {"id": 4, "centroid": [212, 595], "size": 6113.0, "prompt": "person"}, {"id": 2, "centroid": [732, 398], "size": 176540.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [730, 562], "size": 15246.0, "prompt": "person"}, {"id": 3, "centroid": [732, 397], "size": 176882.0, "prompt": "person"}, {"id": 4, "centroid": [207, 594], "size": 6288.0, "prompt": "person"}, {"id": 2, "centroid": [731, 398], "size": 176439.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [729, 562], "size": 15273.0, "prompt": "person"}, {"id": 3, "centroid": [731, 398], "size": 176787.0, "prompt": "person"}, {"id": 4, "centroid": [201, 593], "size": 6401.0, "prompt": "person"}, {"id": 2, "centroid": [730, 398], "size": 176200.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [728, 562], "size": 15331.0, "prompt": "person"}, {"id": 3, "centroid": [730, 398], "size": 176413.0, "prompt": "person"}, {"id": 4, "centroid": [194, 590], "size": 6253.0, "prompt": "person"}, {"id": 2, "centroid": [729, 399], "size": 175690.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [726, 563], "size": 15353.0, "prompt": "person"}, {"id": 3, "centroid": [729, 398], "size": 176223.0, "prompt": "person"}, {"id": 4, "centroid": [187, 589], "size": 6367.0, "prompt": "person"}, {"id": 2, "centroid": [728, 399], "size": 175515.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [723, 563], "size": 15370.0, "prompt": "person"}, {"id": 3, "centroid": [728, 399], "size": 176116.0, "prompt": "person"}, {"id": 4, "centroid": [180, 588], "size": 6287.0, "prompt": "person"}, {"id": 2, "centroid": [728, 399], "size": 175120.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [722, 563], "size": 15381.0, "prompt": "person"}, {"id": 3, "centroid": [726, 399], "size": 176895.0, "prompt": "person"}, {"id": 4, "centroid": [174, 584], "size": 5895.0, "prompt": "person"}, {"id": 2, "centroid": [726, 399], "size": 175378.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [720, 563], "size": 15454.0, "prompt": "person"}, {"id": 3, "centroid": [723, 399], "size": 177609.0, "prompt": "person"}, {"id": 4, "centroid": [167, 583], "size": 5941.0, "prompt": "person"}, {"id": 2, "centroid": [726, 399], "size": 175076.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [718, 563], "size": 15429.0, "prompt": "person"}, {"id": 3, "centroid": [721, 399], "size": 178030.0, "prompt": "person"}, {"id": 4, "centroid": [161, 581], "size": 6017.0, "prompt": "person"}, {"id": 2, "centroid": [721, 401], "size": 176653.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [717, 563], "size": 15491.0, "prompt": "person"}, {"id": 3, "centroid": [722, 399], "size": 176878.0, "prompt": "person"}, {"id": 4, "centroid": [155, 579], "size": 5869.0, "prompt": "person"}, {"id": 2, "centroid": [714, 402], "size": 178187.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [716, 563], "size": 15435.0, "prompt": "person"}, {"id": 3, "centroid": [721, 399], "size": 176202.0, "prompt": "person"}, {"id": 4, "centroid": [150, 577], "size": 5761.0, "prompt": "person"}, {"id": 2, "centroid": [711, 403], "size": 178393.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [715, 563], "size": 15368.0, "prompt": "person"}, {"id": 3, "centroid": [719, 399], "size": 176632.0, "prompt": "person"}, {"id": 4, "centroid": [144, 578], "size": 6056.0, "prompt": "person"}, {"id": 2, "centroid": [709, 403], "size": 178515.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [714, 563], "size": 15351.0, "prompt": "person"}, {"id": 3, "centroid": [717, 399], "size": 176587.0, "prompt": "person"}, {"id": 4, "centroid": [138, 579], "size": 6025.0, "prompt": "person"}, {"id": 2, "centroid": [708, 403], "size": 177911.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [713, 563], "size": 15306.0, "prompt": "person"}, {"id": 3, "centroid": [711, 400], "size": 178906.0, "prompt": "person"}, {"id": 4, "centroid": [134, 577], "size": 5690.0, "prompt": "person"}, {"id": 2, "centroid": [707, 403], "size": 177680.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [712, 563], "size": 15327.0, "prompt": "person"}, {"id": 3, "centroid": [710, 400], "size": 179266.0, "prompt": "person"}, {"id": 4, "centroid": [129, 576], "size": 5970.0, "prompt": "person"}, {"id": 2, "centroid": [707, 403], "size": 177479.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [712, 563], "size": 15256.0, "prompt": "person"}, {"id": 3, "centroid": [711, 400], "size": 178391.0, "prompt": "person"}, {"id": 4, "centroid": [126, 574], "size": 5942.0, "prompt": "person"}, {"id": 2, "centroid": [706, 403], "size": 177344.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [711, 563], "size": 15235.0, "prompt": "person"}, {"id": 3, "centroid": [711, 400], "size": 177826.0, "prompt": "person"}, {"id": 4, "centroid": [121, 573], "size": 5638.0, "prompt": "person"}, {"id": 2, "centroid": [708, 404], "size": 176319.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [710, 563], "size": 15236.0, "prompt": "person"}, {"id": 3, "centroid": [712, 400], "size": 176777.0, "prompt": "person"}, {"id": 4, "centroid": [114, 574], "size": 6107.0, "prompt": "person"}, {"id": 2, "centroid": [708, 403], "size": 175946.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [709, 563], "size": 15272.0, "prompt": "person"}, {"id": 3, "centroid": [713, 399], "size": 175869.0, "prompt": "person"}, {"id": 4, "centroid": [109, 572], "size": 6197.0, "prompt": "person"}, {"id": 2, "centroid": [707, 403], "size": 175860.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [709, 563], "size": 15344.0, "prompt": "person"}, {"id": 3, "centroid": [714, 399], "size": 175296.0, "prompt": "person"}, {"id": 4, "centroid": [104, 573], "size": 6163.0, "prompt": "person"}, {"id": 2, "centroid": [709, 402], "size": 175289.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [709, 562], "size": 15422.0, "prompt": "person"}, {"id": 3, "centroid": [712, 399], "size": 175648.0, "prompt": "person"}, {"id": 4, "centroid": [98, 572], "size": 6199.0, "prompt": "person"}, {"id": 2, "centroid": [709, 402], "size": 174405.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [708, 562], "size": 15408.0, "prompt": "person"}, {"id": 3, "centroid": [710, 399], "size": 176190.0, "prompt": "person"}, {"id": 4, "centroid": [93, 569], "size": 5813.0, "prompt": "person"}, {"id": 2, "centroid": [709, 401], "size": 173951.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [706, 562], "size": 15420.0, "prompt": "person"}, {"id": 3, "centroid": [708, 399], "size": 176465.0, "prompt": "person"}, {"id": 4, "centroid": [88, 568], "size": 5701.0, "prompt": "person"}, {"id": 2, "centroid": [708, 401], "size": 174094.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [704, 562], "size": 15375.0, "prompt": "person"}, {"id": 3, "centroid": [707, 399], "size": 176721.0, "prompt": "person"}, {"id": 4, "centroid": [82, 567], "size": 5751.0, "prompt": "person"}, {"id": 2, "centroid": [708, 400], "size": 173788.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [703, 562], "size": 15355.0, "prompt": "person"}, {"id": 3, "centroid": [706, 399], "size": 176730.0, "prompt": "person"}, {"id": 4, "centroid": [78, 566], "size": 6042.0, "prompt": "person"}, {"id": 2, "centroid": [709, 400], "size": 173164.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [700, 562], "size": 15413.0, "prompt": "person"}, {"id": 3, "centroid": [704, 399], "size": 176935.0, "prompt": "person"}, {"id": 4, "centroid": [70, 565], "size": 6339.0, "prompt": "person"}, {"id": 2, "centroid": [707, 400], "size": 173395.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [700, 562], "size": 15440.0, "prompt": "person"}, {"id": 3, "centroid": [704, 399], "size": 177053.0, "prompt": "person"}, {"id": 4, "centroid": [65, 563], "size": 5909.0, "prompt": "person"}, {"id": 2, "centroid": [707, 399], "size": 173442.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [699, 562], "size": 15455.0, "prompt": "person"}, {"id": 3, "centroid": [703, 400], "size": 176791.0, "prompt": "person"}, {"id": 4, "centroid": [59, 563], "size": 5926.0, "prompt": "person"}, {"id": 2, "centroid": [708, 400], "size": 172918.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [699, 562], "size": 15496.0, "prompt": "person"}, {"id": 3, "centroid": [703, 400], "size": 176709.0, "prompt": "person"}, {"id": 4, "centroid": [54, 560], "size": 5857.0, "prompt": "person"}, {"id": 2, "centroid": [709, 400], "size": 172605.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [699, 562], "size": 15471.0, "prompt": "person"}, {"id": 3, "centroid": [702, 400], "size": 176638.0, "prompt": "person"}, {"id": 4, "centroid": [49, 558], "size": 5525.0, "prompt": "person"}, {"id": 2, "centroid": [708, 399], "size": 172487.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [698, 562], "size": 15452.0, "prompt": "person"}, {"id": 3, "centroid": [703, 400], "size": 175945.0, "prompt": "person"}, {"id": 4, "centroid": [45, 558], "size": 5378.0, "prompt": "person"}, {"id": 2, "centroid": [707, 399], "size": 172224.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [697, 562], "size": 15455.0, "prompt": "person"}, {"id": 3, "centroid": [703, 400], "size": 175073.0, "prompt": "person"}, {"id": 4, "centroid": [41, 557], "size": 5571.0, "prompt": "person"}, {"id": 2, "centroid": [707, 400], "size": 172175.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [696, 563], "size": 15413.0, "prompt": "person"}, {"id": 3, "centroid": [705, 400], "size": 173739.0, "prompt": "person"}, {"id": 4, "centroid": [36, 557], "size": 5797.0, "prompt": "person"}, {"id": 2, "centroid": [706, 400], "size": 171613.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [696, 563], "size": 15396.0, "prompt": "person"}, {"id": 3, "centroid": [705, 400], "size": 173104.0, "prompt": "person"}, {"id": 4, "centroid": [33, 556], "size": 5556.0, "prompt": "person"}, {"id": 2, "centroid": [706, 400], "size": 171392.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [695, 563], "size": 15387.0, "prompt": "person"}, {"id": 3, "centroid": [705, 400], "size": 172426.0, "prompt": "person"}, {"id": 4, "centroid": [29, 556], "size": 5415.0, "prompt": "person"}, {"id": 2, "centroid": [705, 401], "size": 171240.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [694, 563], "size": 15334.0, "prompt": "person"}, {"id": 3, "centroid": [705, 400], "size": 172100.0, "prompt": "person"}, {"id": 4, "centroid": [25, 558], "size": 5395.0, "prompt": "person"}, {"id": 2, "centroid": [704, 401], "size": 170923.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [693, 564], "size": 15325.0, "prompt": "person"}, {"id": 3, "centroid": [704, 400], "size": 172124.0, "prompt": "person"}, {"id": 4, "centroid": [22, 555], "size": 5008.0, "prompt": "person"}, {"id": 2, "centroid": [703, 401], "size": 170856.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [693, 564], "size": 15385.0, "prompt": "person"}, {"id": 3, "centroid": [704, 401], "size": 172033.0, "prompt": "person"}, {"id": 4, "centroid": [20, 554], "size": 4691.0, "prompt": "person"}, {"id": 2, "centroid": [702, 401], "size": 170818.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [693, 564], "size": 15421.0, "prompt": "person"}, {"id": 3, "centroid": [703, 401], "size": 172004.0, "prompt": "person"}, {"id": 4, "centroid": [16, 552], "size": 4017.0, "prompt": "person"}, {"id": 2, "centroid": [702, 401], "size": 170846.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [692, 564], "size": 15411.0, "prompt": "person"}, {"id": 3, "centroid": [702, 401], "size": 172139.0, "prompt": "person"}, {"id": 4, "centroid": [12, 550], "size": 3001.0, "prompt": "person"}, {"id": 2, "centroid": [701, 402], "size": 171130.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [691, 564], "size": 15370.0, "prompt": "person"}, {"id": 3, "centroid": [701, 401], "size": 172125.0, "prompt": "person"}, {"id": 4, "centroid": [10, 550], "size": 2480.0, "prompt": "person"}, {"id": 2, "centroid": [700, 402], "size": 171145.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [690, 564], "size": 15396.0, "prompt": "person"}, {"id": 3, "centroid": [700, 401], "size": 172449.0, "prompt": "person"}, {"id": 4, "centroid": [7, 545], "size": 1557.0, "prompt": "person"}, {"id": 2, "centroid": [699, 402], "size": 171285.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [689, 564], "size": 15349.0, "prompt": "person"}, {"id": 3, "centroid": [699, 401], "size": 172731.0, "prompt": "person"}, {"id": 4, "centroid": [6, 549], "size": 1156.0, "prompt": "person"}, {"id": 2, "centroid": [698, 402], "size": 171990.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [689, 564], "size": 15358.0, "prompt": "person"}, {"id": 3, "centroid": [698, 401], "size": 172983.0, "prompt": "person"}, {"id": 4, "centroid": [4, 552], "size": 796.0, "prompt": "person"}, {"id": 2, "centroid": [697, 402], "size": 172301.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [688, 565], "size": 15375.0, "prompt": "person"}, {"id": 3, "centroid": [697, 402], "size": 172989.0, "prompt": "person"}, {"id": 4, "centroid": [1, 535], "size": 180.0, "prompt": "person"}, {"id": 2, "centroid": [695, 403], "size": 172332.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [688, 566], "size": 15248.0, "prompt": "person"}, {"id": 3, "centroid": [696, 403], "size": 173135.0, "prompt": "person"}, {"id": 4, "centroid": [0, 539], "size": 13.0, "prompt": "person"}, {"id": 2, "centroid": [695, 404], "size": 172283.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [687, 566], "size": 15160.0, "prompt": "person"}, {"id": 3, "centroid": [694, 403], "size": 173531.0, "prompt": "person"}, {"id": 2, "centroid": [694, 404], "size": 172300.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [687, 566], "size": 15114.0, "prompt": "person"}, {"id": 3, "centroid": [694, 403], "size": 173758.0, "prompt": "person"}, {"id": 2, "centroid": [695, 404], "size": 172061.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [686, 566], "size": 15147.0, "prompt": "person"}, {"id": 3, "centroid": [690, 404], "size": 175322.0, "prompt": "person"}, {"id": 2, "centroid": [695, 404], "size": 171226.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [686, 566], "size": 15204.0, "prompt": "person"}, {"id": 3, "centroid": [689, 404], "size": 175847.0, "prompt": "person"}, {"id": 2, "centroid": [697, 405], "size": 169675.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [686, 566], "size": 15223.0, "prompt": "person"}, {"id": 3, "centroid": [686, 404], "size": 176925.0, "prompt": "person"}, {"id": 2, "centroid": [696, 405], "size": 169682.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [686, 566], "size": 15248.0, "prompt": "person"}, {"id": 3, "centroid": [684, 404], "size": 177743.0, "prompt": "person"}, {"id": 2, "centroid": [693, 406], "size": 170489.0, "prompt": "vehicle"}], [{"id": 1, "centroid": [685, 566], "size": 15251.0, "prompt": "person"}, {"id": 3, "centroid": [683, 404], "size": 178459.0, "prompt": "person"}, {"id": 2, "centroid": [692, 406], "size": 170845.0, "prompt": "vehicle"}], []]
+[
+  [
+    { "id": 1, "centroid": [782, 431], "size": 1192.0, "prompt": "person" },
+    { "id": 3, "centroid": [772, 353], "size": 54314.0, "prompt": "person" },
+    { "id": 1, "centroid": [673, 361], "size": 18.0, "prompt": "vehicle" },
+    { "id": 2, "centroid": [772, 354], "size": 55045.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [778, 439], "size": 1205.0, "prompt": "person" },
+    { "id": 3, "centroid": [774, 351], "size": 55156.0, "prompt": "person" },
+    { "id": 2, "centroid": [774, 352], "size": 55736.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [787, 436], "size": 1429.0, "prompt": "person" },
+    { "id": 3, "centroid": [776, 349], "size": 55275.0, "prompt": "person" },
+    { "id": 2, "centroid": [776, 350], "size": 55877.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [791, 434], "size": 1764.0, "prompt": "person" },
+    { "id": 3, "centroid": [779, 347], "size": 55176.0, "prompt": "person" },
+    { "id": 2, "centroid": [780, 348], "size": 55939.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [789, 434], "size": 1912.0, "prompt": "person" },
+    { "id": 3, "centroid": [784, 345], "size": 55297.0, "prompt": "person" },
+    { "id": 2, "centroid": [784, 346], "size": 56152.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [787, 433], "size": 1844.0, "prompt": "person" },
+    { "id": 3, "centroid": [790, 343], "size": 55563.0, "prompt": "person" },
+    { "id": 2, "centroid": [789, 344], "size": 56355.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [788, 433], "size": 1875.0, "prompt": "person" },
+    { "id": 3, "centroid": [795, 341], "size": 56105.0, "prompt": "person" },
+    { "id": 2, "centroid": [795, 342], "size": 56753.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [805, 428], "size": 1843.0, "prompt": "person" },
+    { "id": 3, "centroid": [801, 338], "size": 56076.0, "prompt": "person" },
+    { "id": 2, "centroid": [801, 339], "size": 56746.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [816, 424], "size": 1748.0, "prompt": "person" },
+    { "id": 3, "centroid": [807, 336], "size": 56292.0, "prompt": "person" },
+    { "id": 2, "centroid": [807, 337], "size": 56900.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [818, 423], "size": 1721.0, "prompt": "person" },
+    { "id": 3, "centroid": [815, 334], "size": 56430.0, "prompt": "person" },
+    { "id": 2, "centroid": [815, 334], "size": 57006.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [832, 419], "size": 1754.0, "prompt": "person" },
+    { "id": 3, "centroid": [822, 332], "size": 56217.0, "prompt": "person" },
+    { "id": 2, "centroid": [822, 332], "size": 56720.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [844, 417], "size": 1703.0, "prompt": "person" },
+    { "id": 3, "centroid": [830, 330], "size": 56411.0, "prompt": "person" },
+    { "id": 2, "centroid": [830, 331], "size": 57054.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [842, 415], "size": 1834.0, "prompt": "person" },
+    { "id": 3, "centroid": [837, 328], "size": 56402.0, "prompt": "person" },
+    { "id": 2, "centroid": [837, 329], "size": 57085.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [853, 413], "size": 1784.0, "prompt": "person" },
+    { "id": 3, "centroid": [844, 326], "size": 56313.0, "prompt": "person" },
+    { "id": 2, "centroid": [844, 327], "size": 56967.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [853, 413], "size": 1680.0, "prompt": "person" },
+    { "id": 3, "centroid": [851, 325], "size": 56344.0, "prompt": "person" },
+    { "id": 2, "centroid": [851, 325], "size": 56855.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [849, 411], "size": 1722.0, "prompt": "person" },
+    { "id": 3, "centroid": [857, 323], "size": 55816.0, "prompt": "person" },
+    { "id": 2, "centroid": [857, 323], "size": 56270.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [841, 412], "size": 1752.0, "prompt": "person" },
+    { "id": 3, "centroid": [863, 321], "size": 55366.0, "prompt": "person" },
+    { "id": 2, "centroid": [863, 322], "size": 55866.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [843, 410], "size": 1792.0, "prompt": "person" },
+    { "id": 3, "centroid": [866, 320], "size": 55359.0, "prompt": "person" },
+    { "id": 2, "centroid": [866, 320], "size": 55739.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [844, 408], "size": 1686.0, "prompt": "person" },
+    { "id": 3, "centroid": [869, 317], "size": 55242.0, "prompt": "person" },
+    { "id": 2, "centroid": [869, 318], "size": 55581.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [846, 406], "size": 1663.0, "prompt": "person" },
+    { "id": 3, "centroid": [870, 316], "size": 55055.0, "prompt": "person" },
+    { "id": 2, "centroid": [870, 316], "size": 55346.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [847, 404], "size": 1576.0, "prompt": "person" },
+    { "id": 3, "centroid": [870, 314], "size": 55010.0, "prompt": "person" },
+    { "id": 2, "centroid": [870, 314], "size": 55327.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [843, 402], "size": 1571.0, "prompt": "person" },
+    { "id": 3, "centroid": [869, 312], "size": 54865.0, "prompt": "person" },
+    { "id": 2, "centroid": [869, 313], "size": 55192.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [835, 403], "size": 1824.0, "prompt": "person" },
+    { "id": 3, "centroid": [867, 311], "size": 54846.0, "prompt": "person" },
+    { "id": 2, "centroid": [867, 311], "size": 55265.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [833, 401], "size": 1985.0, "prompt": "person" },
+    { "id": 3, "centroid": [866, 309], "size": 54941.0, "prompt": "person" },
+    { "id": 2, "centroid": [865, 309], "size": 55480.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [832, 399], "size": 1969.0, "prompt": "person" },
+    { "id": 3, "centroid": [864, 307], "size": 55189.0, "prompt": "person" },
+    { "id": 2, "centroid": [863, 308], "size": 55754.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [829, 397], "size": 1829.0, "prompt": "person" },
+    { "id": 3, "centroid": [861, 305], "size": 55244.0, "prompt": "person" },
+    { "id": 2, "centroid": [861, 306], "size": 55849.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [829, 395], "size": 1775.0, "prompt": "person" },
+    { "id": 3, "centroid": [858, 304], "size": 55642.0, "prompt": "person" },
+    { "id": 2, "centroid": [858, 305], "size": 56253.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [829, 394], "size": 1703.0, "prompt": "person" },
+    { "id": 3, "centroid": [855, 303], "size": 55796.0, "prompt": "person" },
+    { "id": 2, "centroid": [855, 304], "size": 56466.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [828, 394], "size": 1628.0, "prompt": "person" },
+    { "id": 3, "centroid": [852, 303], "size": 55865.0, "prompt": "person" },
+    { "id": 2, "centroid": [852, 304], "size": 56477.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [834, 392], "size": 1426.0, "prompt": "person" },
+    { "id": 3, "centroid": [849, 302], "size": 55824.0, "prompt": "person" },
+    { "id": 2, "centroid": [849, 303], "size": 56407.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [831, 392], "size": 1370.0, "prompt": "person" },
+    { "id": 3, "centroid": [846, 303], "size": 55914.0, "prompt": "person" },
+    { "id": 2, "centroid": [846, 304], "size": 56413.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [820, 393], "size": 1362.0, "prompt": "person" },
+    { "id": 3, "centroid": [843, 303], "size": 55921.0, "prompt": "person" },
+    { "id": 2, "centroid": [843, 304], "size": 56486.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [818, 393], "size": 1380.0, "prompt": "person" },
+    { "id": 3, "centroid": [840, 304], "size": 55877.0, "prompt": "person" },
+    { "id": 2, "centroid": [840, 304], "size": 56474.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [818, 392], "size": 1371.0, "prompt": "person" },
+    { "id": 3, "centroid": [837, 304], "size": 55930.0, "prompt": "person" },
+    { "id": 2, "centroid": [837, 305], "size": 56502.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [817, 393], "size": 1406.0, "prompt": "person" },
+    { "id": 3, "centroid": [835, 304], "size": 55804.0, "prompt": "person" },
+    { "id": 2, "centroid": [835, 305], "size": 56316.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [817, 393], "size": 1415.0, "prompt": "person" },
+    { "id": 3, "centroid": [832, 305], "size": 55675.0, "prompt": "person" },
+    { "id": 2, "centroid": [832, 306], "size": 56153.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [818, 393], "size": 1509.0, "prompt": "person" },
+    { "id": 3, "centroid": [829, 306], "size": 55477.0, "prompt": "person" },
+    { "id": 2, "centroid": [829, 307], "size": 56013.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [812, 394], "size": 1513.0, "prompt": "person" },
+    { "id": 3, "centroid": [826, 307], "size": 55367.0, "prompt": "person" },
+    { "id": 2, "centroid": [826, 308], "size": 55897.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [807, 395], "size": 1403.0, "prompt": "person" },
+    { "id": 3, "centroid": [824, 307], "size": 55269.0, "prompt": "person" },
+    { "id": 2, "centroid": [824, 308], "size": 55729.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [805, 395], "size": 1272.0, "prompt": "person" },
+    { "id": 3, "centroid": [821, 307], "size": 55206.0, "prompt": "person" },
+    { "id": 2, "centroid": [821, 308], "size": 55598.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [805, 394], "size": 1356.0, "prompt": "person" },
+    { "id": 3, "centroid": [818, 307], "size": 55041.0, "prompt": "person" },
+    { "id": 2, "centroid": [818, 308], "size": 55461.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [801, 394], "size": 1412.0, "prompt": "person" },
+    { "id": 3, "centroid": [816, 307], "size": 55055.0, "prompt": "person" },
+    { "id": 2, "centroid": [816, 308], "size": 55486.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [802, 394], "size": 1400.0, "prompt": "person" },
+    { "id": 3, "centroid": [814, 307], "size": 54986.0, "prompt": "person" },
+    { "id": 2, "centroid": [814, 308], "size": 55407.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [805, 393], "size": 1395.0, "prompt": "person" },
+    { "id": 3, "centroid": [811, 307], "size": 54978.0, "prompt": "person" },
+    { "id": 2, "centroid": [811, 308], "size": 55488.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [805, 393], "size": 1517.0, "prompt": "person" },
+    { "id": 3, "centroid": [809, 307], "size": 54890.0, "prompt": "person" },
+    { "id": 2, "centroid": [809, 308], "size": 55474.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [799, 394], "size": 1532.0, "prompt": "person" },
+    { "id": 3, "centroid": [807, 307], "size": 54884.0, "prompt": "person" },
+    { "id": 2, "centroid": [807, 308], "size": 55515.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [796, 394], "size": 1490.0, "prompt": "person" },
+    { "id": 3, "centroid": [806, 307], "size": 54780.0, "prompt": "person" },
+    { "id": 2, "centroid": [806, 307], "size": 55359.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [789, 394], "size": 1507.0, "prompt": "person" },
+    { "id": 3, "centroid": [804, 306], "size": 54719.0, "prompt": "person" },
+    { "id": 2, "centroid": [804, 307], "size": 55301.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [786, 394], "size": 1538.0, "prompt": "person" },
+    { "id": 3, "centroid": [802, 306], "size": 54707.0, "prompt": "person" },
+    { "id": 2, "centroid": [802, 307], "size": 55266.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [782, 395], "size": 1566.0, "prompt": "person" },
+    { "id": 3, "centroid": [800, 306], "size": 54613.0, "prompt": "person" },
+    { "id": 2, "centroid": [800, 307], "size": 55193.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [784, 394], "size": 1562.0, "prompt": "person" },
+    { "id": 3, "centroid": [799, 307], "size": 54752.0, "prompt": "person" },
+    { "id": 2, "centroid": [799, 307], "size": 55289.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [791, 393], "size": 1523.0, "prompt": "person" },
+    { "id": 3, "centroid": [797, 307], "size": 54502.0, "prompt": "person" },
+    { "id": 2, "centroid": [797, 308], "size": 54982.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [788, 393], "size": 1565.0, "prompt": "person" },
+    { "id": 3, "centroid": [795, 307], "size": 54416.0, "prompt": "person" },
+    { "id": 2, "centroid": [795, 308], "size": 55004.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [784, 394], "size": 1521.0, "prompt": "person" },
+    { "id": 3, "centroid": [793, 308], "size": 54350.0, "prompt": "person" },
+    { "id": 2, "centroid": [793, 308], "size": 54965.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [701, 472], "size": 2933.0, "prompt": "person" },
+    { "id": 3, "centroid": [734, 352], "size": 91440.0, "prompt": "person" },
+    { "id": 2, "centroid": [733, 354], "size": 92630.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [697, 473], "size": 2771.0, "prompt": "person" },
+    { "id": 3, "centroid": [732, 353], "size": 91315.0, "prompt": "person" },
+    { "id": 2, "centroid": [731, 355], "size": 92450.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [697, 473], "size": 2780.0, "prompt": "person" },
+    { "id": 3, "centroid": [729, 353], "size": 91290.0, "prompt": "person" },
+    { "id": 2, "centroid": [728, 355], "size": 92381.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [695, 473], "size": 2886.0, "prompt": "person" },
+    { "id": 3, "centroid": [727, 353], "size": 91220.0, "prompt": "person" },
+    { "id": 2, "centroid": [726, 355], "size": 92401.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [695, 471], "size": 3054.0, "prompt": "person" },
+    { "id": 3, "centroid": [724, 353], "size": 91010.0, "prompt": "person" },
+    { "id": 2, "centroid": [724, 355], "size": 92328.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [693, 471], "size": 3131.0, "prompt": "person" },
+    { "id": 3, "centroid": [722, 353], "size": 90947.0, "prompt": "person" },
+    { "id": 2, "centroid": [721, 355], "size": 92324.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [693, 470], "size": 3264.0, "prompt": "person" },
+    { "id": 3, "centroid": [720, 353], "size": 90551.0, "prompt": "person" },
+    { "id": 2, "centroid": [719, 355], "size": 91970.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [691, 470], "size": 3315.0, "prompt": "person" },
+    { "id": 3, "centroid": [718, 353], "size": 90588.0, "prompt": "person" },
+    { "id": 2, "centroid": [718, 355], "size": 92124.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [686, 470], "size": 3362.0, "prompt": "person" },
+    { "id": 3, "centroid": [716, 353], "size": 90753.0, "prompt": "person" },
+    { "id": 2, "centroid": [715, 355], "size": 92380.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [682, 471], "size": 3222.0, "prompt": "person" },
+    { "id": 3, "centroid": [714, 353], "size": 90891.0, "prompt": "person" },
+    { "id": 2, "centroid": [713, 356], "size": 92543.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [678, 471], "size": 3320.0, "prompt": "person" },
+    { "id": 3, "centroid": [712, 353], "size": 90799.0, "prompt": "person" },
+    { "id": 2, "centroid": [711, 356], "size": 92675.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [676, 471], "size": 3578.0, "prompt": "person" },
+    { "id": 3, "centroid": [710, 353], "size": 90590.0, "prompt": "person" },
+    { "id": 2, "centroid": [709, 356], "size": 92679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [676, 470], "size": 3779.0, "prompt": "person" },
+    { "id": 3, "centroid": [708, 353], "size": 90622.0, "prompt": "person" },
+    { "id": 2, "centroid": [707, 356], "size": 92878.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [672, 472], "size": 3430.0, "prompt": "person" },
+    { "id": 3, "centroid": [706, 353], "size": 90947.0, "prompt": "person" },
+    { "id": 2, "centroid": [705, 356], "size": 92998.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [672, 472], "size": 3177.0, "prompt": "person" },
+    { "id": 3, "centroid": [704, 353], "size": 91080.0, "prompt": "person" },
+    { "id": 2, "centroid": [703, 355], "size": 92657.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [669, 474], "size": 3221.0, "prompt": "person" },
+    { "id": 3, "centroid": [701, 353], "size": 91416.0, "prompt": "person" },
+    { "id": 2, "centroid": [700, 356], "size": 93222.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [664, 475], "size": 2961.0, "prompt": "person" },
+    { "id": 3, "centroid": [699, 354], "size": 91793.0, "prompt": "person" },
+    { "id": 2, "centroid": [699, 356], "size": 93258.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [660, 477], "size": 2815.0, "prompt": "person" },
+    { "id": 3, "centroid": [697, 355], "size": 92210.0, "prompt": "person" },
+    { "id": 2, "centroid": [697, 357], "size": 93766.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [657, 477], "size": 2511.0, "prompt": "person" },
+    { "id": 3, "centroid": [696, 355], "size": 92283.0, "prompt": "person" },
+    { "id": 2, "centroid": [695, 357], "size": 93710.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [657, 477], "size": 2528.0, "prompt": "person" },
+    { "id": 3, "centroid": [694, 355], "size": 92165.0, "prompt": "person" },
+    { "id": 2, "centroid": [693, 357], "size": 93622.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [657, 477], "size": 3005.0, "prompt": "person" },
+    { "id": 3, "centroid": [691, 356], "size": 92637.0, "prompt": "person" },
+    { "id": 2, "centroid": [691, 358], "size": 93898.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [657, 478], "size": 3109.0, "prompt": "person" },
+    { "id": 3, "centroid": [689, 357], "size": 93592.0, "prompt": "person" },
+    { "id": 2, "centroid": [689, 359], "size": 94861.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [654, 478], "size": 3061.0, "prompt": "person" },
+    { "id": 3, "centroid": [687, 358], "size": 93805.0, "prompt": "person" },
+    { "id": 2, "centroid": [687, 360], "size": 95038.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [648, 478], "size": 2916.0, "prompt": "person" },
+    { "id": 3, "centroid": [685, 358], "size": 93816.0, "prompt": "person" },
+    { "id": 2, "centroid": [684, 360], "size": 95462.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [647, 478], "size": 2958.0, "prompt": "person" },
+    { "id": 3, "centroid": [683, 358], "size": 93743.0, "prompt": "person" },
+    { "id": 2, "centroid": [682, 360], "size": 95574.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [645, 477], "size": 2784.0, "prompt": "person" },
+    { "id": 3, "centroid": [680, 357], "size": 94210.0, "prompt": "person" },
+    { "id": 2, "centroid": [680, 359], "size": 95520.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [647, 476], "size": 2580.0, "prompt": "person" },
+    { "id": 3, "centroid": [676, 357], "size": 95514.0, "prompt": "person" },
+    { "id": 2, "centroid": [676, 359], "size": 96393.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [644, 476], "size": 2516.0, "prompt": "person" },
+    { "id": 3, "centroid": [672, 357], "size": 96419.0, "prompt": "person" },
+    { "id": 2, "centroid": [673, 358], "size": 97172.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [641, 476], "size": 2440.0, "prompt": "person" },
+    { "id": 3, "centroid": [670, 357], "size": 97058.0, "prompt": "person" },
+    { "id": 2, "centroid": [671, 358], "size": 97148.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [643, 475], "size": 2368.0, "prompt": "person" },
+    { "id": 3, "centroid": [668, 357], "size": 97184.0, "prompt": "person" },
+    { "id": 2, "centroid": [668, 358], "size": 97450.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [640, 475], "size": 2356.0, "prompt": "person" },
+    { "id": 3, "centroid": [666, 356], "size": 96961.0, "prompt": "person" },
+    { "id": 2, "centroid": [666, 357], "size": 97360.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [641, 475], "size": 2353.0, "prompt": "person" },
+    { "id": 3, "centroid": [664, 356], "size": 97033.0, "prompt": "person" },
+    { "id": 2, "centroid": [665, 357], "size": 97533.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [643, 474], "size": 2422.0, "prompt": "person" },
+    { "id": 3, "centroid": [663, 356], "size": 96956.0, "prompt": "person" },
+    { "id": 2, "centroid": [663, 357], "size": 97487.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [640, 473], "size": 2506.0, "prompt": "person" },
+    { "id": 3, "centroid": [661, 356], "size": 97087.0, "prompt": "person" },
+    { "id": 2, "centroid": [661, 357], "size": 97765.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [639, 473], "size": 2578.0, "prompt": "person" },
+    { "id": 3, "centroid": [660, 355], "size": 97113.0, "prompt": "person" },
+    { "id": 2, "centroid": [660, 357], "size": 98126.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [645, 470], "size": 2157.0, "prompt": "person" },
+    { "id": 3, "centroid": [658, 355], "size": 97259.0, "prompt": "person" },
+    { "id": 2, "centroid": [658, 357], "size": 98266.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [653, 467], "size": 1845.0, "prompt": "person" },
+    { "id": 3, "centroid": [657, 355], "size": 97070.0, "prompt": "person" },
+    { "id": 2, "centroid": [656, 356], "size": 98030.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [647, 468], "size": 1915.0, "prompt": "person" },
+    { "id": 3, "centroid": [655, 354], "size": 96880.0, "prompt": "person" },
+    { "id": 2, "centroid": [655, 355], "size": 98064.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [636, 470], "size": 2250.0, "prompt": "person" },
+    { "id": 3, "centroid": [654, 353], "size": 96529.0, "prompt": "person" },
+    { "id": 2, "centroid": [654, 355], "size": 98097.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [626, 474], "size": 2842.0, "prompt": "person" },
+    { "id": 3, "centroid": [654, 352], "size": 95712.0, "prompt": "person" },
+    { "id": 2, "centroid": [653, 354], "size": 97895.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [616, 478], "size": 3602.0, "prompt": "person" },
+    { "id": 3, "centroid": [653, 350], "size": 95043.0, "prompt": "person" },
+    { "id": 2, "centroid": [651, 354], "size": 97836.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [606, 486], "size": 4498.0, "prompt": "person" },
+    { "id": 3, "centroid": [652, 348], "size": 94189.0, "prompt": "person" },
+    { "id": 2, "centroid": [650, 353], "size": 97668.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [605, 486], "size": 4495.0, "prompt": "person" },
+    { "id": 3, "centroid": [651, 348], "size": 94397.0, "prompt": "person" },
+    { "id": 2, "centroid": [649, 353], "size": 97561.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [602, 485], "size": 4325.0, "prompt": "person" },
+    { "id": 3, "centroid": [650, 348], "size": 94541.0, "prompt": "person" },
+    { "id": 2, "centroid": [648, 353], "size": 97612.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [597, 484], "size": 4585.0, "prompt": "person" },
+    { "id": 3, "centroid": [649, 348], "size": 94481.0, "prompt": "person" },
+    { "id": 2, "centroid": [647, 352], "size": 97518.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [591, 486], "size": 4951.0, "prompt": "person" },
+    { "id": 3, "centroid": [648, 348], "size": 94551.0, "prompt": "person" },
+    { "id": 2, "centroid": [647, 352], "size": 97608.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [589, 486], "size": 4863.0, "prompt": "person" },
+    { "id": 3, "centroid": [648, 347], "size": 94692.0, "prompt": "person" },
+    { "id": 2, "centroid": [646, 352], "size": 97815.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [588, 484], "size": 4789.0, "prompt": "person" },
+    { "id": 3, "centroid": [647, 347], "size": 94655.0, "prompt": "person" },
+    { "id": 2, "centroid": [645, 352], "size": 97854.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [587, 484], "size": 4831.0, "prompt": "person" },
+    { "id": 3, "centroid": [647, 347], "size": 94589.0, "prompt": "person" },
+    { "id": 2, "centroid": [644, 352], "size": 97982.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [585, 485], "size": 4881.0, "prompt": "person" },
+    { "id": 3, "centroid": [646, 347], "size": 94583.0, "prompt": "person" },
+    { "id": 2, "centroid": [644, 352], "size": 97914.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [584, 485], "size": 4941.0, "prompt": "person" },
+    { "id": 3, "centroid": [646, 347], "size": 94467.0, "prompt": "person" },
+    { "id": 2, "centroid": [644, 352], "size": 97835.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [583, 485], "size": 4901.0, "prompt": "person" },
+    { "id": 3, "centroid": [646, 347], "size": 94497.0, "prompt": "person" },
+    { "id": 2, "centroid": [644, 352], "size": 97724.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [582, 485], "size": 4900.0, "prompt": "person" },
+    { "id": 3, "centroid": [646, 347], "size": 94479.0, "prompt": "person" },
+    { "id": 2, "centroid": [643, 351], "size": 97565.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [584, 484], "size": 4859.0, "prompt": "person" },
+    { "id": 3, "centroid": [646, 347], "size": 94374.0, "prompt": "person" },
+    { "id": 2, "centroid": [643, 351], "size": 97345.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [590, 481], "size": 4514.0, "prompt": "person" },
+    { "id": 3, "centroid": [645, 347], "size": 94617.0, "prompt": "person" },
+    { "id": 2, "centroid": [643, 351], "size": 97129.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [600, 476], "size": 3899.0, "prompt": "person" },
+    { "id": 3, "centroid": [644, 348], "size": 95145.0, "prompt": "person" },
+    { "id": 2, "centroid": [643, 351], "size": 97101.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [617, 466], "size": 3178.0, "prompt": "person" },
+    { "id": 3, "centroid": [643, 349], "size": 95971.0, "prompt": "person" },
+    { "id": 2, "centroid": [643, 351], "size": 97206.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [619, 465], "size": 3134.0, "prompt": "person" },
+    { "id": 3, "centroid": [643, 350], "size": 96089.0, "prompt": "person" },
+    { "id": 2, "centroid": [643, 351], "size": 97216.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [618, 465], "size": 3167.0, "prompt": "person" },
+    { "id": 3, "centroid": [643, 350], "size": 95951.0, "prompt": "person" },
+    { "id": 2, "centroid": [643, 351], "size": 97024.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [618, 465], "size": 3268.0, "prompt": "person" },
+    { "id": 3, "centroid": [643, 349], "size": 95804.0, "prompt": "person" },
+    { "id": 2, "centroid": [643, 351], "size": 96872.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [616, 466], "size": 3419.0, "prompt": "person" },
+    { "id": 3, "centroid": [643, 350], "size": 95900.0, "prompt": "person" },
+    { "id": 2, "centroid": [643, 351], "size": 97000.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [615, 466], "size": 3447.0, "prompt": "person" },
+    { "id": 3, "centroid": [643, 350], "size": 95837.0, "prompt": "person" },
+    { "id": 2, "centroid": [643, 351], "size": 96931.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [614, 467], "size": 3428.0, "prompt": "person" },
+    { "id": 3, "centroid": [644, 350], "size": 95795.0, "prompt": "person" },
+    { "id": 2, "centroid": [644, 351], "size": 96865.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [614, 467], "size": 3451.0, "prompt": "person" },
+    { "id": 3, "centroid": [644, 350], "size": 95737.0, "prompt": "person" },
+    { "id": 2, "centroid": [644, 351], "size": 96800.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [615, 467], "size": 3370.0, "prompt": "person" },
+    { "id": 3, "centroid": [644, 350], "size": 95863.0, "prompt": "person" },
+    { "id": 2, "centroid": [644, 351], "size": 96803.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [614, 467], "size": 3359.0, "prompt": "person" },
+    { "id": 3, "centroid": [645, 350], "size": 95778.0, "prompt": "person" },
+    { "id": 2, "centroid": [645, 351], "size": 96659.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [614, 468], "size": 3268.0, "prompt": "person" },
+    { "id": 3, "centroid": [645, 351], "size": 95791.0, "prompt": "person" },
+    { "id": 2, "centroid": [645, 352], "size": 96584.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [615, 468], "size": 3212.0, "prompt": "person" },
+    { "id": 3, "centroid": [646, 351], "size": 95494.0, "prompt": "person" },
+    { "id": 2, "centroid": [646, 352], "size": 96297.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [617, 468], "size": 3303.0, "prompt": "person" },
+    { "id": 3, "centroid": [647, 350], "size": 94852.0, "prompt": "person" },
+    { "id": 2, "centroid": [647, 352], "size": 95960.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [617, 468], "size": 3171.0, "prompt": "person" },
+    { "id": 3, "centroid": [648, 351], "size": 94882.0, "prompt": "person" },
+    { "id": 2, "centroid": [647, 352], "size": 95874.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [616, 468], "size": 3122.0, "prompt": "person" },
+    { "id": 3, "centroid": [647, 351], "size": 95157.0, "prompt": "person" },
+    { "id": 2, "centroid": [647, 352], "size": 95990.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [617, 468], "size": 3095.0, "prompt": "person" },
+    { "id": 3, "centroid": [647, 351], "size": 95299.0, "prompt": "person" },
+    { "id": 2, "centroid": [647, 352], "size": 96065.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [616, 468], "size": 3025.0, "prompt": "person" },
+    { "id": 3, "centroid": [648, 351], "size": 95520.0, "prompt": "person" },
+    { "id": 2, "centroid": [648, 352], "size": 96238.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [617, 467], "size": 3101.0, "prompt": "person" },
+    { "id": 3, "centroid": [648, 350], "size": 95713.0, "prompt": "person" },
+    { "id": 2, "centroid": [648, 351], "size": 96466.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [617, 467], "size": 3159.0, "prompt": "person" },
+    { "id": 3, "centroid": [649, 348], "size": 94999.0, "prompt": "person" },
+    { "id": 2, "centroid": [650, 349], "size": 95768.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [618, 467], "size": 3163.0, "prompt": "person" },
+    { "id": 3, "centroid": [650, 347], "size": 94719.0, "prompt": "person" },
+    { "id": 2, "centroid": [650, 348], "size": 95679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [619, 467], "size": 3159.0, "prompt": "person" },
+    { "id": 3, "centroid": [650, 347], "size": 94813.0, "prompt": "person" },
+    { "id": 2, "centroid": [650, 349], "size": 95765.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [720, 523], "size": 11280.0, "prompt": "person" },
+    { "id": 3, "centroid": [740, 358], "size": 181608.0, "prompt": "person" },
+    { "id": 2, "centroid": [740, 359], "size": 182454.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [721, 525], "size": 11665.0, "prompt": "person" },
+    { "id": 3, "centroid": [739, 360], "size": 181422.0, "prompt": "person" },
+    { "id": 2, "centroid": [739, 361], "size": 182092.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [729, 527], "size": 13400.0, "prompt": "person" },
+    { "id": 3, "centroid": [739, 362], "size": 181209.0, "prompt": "person" },
+    { "id": 2, "centroid": [740, 365], "size": 180895.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [730, 532], "size": 13702.0, "prompt": "person" },
+    { "id": 3, "centroid": [739, 366], "size": 181563.0, "prompt": "person" },
+    { "id": 2, "centroid": [738, 370], "size": 181285.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [732, 536], "size": 14873.0, "prompt": "person" },
+    { "id": 3, "centroid": [729, 376], "size": 186173.0, "prompt": "person" },
+    { "id": 2, "centroid": [737, 374], "size": 181545.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [737, 539], "size": 16122.0, "prompt": "person" },
+    { "id": 3, "centroid": [734, 378], "size": 182308.0, "prompt": "person" },
+    { "id": 2, "centroid": [736, 378], "size": 181526.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [738, 542], "size": 16318.0, "prompt": "person" },
+    { "id": 3, "centroid": [735, 381], "size": 181310.0, "prompt": "person" },
+    { "id": 2, "centroid": [735, 382], "size": 180556.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [738, 545], "size": 16500.0, "prompt": "person" },
+    { "id": 3, "centroid": [734, 386], "size": 180991.0, "prompt": "person" },
+    { "id": 2, "centroid": [735, 386], "size": 180399.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [739, 548], "size": 16570.0, "prompt": "person" },
+    { "id": 3, "centroid": [735, 387], "size": 179568.0, "prompt": "person" },
+    { "id": 2, "centroid": [736, 388], "size": 179209.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [738, 551], "size": 16254.0, "prompt": "person" },
+    { "id": 3, "centroid": [736, 390], "size": 179106.0, "prompt": "person" },
+    { "id": 2, "centroid": [736, 391], "size": 178764.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [736, 553], "size": 16023.0, "prompt": "person" },
+    { "id": 3, "centroid": [737, 391], "size": 178724.0, "prompt": "person" },
+    { "id": 2, "centroid": [736, 392], "size": 178696.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [734, 555], "size": 16234.0, "prompt": "person" },
+    { "id": 3, "centroid": [736, 394], "size": 178966.0, "prompt": "person" },
+    { "id": 2, "centroid": [735, 395], "size": 179174.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [735, 557], "size": 16287.0, "prompt": "person" },
+    { "id": 3, "centroid": [736, 395], "size": 178496.0, "prompt": "person" },
+    { "id": 2, "centroid": [736, 396], "size": 178640.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [734, 559], "size": 16511.0, "prompt": "person" },
+    { "id": 3, "centroid": [737, 396], "size": 177883.0, "prompt": "person" },
+    { "id": 2, "centroid": [737, 397], "size": 177729.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [737, 560], "size": 16326.0, "prompt": "person" },
+    { "id": 3, "centroid": [739, 396], "size": 177184.0, "prompt": "person" },
+    { "id": 2, "centroid": [738, 397], "size": 176817.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [737, 561], "size": 16135.0, "prompt": "person" },
+    { "id": 3, "centroid": [740, 396], "size": 176809.0, "prompt": "person" },
+    { "id": 2, "centroid": [739, 397], "size": 176344.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [738, 561], "size": 16103.0, "prompt": "person" },
+    { "id": 3, "centroid": [739, 397], "size": 176863.0, "prompt": "person" },
+    { "id": 2, "centroid": [738, 398], "size": 176444.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [738, 561], "size": 16157.0, "prompt": "person" },
+    { "id": 3, "centroid": [739, 397], "size": 176780.0, "prompt": "person" },
+    { "id": 2, "centroid": [738, 398], "size": 176553.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [736, 561], "size": 15461.0, "prompt": "person" },
+    { "id": 3, "centroid": [739, 397], "size": 177067.0, "prompt": "person" },
+    { "id": 2, "centroid": [737, 398], "size": 177001.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [734, 562], "size": 15200.0, "prompt": "person" },
+    { "id": 3, "centroid": [738, 398], "size": 177081.0, "prompt": "person" },
+    { "id": 4, "centroid": [251, 608], "size": 5120.0, "prompt": "person" },
+    { "id": 2, "centroid": [738, 399], "size": 176541.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [733, 563], "size": 15030.0, "prompt": "person" },
+    { "id": 3, "centroid": [738, 398], "size": 177351.0, "prompt": "person" },
+    { "id": 4, "centroid": [243, 608], "size": 5474.0, "prompt": "person" },
+    { "id": 2, "centroid": [737, 399], "size": 176892.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [731, 562], "size": 14759.0, "prompt": "person" },
+    { "id": 3, "centroid": [738, 398], "size": 177757.0, "prompt": "person" },
+    { "id": 4, "centroid": [237, 604], "size": 5615.0, "prompt": "person" },
+    { "id": 2, "centroid": [737, 399], "size": 177235.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [730, 562], "size": 14630.0, "prompt": "person" },
+    { "id": 3, "centroid": [737, 398], "size": 177977.0, "prompt": "person" },
+    { "id": 4, "centroid": [230, 600], "size": 5513.0, "prompt": "person" },
+    { "id": 2, "centroid": [736, 399], "size": 177838.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [731, 561], "size": 14836.0, "prompt": "person" },
+    { "id": 3, "centroid": [737, 398], "size": 178039.0, "prompt": "person" },
+    { "id": 4, "centroid": [224, 599], "size": 5606.0, "prompt": "person" },
+    { "id": 2, "centroid": [734, 398], "size": 176999.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [732, 562], "size": 15365.0, "prompt": "person" },
+    { "id": 3, "centroid": [735, 397], "size": 176918.0, "prompt": "person" },
+    { "id": 4, "centroid": [218, 598], "size": 5896.0, "prompt": "person" },
+    { "id": 2, "centroid": [733, 398], "size": 176543.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [731, 562], "size": 15209.0, "prompt": "person" },
+    { "id": 3, "centroid": [734, 397], "size": 176656.0, "prompt": "person" },
+    { "id": 4, "centroid": [212, 595], "size": 6113.0, "prompt": "person" },
+    { "id": 2, "centroid": [732, 398], "size": 176540.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [730, 562], "size": 15246.0, "prompt": "person" },
+    { "id": 3, "centroid": [732, 397], "size": 176882.0, "prompt": "person" },
+    { "id": 4, "centroid": [207, 594], "size": 6288.0, "prompt": "person" },
+    { "id": 2, "centroid": [731, 398], "size": 176439.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [729, 562], "size": 15273.0, "prompt": "person" },
+    { "id": 3, "centroid": [731, 398], "size": 176787.0, "prompt": "person" },
+    { "id": 4, "centroid": [201, 593], "size": 6401.0, "prompt": "person" },
+    { "id": 2, "centroid": [730, 398], "size": 176200.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [728, 562], "size": 15331.0, "prompt": "person" },
+    { "id": 3, "centroid": [730, 398], "size": 176413.0, "prompt": "person" },
+    { "id": 4, "centroid": [194, 590], "size": 6253.0, "prompt": "person" },
+    { "id": 2, "centroid": [729, 399], "size": 175690.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [726, 563], "size": 15353.0, "prompt": "person" },
+    { "id": 3, "centroid": [729, 398], "size": 176223.0, "prompt": "person" },
+    { "id": 4, "centroid": [187, 589], "size": 6367.0, "prompt": "person" },
+    { "id": 2, "centroid": [728, 399], "size": 175515.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [723, 563], "size": 15370.0, "prompt": "person" },
+    { "id": 3, "centroid": [728, 399], "size": 176116.0, "prompt": "person" },
+    { "id": 4, "centroid": [180, 588], "size": 6287.0, "prompt": "person" },
+    { "id": 2, "centroid": [728, 399], "size": 175120.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [722, 563], "size": 15381.0, "prompt": "person" },
+    { "id": 3, "centroid": [726, 399], "size": 176895.0, "prompt": "person" },
+    { "id": 4, "centroid": [174, 584], "size": 5895.0, "prompt": "person" },
+    { "id": 2, "centroid": [726, 399], "size": 175378.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [720, 563], "size": 15454.0, "prompt": "person" },
+    { "id": 3, "centroid": [723, 399], "size": 177609.0, "prompt": "person" },
+    { "id": 4, "centroid": [167, 583], "size": 5941.0, "prompt": "person" },
+    { "id": 2, "centroid": [726, 399], "size": 175076.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [718, 563], "size": 15429.0, "prompt": "person" },
+    { "id": 3, "centroid": [721, 399], "size": 178030.0, "prompt": "person" },
+    { "id": 4, "centroid": [161, 581], "size": 6017.0, "prompt": "person" },
+    { "id": 2, "centroid": [721, 401], "size": 176653.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [717, 563], "size": 15491.0, "prompt": "person" },
+    { "id": 3, "centroid": [722, 399], "size": 176878.0, "prompt": "person" },
+    { "id": 4, "centroid": [155, 579], "size": 5869.0, "prompt": "person" },
+    { "id": 2, "centroid": [714, 402], "size": 178187.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [716, 563], "size": 15435.0, "prompt": "person" },
+    { "id": 3, "centroid": [721, 399], "size": 176202.0, "prompt": "person" },
+    { "id": 4, "centroid": [150, 577], "size": 5761.0, "prompt": "person" },
+    { "id": 2, "centroid": [711, 403], "size": 178393.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [715, 563], "size": 15368.0, "prompt": "person" },
+    { "id": 3, "centroid": [719, 399], "size": 176632.0, "prompt": "person" },
+    { "id": 4, "centroid": [144, 578], "size": 6056.0, "prompt": "person" },
+    { "id": 2, "centroid": [709, 403], "size": 178515.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [714, 563], "size": 15351.0, "prompt": "person" },
+    { "id": 3, "centroid": [717, 399], "size": 176587.0, "prompt": "person" },
+    { "id": 4, "centroid": [138, 579], "size": 6025.0, "prompt": "person" },
+    { "id": 2, "centroid": [708, 403], "size": 177911.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [713, 563], "size": 15306.0, "prompt": "person" },
+    { "id": 3, "centroid": [711, 400], "size": 178906.0, "prompt": "person" },
+    { "id": 4, "centroid": [134, 577], "size": 5690.0, "prompt": "person" },
+    { "id": 2, "centroid": [707, 403], "size": 177680.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [712, 563], "size": 15327.0, "prompt": "person" },
+    { "id": 3, "centroid": [710, 400], "size": 179266.0, "prompt": "person" },
+    { "id": 4, "centroid": [129, 576], "size": 5970.0, "prompt": "person" },
+    { "id": 2, "centroid": [707, 403], "size": 177479.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [712, 563], "size": 15256.0, "prompt": "person" },
+    { "id": 3, "centroid": [711, 400], "size": 178391.0, "prompt": "person" },
+    { "id": 4, "centroid": [126, 574], "size": 5942.0, "prompt": "person" },
+    { "id": 2, "centroid": [706, 403], "size": 177344.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [711, 563], "size": 15235.0, "prompt": "person" },
+    { "id": 3, "centroid": [711, 400], "size": 177826.0, "prompt": "person" },
+    { "id": 4, "centroid": [121, 573], "size": 5638.0, "prompt": "person" },
+    { "id": 2, "centroid": [708, 404], "size": 176319.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [710, 563], "size": 15236.0, "prompt": "person" },
+    { "id": 3, "centroid": [712, 400], "size": 176777.0, "prompt": "person" },
+    { "id": 4, "centroid": [114, 574], "size": 6107.0, "prompt": "person" },
+    { "id": 2, "centroid": [708, 403], "size": 175946.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [709, 563], "size": 15272.0, "prompt": "person" },
+    { "id": 3, "centroid": [713, 399], "size": 175869.0, "prompt": "person" },
+    { "id": 4, "centroid": [109, 572], "size": 6197.0, "prompt": "person" },
+    { "id": 2, "centroid": [707, 403], "size": 175860.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [709, 563], "size": 15344.0, "prompt": "person" },
+    { "id": 3, "centroid": [714, 399], "size": 175296.0, "prompt": "person" },
+    { "id": 4, "centroid": [104, 573], "size": 6163.0, "prompt": "person" },
+    { "id": 2, "centroid": [709, 402], "size": 175289.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [709, 562], "size": 15422.0, "prompt": "person" },
+    { "id": 3, "centroid": [712, 399], "size": 175648.0, "prompt": "person" },
+    { "id": 4, "centroid": [98, 572], "size": 6199.0, "prompt": "person" },
+    { "id": 2, "centroid": [709, 402], "size": 174405.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [708, 562], "size": 15408.0, "prompt": "person" },
+    { "id": 3, "centroid": [710, 399], "size": 176190.0, "prompt": "person" },
+    { "id": 4, "centroid": [93, 569], "size": 5813.0, "prompt": "person" },
+    { "id": 2, "centroid": [709, 401], "size": 173951.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [706, 562], "size": 15420.0, "prompt": "person" },
+    { "id": 3, "centroid": [708, 399], "size": 176465.0, "prompt": "person" },
+    { "id": 4, "centroid": [88, 568], "size": 5701.0, "prompt": "person" },
+    { "id": 2, "centroid": [708, 401], "size": 174094.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [704, 562], "size": 15375.0, "prompt": "person" },
+    { "id": 3, "centroid": [707, 399], "size": 176721.0, "prompt": "person" },
+    { "id": 4, "centroid": [82, 567], "size": 5751.0, "prompt": "person" },
+    { "id": 2, "centroid": [708, 400], "size": 173788.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [703, 562], "size": 15355.0, "prompt": "person" },
+    { "id": 3, "centroid": [706, 399], "size": 176730.0, "prompt": "person" },
+    { "id": 4, "centroid": [78, 566], "size": 6042.0, "prompt": "person" },
+    { "id": 2, "centroid": [709, 400], "size": 173164.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [700, 562], "size": 15413.0, "prompt": "person" },
+    { "id": 3, "centroid": [704, 399], "size": 176935.0, "prompt": "person" },
+    { "id": 4, "centroid": [70, 565], "size": 6339.0, "prompt": "person" },
+    { "id": 2, "centroid": [707, 400], "size": 173395.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [700, 562], "size": 15440.0, "prompt": "person" },
+    { "id": 3, "centroid": [704, 399], "size": 177053.0, "prompt": "person" },
+    { "id": 4, "centroid": [65, 563], "size": 5909.0, "prompt": "person" },
+    { "id": 2, "centroid": [707, 399], "size": 173442.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [699, 562], "size": 15455.0, "prompt": "person" },
+    { "id": 3, "centroid": [703, 400], "size": 176791.0, "prompt": "person" },
+    { "id": 4, "centroid": [59, 563], "size": 5926.0, "prompt": "person" },
+    { "id": 2, "centroid": [708, 400], "size": 172918.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [699, 562], "size": 15496.0, "prompt": "person" },
+    { "id": 3, "centroid": [703, 400], "size": 176709.0, "prompt": "person" },
+    { "id": 4, "centroid": [54, 560], "size": 5857.0, "prompt": "person" },
+    { "id": 2, "centroid": [709, 400], "size": 172605.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [699, 562], "size": 15471.0, "prompt": "person" },
+    { "id": 3, "centroid": [702, 400], "size": 176638.0, "prompt": "person" },
+    { "id": 4, "centroid": [49, 558], "size": 5525.0, "prompt": "person" },
+    { "id": 2, "centroid": [708, 399], "size": 172487.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [698, 562], "size": 15452.0, "prompt": "person" },
+    { "id": 3, "centroid": [703, 400], "size": 175945.0, "prompt": "person" },
+    { "id": 4, "centroid": [45, 558], "size": 5378.0, "prompt": "person" },
+    { "id": 2, "centroid": [707, 399], "size": 172224.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [697, 562], "size": 15455.0, "prompt": "person" },
+    { "id": 3, "centroid": [703, 400], "size": 175073.0, "prompt": "person" },
+    { "id": 4, "centroid": [41, 557], "size": 5571.0, "prompt": "person" },
+    { "id": 2, "centroid": [707, 400], "size": 172175.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [696, 563], "size": 15413.0, "prompt": "person" },
+    { "id": 3, "centroid": [705, 400], "size": 173739.0, "prompt": "person" },
+    { "id": 4, "centroid": [36, 557], "size": 5797.0, "prompt": "person" },
+    { "id": 2, "centroid": [706, 400], "size": 171613.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [696, 563], "size": 15396.0, "prompt": "person" },
+    { "id": 3, "centroid": [705, 400], "size": 173104.0, "prompt": "person" },
+    { "id": 4, "centroid": [33, 556], "size": 5556.0, "prompt": "person" },
+    { "id": 2, "centroid": [706, 400], "size": 171392.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [695, 563], "size": 15387.0, "prompt": "person" },
+    { "id": 3, "centroid": [705, 400], "size": 172426.0, "prompt": "person" },
+    { "id": 4, "centroid": [29, 556], "size": 5415.0, "prompt": "person" },
+    { "id": 2, "centroid": [705, 401], "size": 171240.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [694, 563], "size": 15334.0, "prompt": "person" },
+    { "id": 3, "centroid": [705, 400], "size": 172100.0, "prompt": "person" },
+    { "id": 4, "centroid": [25, 558], "size": 5395.0, "prompt": "person" },
+    { "id": 2, "centroid": [704, 401], "size": 170923.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [693, 564], "size": 15325.0, "prompt": "person" },
+    { "id": 3, "centroid": [704, 400], "size": 172124.0, "prompt": "person" },
+    { "id": 4, "centroid": [22, 555], "size": 5008.0, "prompt": "person" },
+    { "id": 2, "centroid": [703, 401], "size": 170856.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [693, 564], "size": 15385.0, "prompt": "person" },
+    { "id": 3, "centroid": [704, 401], "size": 172033.0, "prompt": "person" },
+    { "id": 4, "centroid": [20, 554], "size": 4691.0, "prompt": "person" },
+    { "id": 2, "centroid": [702, 401], "size": 170818.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [693, 564], "size": 15421.0, "prompt": "person" },
+    { "id": 3, "centroid": [703, 401], "size": 172004.0, "prompt": "person" },
+    { "id": 4, "centroid": [16, 552], "size": 4017.0, "prompt": "person" },
+    { "id": 2, "centroid": [702, 401], "size": 170846.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [692, 564], "size": 15411.0, "prompt": "person" },
+    { "id": 3, "centroid": [702, 401], "size": 172139.0, "prompt": "person" },
+    { "id": 4, "centroid": [12, 550], "size": 3001.0, "prompt": "person" },
+    { "id": 2, "centroid": [701, 402], "size": 171130.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [691, 564], "size": 15370.0, "prompt": "person" },
+    { "id": 3, "centroid": [701, 401], "size": 172125.0, "prompt": "person" },
+    { "id": 4, "centroid": [10, 550], "size": 2480.0, "prompt": "person" },
+    { "id": 2, "centroid": [700, 402], "size": 171145.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [690, 564], "size": 15396.0, "prompt": "person" },
+    { "id": 3, "centroid": [700, 401], "size": 172449.0, "prompt": "person" },
+    { "id": 4, "centroid": [7, 545], "size": 1557.0, "prompt": "person" },
+    { "id": 2, "centroid": [699, 402], "size": 171285.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [689, 564], "size": 15349.0, "prompt": "person" },
+    { "id": 3, "centroid": [699, 401], "size": 172731.0, "prompt": "person" },
+    { "id": 4, "centroid": [6, 549], "size": 1156.0, "prompt": "person" },
+    { "id": 2, "centroid": [698, 402], "size": 171990.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [689, 564], "size": 15358.0, "prompt": "person" },
+    { "id": 3, "centroid": [698, 401], "size": 172983.0, "prompt": "person" },
+    { "id": 4, "centroid": [4, 552], "size": 796.0, "prompt": "person" },
+    { "id": 2, "centroid": [697, 402], "size": 172301.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [688, 565], "size": 15375.0, "prompt": "person" },
+    { "id": 3, "centroid": [697, 402], "size": 172989.0, "prompt": "person" },
+    { "id": 4, "centroid": [1, 535], "size": 180.0, "prompt": "person" },
+    { "id": 2, "centroid": [695, 403], "size": 172332.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [688, 566], "size": 15248.0, "prompt": "person" },
+    { "id": 3, "centroid": [696, 403], "size": 173135.0, "prompt": "person" },
+    { "id": 4, "centroid": [0, 539], "size": 13.0, "prompt": "person" },
+    { "id": 2, "centroid": [695, 404], "size": 172283.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [687, 566], "size": 15160.0, "prompt": "person" },
+    { "id": 3, "centroid": [694, 403], "size": 173531.0, "prompt": "person" },
+    { "id": 2, "centroid": [694, 404], "size": 172300.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [687, 566], "size": 15114.0, "prompt": "person" },
+    { "id": 3, "centroid": [694, 403], "size": 173758.0, "prompt": "person" },
+    { "id": 2, "centroid": [695, 404], "size": 172061.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [686, 566], "size": 15147.0, "prompt": "person" },
+    { "id": 3, "centroid": [690, 404], "size": 175322.0, "prompt": "person" },
+    { "id": 2, "centroid": [695, 404], "size": 171226.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [686, 566], "size": 15204.0, "prompt": "person" },
+    { "id": 3, "centroid": [689, 404], "size": 175847.0, "prompt": "person" },
+    { "id": 2, "centroid": [697, 405], "size": 169675.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [686, 566], "size": 15223.0, "prompt": "person" },
+    { "id": 3, "centroid": [686, 404], "size": 176925.0, "prompt": "person" },
+    { "id": 2, "centroid": [696, 405], "size": 169682.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [686, 566], "size": 15248.0, "prompt": "person" },
+    { "id": 3, "centroid": [684, 404], "size": 177743.0, "prompt": "person" },
+    { "id": 2, "centroid": [693, 406], "size": 170489.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [685, 566], "size": 15251.0, "prompt": "person" },
+    { "id": 3, "centroid": [683, 404], "size": 178459.0, "prompt": "person" },
+    { "id": 2, "centroid": [692, 406], "size": 170845.0, "prompt": "vehicle" }
+  ],
+  []
+]

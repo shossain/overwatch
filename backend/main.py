@@ -1,5 +1,3 @@
-from fastapi.responses import FileResponse
-import numpy as np
 import json
 import logging
 import os
@@ -7,18 +5,20 @@ from typing import List
 
 import cv2
 import decord
+import numpy as np
 import torch
 import uvicorn
 from fastapi import FastAPI, HTTPException, UploadFile
+from fastapi.responses import FileResponse
 from GroundingDINO.groundingdino.util.inference import (
     annotate,
     load_image_from_path,
     load_model,
     predict,
 )
-from tqdm import tqdm
 from PIL import Image
 from pydantic import BaseModel
+from tqdm import tqdm
 
 FILE_PATH = "files"
 app = FastAPI()
@@ -88,7 +88,7 @@ async def run_grounding_dino(target_video: str, query: str):
         output_path = "image.jpg"
         image.save(output_path)
         image_source, processed_image = load_image_from_path(output_path)
-        #image_source, processed_image = load_image(image)
+        # image_source, processed_image = load_image(image)
 
         boxes, logits, phrases = predict(
             model=model,
