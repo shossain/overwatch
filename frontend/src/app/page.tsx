@@ -42,10 +42,13 @@ export default function Home() {
     if (newMetadata !== currentMetadata) {
       setCurrentMetadata(newMetadata);
       if (newMetadata !== "") {
-        setMetadataLog((prevLog) => [
-          ...prevLog,
-          { timestamp: currentTime, data: newMetadata },
-        ]);
+        setMetadataLog((prevLog) => {
+          const lastEntry = prevLog[prevLog.length - 1];
+          if (!lastEntry || lastEntry.data !== newMetadata) {
+            return [...prevLog, { timestamp: currentTime, data: newMetadata }];
+          }
+          return prevLog;
+        });
       }
     }
 
@@ -126,8 +129,11 @@ export default function Home() {
         >
           <input {...getInputProps()} />
           {isLoading ? (
-            <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-50">
-              <BarLoader color="#ffffff" height={10} />
+            <div className="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-50">
+              <div>
+                <BarLoader color="#ffffff" height={10} />
+              </div>
+              <p className="mt-4">Analyzing video...</p>
             </div>
           ) : isDragActive ? (
             <p>Drop the drone footage here...</p>
@@ -173,8 +179,8 @@ export default function Home() {
           <video
             src={uploadedVideo}
             controls
-            width="640"
-            height="480"
+            width="720"
+            height="500"
             onTimeUpdate={handleTimeUpdate}
           />
           <div className="mt-4">
@@ -183,7 +189,10 @@ export default function Home() {
               <div>{currentMetadata}</div>
               <div className="mt-4">
                 <div className="font-bold mb-2">Metadata Log</div>
-                <div className="max-h-64 overflow-y-auto">
+                <div
+                  className="max-h-64 overflow-y-auto"
+                  ref={(el) => el?.scrollIntoView({ behavior: "smooth" })}
+                >
                   {metadataLog.map((entry, index) => (
                     <div key={index} className="mb-2">
                       <div className="text-sm text-gray-300">
