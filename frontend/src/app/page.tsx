@@ -4,6 +4,7 @@ import { useState } from "react";
 import axios from "axios";
 import { Button } from "@/components/ui/button";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
+import { BarLoader } from "react-spinners";
 import { useDropzone } from "react-dropzone";
 import Chat from "./chat";
 
@@ -16,6 +17,16 @@ export default function Home() {
   );
   const [uploadMessage, setUploadMessage] = useState<string | null>(null);
   const [showDropzone, setShowDropzone] = useState(true);
+  const [isLoading, setIsLoading] = useState(false);
+  const [metadata, setMetadata] = useState<string[]>([]);
+  const [currentMetadata, setCurrentMetadata] = useState<string>("");
+  const [metadataLog, setMetadataLog] = useState<
+    {
+      timestamp: number;
+      data: string;
+    }[]
+  >([]);
+  const [currentTime, setCurrentTime] = useState(0);
 
   const handleDismiss = () => {
     setUploadStatus(null);
@@ -23,25 +34,55 @@ export default function Home() {
     setShowDropzone(true);
   };
 
+  const handleTimeUpdate = (event: React.SyntheticEvent<HTMLVideoElement>) => {
+    const currentTime = event.currentTarget.currentTime;
+    const currentFrame = Math.floor(currentTime * 30);
+    const newMetadata = metadata[currentFrame] || "";
+
+    if (newMetadata !== currentMetadata) {
+      setCurrentMetadata(newMetadata);
+      if (newMetadata !== "") {
+        setMetadataLog((prevLog) => [
+          ...prevLog,
+          { timestamp: currentTime, data: newMetadata },
+        ]);
+      }
+    }
+
+    setCurrentTime(currentTime);
+  };
+
+  const formatTimestamp = (seconds: number) => {
+    const minutes = Math.floor(seconds / 60);
+    const remainingSeconds = Math.floor(seconds % 60);
+    return `${minutes}:${remainingSeconds < 10 ? "0" : ""}${remainingSeconds}`;
+  };
+
   const { getRootProps, getInputProps, isDragActive } = useDropzone({
     onDrop: async (acceptedFiles: File[]) => {
       const file = acceptedFiles[0];
       if (file && file.name.endsWith(".mp4")) {
-        const formData = new FormData();
-        formData.append("file", file);
+        const filename = file.name;
 
         try {
-          const response = await axios.post(
-            `${API_URL}/drone_footage`,
-            formData,
+          setIsLoading(true);
+          const response = await axios.get(`${API_URL}/video/${filename}`, {
+            responseType: "blob",
+          });
+          setUploadedVideo(URL.createObjectURL(response.data));
+          const metadataResponse = await axios.get(
+            `${API_URL}/metadata/${filename}`,
           );
-          setUploadedVideo(response.data.file_response.url);
+          setMetadata(metadataResponse.data);
           setUploadStatus("success");
           setUploadMessage("Video uploaded successfully!");
+          setShowDropzone(false);
         } catch (error) {
           setUploadStatus("error");
           setUploadMessage("Failed to upload video. Please try again.");
           setShowDropzone(false);
+        } finally {
+          setIsLoading(false);
         }
       } else {
         setUploadStatus("error");
@@ -53,6 +94,7 @@ export default function Home() {
     },
     maxSize: Infinity,
   });
+
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24 bg-black text-white">
       <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
@@ -72,14 +114,22 @@ export default function Home() {
       {showDropzone && (
         <div
           {...getRootProps()}
-          className={`relative flex items-center justify-center p-4 border-4 text-white text-lg transition-colors ${
-            isDragActive
-              ? "border-dashed border-white bg-white/10"
-              : "border-white hover:border-gray-300 hover:bg-gray-800/30"
+          className={`relative flex items-center justify-center p-4 text-white text-lg transition-colors ${
+            isLoading
+              ? ""
+              : `border-4 ${
+                  isDragActive
+                    ? "border-dashed border-white bg-white/10"
+                    : "border-white hover:border-gray-300 hover:bg-gray-800/30"
+                }`
           }`}
         >
           <input {...getInputProps()} />
-          {isDragActive ? (
+          {isLoading ? (
+            <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-50">
+              <BarLoader color="#ffffff" height={10} />
+            </div>
+          ) : isDragActive ? (
             <p>Drop the drone footage here...</p>
           ) : (
             <span className="inline-flex items-center">
@@ -107,7 +157,11 @@ export default function Home() {
           </AlertTitle>
           <AlertDescription>{uploadMessage}</AlertDescription>
           <div className="mt-4">
-            <Button variant="outline" onClick={handleDismiss}>
+            <Button
+              variant="outline"
+              className="text-black"
+              onClick={handleDismiss}
+            >
               Dismiss
             </Button>
           </div>
@@ -116,38 +170,34 @@ export default function Home() {
 
       {uploadedVideo && (
         <div className="mt-8">
-          <video src={uploadedVideo} controls width="640" height="480" />
-        </div>
-      )}
-
-      <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-2 lg:text-left">
-        <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className="mb-3 text-2xl font-semibold">Heatmap </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Find in-depth information about Next.js features and API.
-          </p>
-        </a>
-
-        <div className="group rounded-lg border border-transparent px-5 py-4 transition-color hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
-          <h2 className="mb-3 text-2xl font-semibold">
-            Chat
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-            Ask us anything!
-          </p>
+          <video
+            src={uploadedVideo}
+            controls
+            width="640"
+            height="480"
+            onTimeUpdate={handleTimeUpdate}
+          />
           <div className="mt-4">
-            <Chat />
+            <div className="bg-black shadow-md rounded-lg p-4 text-white">
+              <div className="font-bold mb-2">Current Metadata</div>
+              <div>{currentMetadata}</div>
+              <div className="mt-4">
+                <div className="font-bold mb-2">Metadata Log</div>
+                <div className="max-h-64 overflow-y-auto">
+                  {metadataLog.map((entry, index) => (
+                    <div key={index} className="mb-2">
+                      <div className="text-sm text-gray-300">
+                        Timestamp: {formatTimestamp(entry.timestamp)}
+                      </div>
+                      <div>{entry.data}</div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
           </div>
         </div>
-      </div>
+      )}
     </main>
   );
 }
