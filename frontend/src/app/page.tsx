@@ -314,14 +314,12 @@ export default function Home() {
                   const blob = await fetch(dataUrl).then((res) => res.blob());
                   const formData = new FormData();
                   formData.append("file", blob, "frame.png");
-                  const response = await axios.post(`https://252c-4-78-254-114.ngrok-free.app/heatmap?center=${localization}`, {
-                    responseType: "blob",
+                  const response = await axios.post(`https://b887-12-94-170-82.ngrok-free.app/heatmap?center=${localization}`, formData, {
                     headers: {
                       "Content-Type": "multipart/form-data"
-                    },
-                    method: "POST",
-                    data: formData
-                  });
+                    }
+                  }
+                  );
                   const data = response.data;
                   setLocalizationResponse(data);
                 }}>Localize</button>
