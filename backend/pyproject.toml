@@ -22,7 +22,12 @@ yapf = "^0.40.2"
 pycocotools = "^2.0.7"
 timm = "^0.9.16"
 tqdm = "^4.66.4"
-
+openai = "^1.25.1"
+python-dotenv = "^1.0.1"
+jinja2 = "^3.1.3"
+requests = "^2.31.0"
+numpy = "^1.26.4"
+tankbuster = "^0.3.2"
 
 [build-system]
 requires = ["poetry-core"]

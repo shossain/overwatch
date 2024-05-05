@@ -1,0 +1,1 @@
+Here is a JSON object summarizing what has happened in the video clip: {{summarization}}
