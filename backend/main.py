@@ -2,27 +2,32 @@ import json
 import logging
 import os
 
+import cv2
 import decord
 import torch
 import uvicorn
 from fastapi import FastAPI, HTTPException, UploadFile
+from GroundingDINO.groundingdino.util.inference import (
+    annotate,
+    load_image,
+    load_model,
+    predict,
+)
 from PIL import Image
 from pydantic import BaseModel
-from transformers import AutoModelForZeroShotObjectDetection, AutoProcessor
 
 FILE_PATH = "files"
 app = FastAPI()
 logging.basicConfig(level=logging.INFO)
 
 logging.info("Loading grounding-dino")
-model_id = "IDEA-Research/grounding-dino-base"
-device = "cuda"
 try:
-    processor = AutoProcessor.from_pretrained(model_id)
-    model = AutoModelForZeroShotObjectDetection.from_pretrained(model_id).to(device)
-    logging.info("Done loading grounding-dino")
+    model = load_model(
+        "groundingdino/config/GroundingDINO_SwinT_OGC.py",
+        "weights/groundingdino_swint_ogc.pth",
+    )
 except Exception as e:
-    logging.error(f"Failed to load model or processor: {e}")
+    logging.error(f"Failed to load model: {e}")
     raise
 
 
@@ -68,24 +73,29 @@ async def run_grounding_dino(target_video: str, query: str):
     video = get_video_from_path(target_video)
     video_path = video.file
     logging.info(f"Running Grounding Dino on video path: {video_path}")
-    video = decord.VideoReader(video_path)
+
+    vr = decord.VideoReader(video_path)
+    frames = vr.get_batch(range(0, len(vr), 10)).asnumpy()  # Extract every 10th frame
+
     results = []
-    for frame in video:
-        image = Image.fromarray(frame.asnumpy())
-
-        inputs = processor(images=image, text=query, return_tensors="pt").to(device)
-        with torch.no_grad():
-            outputs = model(**inputs)
-
-        frame_results = processor.post_process_grounded_object_detection(
-            outputs,
-            inputs.input_ids,
-            box_threshold=0.4,
-            text_threshold=0.3,
-            target_sizes=[image.size[::-1]],
+    for frame in frames:
+        image = Image.fromarray(frame)
+        image_source, processed_image = load_image(
+            image
         )
 
-        results.append(frame_results)
+        boxes, logits, phrases = predict(
+            model=model,
+            image=processed_image,
+            caption=query,
+            box_threshold=0.35,
+            text_threshold=0.25,
+        )
+
+        annotated_frame = annotate(
+            image_source=image_source, boxes=boxes, logits=logits, phrases=phrases
+        )
+        results.append(annotated_frame)
 
     return results
 
