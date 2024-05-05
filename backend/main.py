@@ -4,20 +4,26 @@ import os
 import decord
 import torch
 from fastapi import FastAPI, HTTPException, UploadFile
-from fastapi.responses import FileResponse
 from PIL import Image
 from pydantic import BaseModel
 from transformers import AutoModelForZeroShotObjectDetection, AutoProcessor
 import logging
+import uvicorn
 
 FILE_PATH = "files"
 app = FastAPI()
 logging.basicConfig(level=logging.INFO)
 
+logging.info("Loading grounding-dino")
 model_id = "IDEA-Research/grounding-dino-base"
 device = "cuda"
-processor = AutoProcessor.from_pretrained(model_id)
-model = AutoModelForZeroShotObjectDetection.from_pretrained(model_id).to(device)
+try:
+    processor = AutoProcessor.from_pretrained(model_id)
+    model = AutoModelForZeroShotObjectDetection.from_pretrained(model_id).to(device)
+    logging.info("Done loading grounding-dino")
+except Exception as e:
+    logging.error(f"Failed to load model or processor: {e}")
+    raise
 
 
 
@@ -83,3 +89,6 @@ async def run_grounding_dino(target_video: str, query: str):
         results.append(frame_results)
 
     return results
+
+if __name__ == "__main__":
+    uvicorn.run("main:app", host="0.0.0.0", port=8080, reload=True)
