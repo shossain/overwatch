@@ -80,9 +80,7 @@ async def run_grounding_dino(target_video: str, query: str):
     results = []
     for frame in frames:
         image = Image.fromarray(frame)
-        image_source, processed_image = load_image(
-            image
-        )
+        image_source, processed_image = load_image(image)
 
         boxes, logits, phrases = predict(
             model=model,
