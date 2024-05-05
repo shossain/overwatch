@@ -1,6 +1,7 @@
 import json
 import logging
 import os
+from typing import List
 
 import cv2
 import decord
@@ -24,7 +25,7 @@ logging.info("Loading grounding-dino")
 try:
     model = load_model(
         "GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py",
-        "GroundingDINO/groundingdino/weights/groundingdino_swint_ogc.pth",
+        "GroundingDINO/weights/groundingdino_swint_ogc.pth",
     )
 except Exception as e:
     logging.error(f"Failed to load model: {e}")
@@ -33,7 +34,7 @@ except Exception as e:
 
 class VideoMetadata(BaseModel):
     file: str
-    metadata: dict
+    metadata: List[List[dict]]
 
 
 def get_video_from_path(video_name: str) -> VideoMetadata:
@@ -75,7 +76,7 @@ async def run_grounding_dino(target_video: str, query: str):
     logging.info(f"Running Grounding Dino on video path: {video_path}")
 
     vr = decord.VideoReader(video_path)
-    frames = vr.get_batch(range(0, len(vr), 10)).asnumpy()  # Extract every 10th frame
+    frames = vr.get_batch(range(0, len(vr), 10)).asnumpy()
 
     results = []
     for frame in frames:
