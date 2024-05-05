@@ -23,8 +23,8 @@ logging.basicConfig(level=logging.INFO)
 logging.info("Loading grounding-dino")
 try:
     model = load_model(
-        "groundingdino/config/GroundingDINO_SwinT_OGC.py",
-        "weights/groundingdino_swint_ogc.pth",
+        "GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py",
+        "GroundingDINO/groundingdino/weights/groundingdino_swint_ogc.pth",
     )
 except Exception as e:
     logging.error(f"Failed to load model: {e}")
