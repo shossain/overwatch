@@ -34,7 +34,7 @@ export default function Home() {
             `${API_URL}/drone_footage`,
             formData,
           );
-          setUploadedVideo(response.data.file);
+          setUploadedVideo(response.data.file_response.url);
           setUploadStatus("success");
           setUploadMessage("Video uploaded successfully!");
         } catch (error) {
@@ -118,7 +118,7 @@ export default function Home() {
       {uploadedVideo && (
         <div className="mt-8">
           <video
-            src={`${API_URL}${uploadedVideo}`}
+            src={uploadedVideo}
             controls
             width="640"
             height="480"
