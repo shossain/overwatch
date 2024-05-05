@@ -19,10 +19,11 @@ model = AutoModelForZeroShotObjectDetection.from_pretrained(model_id).to(device)
 
 
 class VideoMetadata(BaseModel):
-    json_data: dict
+    file: str
+    metadata: dict
 
 
-def get_video_from_path(video_name: str) -> tuple[FileResponse, VideoMetadata]:
+def get_video_from_path(video_name: str) -> VideoMetadata:
     file_path = os.path.join(FILE_PATH, video_name)
     if not os.path.exists(file_path):
         raise HTTPException(status_code=404, detail="Video file not found.")
@@ -37,7 +38,7 @@ def get_video_from_path(video_name: str) -> tuple[FileResponse, VideoMetadata]:
         with open(json_file_path, "r") as json_file:
             json_data = json.load(json_file)
 
-        return FileResponse(processed_video_path), VideoMetadata(json_data=json_data)
+        return VideoMetadata(file=processed_video_path, metadata=json_data)
     else:
         raise HTTPException(
             status_code=404, detail="Processed video and metadata not found."
@@ -45,7 +46,7 @@ def get_video_from_path(video_name: str) -> tuple[FileResponse, VideoMetadata]:
 
 
 @app.post("/drone_footage")
-async def upload_drone_footage(file: UploadFile) -> tuple[FileResponse, VideoMetadata]:
+async def upload_drone_footage(file: UploadFile) -> VideoMetadata:
     if file.filename:
         if not file.filename.endswith(".mp4"):
             raise HTTPException(
@@ -59,9 +60,9 @@ async def upload_drone_footage(file: UploadFile) -> tuple[FileResponse, VideoMet
 
 @app.post("/grounding_dino")
 async def run_grounding_dino(target_video: str, query: str):
-    file_response, _ = get_video_from_path(target_video)
+    video = get_video_from_path(target_video)
 
-    video_path = file_response.path
+    video_path = video.file
 
     video = decord.VideoReader(video_path)
 
