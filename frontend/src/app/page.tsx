@@ -38,13 +38,11 @@ export default function Home() {
           setUploadStatus("success");
           setUploadMessage("Video uploaded successfully!");
         } catch (error) {
-          console.error("Error uploading video:", error);
           setUploadStatus("error");
           setUploadMessage("Failed to upload video. Please try again.");
           setShowDropzone(false);
         }
       } else {
-        console.log("File type not supported");
         setUploadStatus("error");
         setUploadMessage("Unsupported file type. Please upload an MP4 video.");
       }
