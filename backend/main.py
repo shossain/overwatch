@@ -1,3 +1,4 @@
+import numpy as np
 import json
 import logging
 import os
@@ -10,10 +11,11 @@ import uvicorn
 from fastapi import FastAPI, HTTPException, UploadFile
 from GroundingDINO.groundingdino.util.inference import (
     annotate,
-    load_image,
+    load_image_from_path,
     load_model,
     predict,
 )
+from tqdm import tqdm
 from PIL import Image
 from pydantic import BaseModel
 
@@ -26,7 +28,7 @@ try:
     model = load_model(
         "GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py",
         "GroundingDINO/weights/groundingdino_swint_ogc.pth",
-    )
+    ).to("cuda")
 except Exception as e:
     logging.error(f"Failed to load model: {e}")
     raise
@@ -79,9 +81,12 @@ async def run_grounding_dino(target_video: str, query: str):
     frames = vr.get_batch(range(0, len(vr), 10)).asnumpy()
 
     results = []
-    for frame in frames:
-        image = Image.fromarray(frame)
-        image_source, processed_image = load_image(image)
+    for frame in tqdm(frames):
+        image = Image.fromarray(frame.astype(np.uint8))
+        output_path = "image.jpg"
+        image.save(output_path)
+        image_source, processed_image = load_image_from_path(output_path)
+        #image_source, processed_image = load_image(image)
 
         boxes, logits, phrases = predict(
             model=model,
