@@ -1,0 +1,3881 @@
+[
+  [
+    { "id": 1, "centroid": [824, 281], "size": 14.0, "prompt": "vehicle" },
+    { "id": 2, "centroid": [812, 268], "size": 41963.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [573, 211], "size": 907.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [812, 269], "size": 41999.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [573, 212], "size": 913.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [812, 269], "size": 41996.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [573, 212], "size": 918.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [812, 269], "size": 42011.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [573, 212], "size": 905.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [812, 269], "size": 42006.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [573, 212], "size": 905.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [812, 270], "size": 42207.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [573, 213], "size": 886.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [811, 274], "size": 42544.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [570, 216], "size": 852.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [810, 278], "size": 42446.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [570, 221], "size": 880.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [809, 282], "size": 42395.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [569, 225], "size": 902.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [809, 287], "size": 42505.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [569, 230], "size": 941.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [809, 292], "size": 42710.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [569, 235], "size": 884.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [808, 298], "size": 42521.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [568, 240], "size": 892.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [808, 304], "size": 42552.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [568, 247], "size": 912.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [809, 310], "size": 42723.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [568, 252], "size": 922.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [809, 316], "size": 43228.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 258], "size": 918.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [809, 323], "size": 43451.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 265], "size": 931.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [809, 330], "size": 43572.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [565, 271], "size": 923.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [809, 336], "size": 44040.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [565, 277], "size": 935.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [809, 343], "size": 44202.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [565, 284], "size": 955.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [810, 350], "size": 44225.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [564, 291], "size": 961.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [810, 355], "size": 44772.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [564, 296], "size": 959.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [810, 361], "size": 44743.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 302], "size": 983.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [810, 367], "size": 44589.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 308], "size": 981.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [810, 372], "size": 44828.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [564, 313], "size": 959.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [809, 378], "size": 44699.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 319], "size": 962.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [809, 384], "size": 44789.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 325], "size": 958.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [809, 389], "size": 44736.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 330], "size": 975.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [809, 394], "size": 44943.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [562, 335], "size": 964.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [809, 399], "size": 44823.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [562, 340], "size": 964.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [809, 403], "size": 44797.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [562, 345], "size": 954.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [808, 407], "size": 44870.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [561, 348], "size": 974.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [808, 411], "size": 45010.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [561, 352], "size": 951.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [807, 413], "size": 45027.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [560, 354], "size": 956.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [807, 415], "size": 44989.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [560, 356], "size": 945.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [807, 417], "size": 44895.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [560, 358], "size": 936.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [806, 418], "size": 44824.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [560, 359], "size": 955.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [806, 418], "size": 44780.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [559, 359], "size": 947.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [805, 419], "size": 44471.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [559, 360], "size": 934.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [804, 418], "size": 44192.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [560, 359], "size": 937.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [803, 417], "size": 43943.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [560, 358], "size": 917.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [803, 416], "size": 43488.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [560, 358], "size": 908.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [801, 415], "size": 43097.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [560, 357], "size": 890.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [800, 415], "size": 42653.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [560, 357], "size": 882.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [800, 414], "size": 42253.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [560, 357], "size": 877.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [799, 414], "size": 41992.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [561, 356], "size": 854.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [798, 413], "size": 41606.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [561, 356], "size": 861.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [797, 413], "size": 41248.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [561, 356], "size": 861.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [796, 412], "size": 40740.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [562, 356], "size": 848.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [796, 411], "size": 40510.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 355], "size": 834.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [795, 411], "size": 40224.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 355], "size": 836.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [794, 410], "size": 39915.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 355], "size": 839.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [794, 410], "size": 39467.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [564, 355], "size": 833.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [793, 409], "size": 39077.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [564, 354], "size": 827.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [793, 409], "size": 38584.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [564, 354], "size": 839.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [791, 408], "size": 38054.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [565, 354], "size": 817.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [790, 407], "size": 37609.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [565, 353], "size": 812.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [790, 407], "size": 37363.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [565, 353], "size": 806.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [789, 406], "size": 37039.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 353], "size": 791.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [788, 406], "size": 36676.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 353], "size": 783.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [787, 406], "size": 36347.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 353], "size": 780.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [786, 405], "size": 36006.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 353], "size": 766.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [786, 404], "size": 35698.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 352], "size": 753.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [785, 404], "size": 35357.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 352], "size": 752.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [784, 404], "size": 35053.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 351], "size": 739.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [783, 403], "size": 34677.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 351], "size": 754.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [782, 403], "size": 34425.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [567, 351], "size": 742.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [782, 402], "size": 34167.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [567, 351], "size": 740.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [780, 402], "size": 33659.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [567, 351], "size": 745.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [780, 402], "size": 33636.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [567, 351], "size": 734.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [780, 401], "size": 33655.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 350], "size": 740.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [779, 401], "size": 33650.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 350], "size": 744.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [779, 401], "size": 33664.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 350], "size": 750.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [779, 401], "size": 33677.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 350], "size": 749.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [779, 401], "size": 33698.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [565, 350], "size": 743.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [779, 401], "size": 33682.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [565, 350], "size": 744.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [778, 401], "size": 33670.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [565, 350], "size": 742.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [778, 400], "size": 33658.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [565, 350], "size": 758.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [778, 400], "size": 33689.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [565, 350], "size": 747.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [778, 400], "size": 33688.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [564, 349], "size": 735.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [778, 400], "size": 33667.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [564, 349], "size": 740.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [777, 400], "size": 33681.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [564, 349], "size": 742.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [777, 399], "size": 33680.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [564, 348], "size": 745.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [777, 399], "size": 33679.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 348], "size": 729.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [777, 399], "size": 33706.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 348], "size": 737.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [777, 398], "size": 33684.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 347], "size": 720.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [777, 398], "size": 33677.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 347], "size": 731.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [777, 397], "size": 33637.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 346], "size": 732.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [777, 396], "size": 33618.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 345], "size": 746.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [777, 396], "size": 33614.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 345], "size": 738.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [777, 394], "size": 33587.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 344], "size": 717.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [777, 393], "size": 33508.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 342], "size": 709.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [777, 393], "size": 33513.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 342], "size": 721.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [776, 392], "size": 33520.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [562, 341], "size": 715.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [777, 391], "size": 33561.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 340], "size": 723.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [777, 390], "size": 33547.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 339], "size": 707.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [776, 389], "size": 33398.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 338], "size": 710.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [776, 389], "size": 33226.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 338], "size": 702.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [774, 388], "size": 32612.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [565, 337], "size": 701.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [773, 387], "size": 31623.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 337], "size": 682.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [773, 386], "size": 31661.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 337], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [773, 386], "size": 31689.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 336], "size": 691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [773, 385], "size": 31698.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 336], "size": 699.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [773, 385], "size": 31687.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 335], "size": 704.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [773, 384], "size": 31686.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 335], "size": 693.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [773, 384], "size": 31649.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 335], "size": 682.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [773, 383], "size": 31640.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [567, 334], "size": 686.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [773, 382], "size": 31616.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 333], "size": 686.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [773, 382], "size": 31616.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 333], "size": 695.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [773, 381], "size": 31598.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 332], "size": 694.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [774, 381], "size": 31533.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 332], "size": 698.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [774, 380], "size": 31555.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 331], "size": 704.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [773, 380], "size": 31544.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 331], "size": 705.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [773, 379], "size": 31516.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [567, 330], "size": 695.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [773, 379], "size": 31460.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [567, 329], "size": 688.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [773, 378], "size": 31447.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 328], "size": 690.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [773, 378], "size": 31429.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [566, 328], "size": 704.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [772, 377], "size": 31369.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [565, 327], "size": 684.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [772, 376], "size": 31348.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [565, 327], "size": 692.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [772, 376], "size": 31392.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [565, 326], "size": 699.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [771, 375], "size": 31364.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [564, 325], "size": 695.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [771, 375], "size": 31405.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [564, 325], "size": 692.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [770, 374], "size": 31436.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 324], "size": 688.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [770, 373], "size": 31458.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [563, 324], "size": 686.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [769, 373], "size": 31387.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [562, 323], "size": 682.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [769, 372], "size": 31332.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [562, 323], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [768, 372], "size": 31356.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [561, 322], "size": 675.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [768, 371], "size": 31369.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [561, 322], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [767, 371], "size": 31337.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [559, 322], "size": 681.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [766, 370], "size": 31310.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [559, 321], "size": 692.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [766, 370], "size": 31360.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [558, 321], "size": 684.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [764, 370], "size": 31353.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [557, 320], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [763, 369], "size": 31303.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [556, 320], "size": 672.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [762, 369], "size": 31328.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [555, 320], "size": 671.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [760, 368], "size": 31426.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [553, 319], "size": 663.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [758, 367], "size": 31415.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [551, 318], "size": 654.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [757, 367], "size": 31393.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [558, 313], "size": 929.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [756, 367], "size": 31371.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [549, 317], "size": 691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [754, 366], "size": 31431.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [547, 317], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [753, 366], "size": 31515.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [546, 317], "size": 685.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [752, 365], "size": 31516.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [545, 317], "size": 678.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [750, 365], "size": 31516.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [543, 316], "size": 698.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [748, 364], "size": 31489.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [541, 316], "size": 702.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [747, 364], "size": 31465.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [540, 315], "size": 703.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [746, 363], "size": 31527.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [539, 314], "size": 713.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [745, 363], "size": 31465.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [537, 315], "size": 713.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [744, 363], "size": 31475.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [537, 314], "size": 700.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [742, 362], "size": 31439.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [535, 314], "size": 706.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [741, 362], "size": 31494.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [534, 314], "size": 691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [739, 362], "size": 31375.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [532, 314], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [737, 361], "size": 31355.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [530, 313], "size": 686.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [736, 361], "size": 31334.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [529, 312], "size": 671.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [735, 361], "size": 31439.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [528, 312], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [733, 361], "size": 31468.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [527, 312], "size": 688.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [732, 360], "size": 31470.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [525, 312], "size": 674.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [730, 360], "size": 31409.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [522, 311], "size": 714.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [729, 359], "size": 31482.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [521, 311], "size": 693.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [727, 359], "size": 31464.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [520, 311], "size": 697.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [726, 359], "size": 31500.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [518, 310], "size": 684.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [725, 358], "size": 31512.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [517, 310], "size": 682.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [723, 358], "size": 31487.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [516, 310], "size": 680.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [721, 357], "size": 31448.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [515, 310], "size": 671.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [720, 357], "size": 31412.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [513, 309], "size": 675.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [718, 356], "size": 31349.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [511, 308], "size": 657.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [717, 356], "size": 31272.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [510, 308], "size": 668.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [716, 356], "size": 31252.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [508, 308], "size": 650.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [715, 355], "size": 31258.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [507, 307], "size": 663.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [713, 355], "size": 31190.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [506, 307], "size": 669.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [712, 355], "size": 31225.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [505, 306], "size": 661.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [711, 354], "size": 31237.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [503, 306], "size": 674.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [710, 354], "size": 31234.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [501, 306], "size": 682.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [708, 353], "size": 31257.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [500, 305], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [707, 353], "size": 31302.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [498, 305], "size": 685.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [706, 352], "size": 31299.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [497, 304], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [704, 352], "size": 31228.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [496, 304], "size": 664.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [702, 352], "size": 31271.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [494, 304], "size": 669.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [701, 351], "size": 31273.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [493, 304], "size": 661.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [699, 351], "size": 31072.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [491, 304], "size": 666.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [697, 351], "size": 31168.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [489, 303], "size": 654.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [696, 351], "size": 31164.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [488, 303], "size": 650.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [694, 350], "size": 31127.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [487, 302], "size": 671.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [693, 349], "size": 31124.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [485, 302], "size": 661.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [692, 350], "size": 31369.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [484, 302], "size": 675.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [690, 349], "size": 31387.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [483, 302], "size": 690.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [689, 349], "size": 31323.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [482, 301], "size": 686.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [688, 348], "size": 31333.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [481, 301], "size": 689.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [687, 348], "size": 31310.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [480, 301], "size": 669.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [686, 348], "size": 31320.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [478, 301], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [684, 348], "size": 31288.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [477, 300], "size": 688.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [683, 347], "size": 31255.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [476, 300], "size": 689.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [682, 347], "size": 31364.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [475, 299], "size": 664.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [681, 347], "size": 31398.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [473, 299], "size": 685.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [680, 346], "size": 31385.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [473, 299], "size": 674.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [679, 346], "size": 31416.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [472, 299], "size": 675.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [678, 346], "size": 31420.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [471, 299], "size": 680.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [678, 346], "size": 31378.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [471, 298], "size": 688.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [677, 345], "size": 31419.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [469, 298], "size": 692.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [676, 345], "size": 31423.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [468, 297], "size": 694.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [675, 345], "size": 31400.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [468, 297], "size": 692.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [674, 344], "size": 31404.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [467, 297], "size": 699.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [674, 344], "size": 31411.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [467, 297], "size": 707.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [673, 344], "size": 31335.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [465, 297], "size": 701.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [672, 343], "size": 31375.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [464, 296], "size": 707.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [671, 343], "size": 31295.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [464, 296], "size": 693.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [670, 343], "size": 31356.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [462, 296], "size": 690.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [669, 343], "size": 31383.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [462, 296], "size": 696.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [668, 342], "size": 31445.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [460, 295], "size": 698.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [667, 342], "size": 31422.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [459, 295], "size": 696.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [666, 342], "size": 31391.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [458, 295], "size": 694.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [665, 342], "size": 31356.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [458, 295], "size": 695.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [663, 342], "size": 31367.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [456, 295], "size": 684.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [662, 341], "size": 31404.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [455, 294], "size": 691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [661, 341], "size": 31441.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [454, 294], "size": 684.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [660, 341], "size": 31438.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [453, 294], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [659, 340], "size": 31364.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [452, 293], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [658, 340], "size": 31349.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [451, 293], "size": 656.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [657, 340], "size": 31342.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [450, 293], "size": 670.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [656, 340], "size": 31332.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [449, 293], "size": 670.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [655, 339], "size": 31405.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [448, 292], "size": 684.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [654, 339], "size": 31365.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [447, 292], "size": 669.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [654, 339], "size": 31374.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [446, 292], "size": 671.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [653, 338], "size": 31375.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [445, 292], "size": 681.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [652, 338], "size": 31425.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [444, 291], "size": 689.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 338], "size": 31405.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 291], "size": 673.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [650, 338], "size": 31415.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [442, 291], "size": 684.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 337], "size": 31404.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [442, 290], "size": 694.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 337], "size": 31410.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 290], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 337], "size": 31454.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 290], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 337], "size": 31485.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 289], "size": 680.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 337], "size": 31496.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 289], "size": 685.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 337], "size": 31482.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 289], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 336], "size": 31507.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 289], "size": 673.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 336], "size": 31536.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 289], "size": 673.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 336], "size": 31505.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 289], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 336], "size": 31475.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 288], "size": 690.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 335], "size": 31449.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 288], "size": 684.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 335], "size": 31435.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 288], "size": 688.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 335], "size": 31444.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 288], "size": 690.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 335], "size": 31436.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 288], "size": 693.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 335], "size": 31445.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 288], "size": 695.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 335], "size": 31462.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 288], "size": 698.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 335], "size": 31500.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [447, 282], "size": 969.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 334], "size": 31414.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 287], "size": 694.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 334], "size": 31392.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 287], "size": 691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 334], "size": 31376.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 287], "size": 690.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 334], "size": 31374.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 286], "size": 689.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 333], "size": 31362.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 286], "size": 691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 333], "size": 31374.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 286], "size": 693.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 333], "size": 31366.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 286], "size": 704.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 333], "size": 31350.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 286], "size": 705.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 333], "size": 31373.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 285], "size": 702.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 332], "size": 31371.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 285], "size": 692.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 332], "size": 31353.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 285], "size": 693.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 332], "size": 31344.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 285], "size": 696.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 332], "size": 31372.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 285], "size": 702.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 332], "size": 31367.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 284], "size": 698.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 332], "size": 31391.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 284], "size": 700.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 332], "size": 31361.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 284], "size": 703.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 331], "size": 31361.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 284], "size": 699.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 331], "size": 31335.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 284], "size": 681.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 331], "size": 31383.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 284], "size": 680.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 331], "size": 31354.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 283], "size": 690.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 331], "size": 31352.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 283], "size": 687.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 331], "size": 31365.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 283], "size": 689.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 331], "size": 31422.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 283], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 331], "size": 31432.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 283], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 331], "size": 31461.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 283], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 331], "size": 31460.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 283], "size": 681.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 331], "size": 31426.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 283], "size": 688.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 330], "size": 31402.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 283], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [646, 330], "size": 31378.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 282], "size": 680.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [646, 330], "size": 31355.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 282], "size": 667.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 330], "size": 31403.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 282], "size": 670.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 330], "size": 31414.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 282], "size": 664.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 330], "size": 31404.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 282], "size": 682.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 329], "size": 31395.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 281], "size": 670.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [646, 329], "size": 31415.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 281], "size": 672.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [646, 329], "size": 31411.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 281], "size": 672.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 329], "size": 31443.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 281], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 328], "size": 31469.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 281], "size": 686.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 328], "size": 31481.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 281], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 328], "size": 31491.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 281], "size": 690.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 328], "size": 31517.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 280], "size": 690.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 328], "size": 31492.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 280], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 327], "size": 31487.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 280], "size": 674.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 327], "size": 31483.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 280], "size": 681.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 327], "size": 31508.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 279], "size": 681.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 327], "size": 31470.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 279], "size": 684.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 327], "size": 31484.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 279], "size": 681.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 327], "size": 31476.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 279], "size": 681.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 327], "size": 31487.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 279], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 326], "size": 31492.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 279], "size": 682.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 326], "size": 31541.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 278], "size": 690.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 326], "size": 31562.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 278], "size": 691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 326], "size": 31570.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 278], "size": 694.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 326], "size": 31544.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 278], "size": 688.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 326], "size": 31530.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 278], "size": 692.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 325], "size": 31570.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 277], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 325], "size": 31550.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 277], "size": 678.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 325], "size": 31555.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 277], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 325], "size": 31545.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 277], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 325], "size": 31564.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 277], "size": 680.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 325], "size": 31580.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 277], "size": 670.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 324], "size": 31576.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 276], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 324], "size": 31585.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 276], "size": 678.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 324], "size": 31574.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 276], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 324], "size": 31564.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 276], "size": 675.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 324], "size": 31552.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 276], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 324], "size": 31558.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 276], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 323], "size": 31542.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 275], "size": 678.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 323], "size": 31551.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 275], "size": 680.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 323], "size": 31546.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 275], "size": 681.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 323], "size": 31560.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 275], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 323], "size": 31558.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 275], "size": 682.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 323], "size": 31560.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 275], "size": 678.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 322], "size": 31587.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 275], "size": 682.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [650, 322], "size": 31618.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [442, 274], "size": 690.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [650, 322], "size": 31574.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [442, 274], "size": 698.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [650, 322], "size": 31598.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [442, 274], "size": 695.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [650, 322], "size": 31576.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [442, 274], "size": 694.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [650, 321], "size": 31600.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [442, 273], "size": 697.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [650, 321], "size": 31596.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [442, 273], "size": 692.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [650, 321], "size": 31610.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 273], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 320], "size": 31583.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 273], "size": 674.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 321], "size": 31574.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 273], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 320], "size": 31582.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 273], "size": 674.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 320], "size": 31577.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 273], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 320], "size": 31580.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 273], "size": 675.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 320], "size": 31571.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 272], "size": 669.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 320], "size": 31594.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 272], "size": 667.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 320], "size": 31594.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 272], "size": 666.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 320], "size": 31589.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 272], "size": 663.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 320], "size": 31564.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 272], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 320], "size": 31573.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 272], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 320], "size": 31579.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 272], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 320], "size": 31581.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 272], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 319], "size": 31549.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 272], "size": 672.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 319], "size": 31539.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 272], "size": 673.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 319], "size": 31555.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 271], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 319], "size": 31561.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 271], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [651, 319], "size": 31520.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [443, 271], "size": 678.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [650, 319], "size": 31512.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [442, 271], "size": 687.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [650, 319], "size": 31514.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [442, 271], "size": 691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [650, 319], "size": 31536.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [442, 271], "size": 691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [650, 319], "size": 31531.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [442, 271], "size": 690.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [650, 319], "size": 31530.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [442, 271], "size": 691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [650, 319], "size": 31530.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [442, 271], "size": 696.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [650, 319], "size": 31534.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [442, 271], "size": 697.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [650, 319], "size": 31539.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [442, 271], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [650, 319], "size": 31538.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [442, 271], "size": 681.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [650, 318], "size": 31531.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 271], "size": 682.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 318], "size": 31492.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 271], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 318], "size": 31451.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 270], "size": 687.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 318], "size": 31471.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 270], "size": 682.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 318], "size": 31474.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 270], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 318], "size": 31483.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 270], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 318], "size": 31503.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 270], "size": 674.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 318], "size": 31519.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 270], "size": 675.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 318], "size": 31500.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 270], "size": 675.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 318], "size": 31508.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 270], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 318], "size": 31506.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 270], "size": 675.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 318], "size": 31502.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 270], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 318], "size": 31480.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 270], "size": 681.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 318], "size": 31491.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 270], "size": 682.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [649, 317], "size": 31491.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [441, 270], "size": 692.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 317], "size": 31479.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 270], "size": 687.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 317], "size": 31516.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 270], "size": 689.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 318], "size": 31495.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 270], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 318], "size": 31486.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 270], "size": 675.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 318], "size": 31489.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 270], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 318], "size": 31513.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 270], "size": 689.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 318], "size": 31530.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 270], "size": 700.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 318], "size": 31554.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 270], "size": 695.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [648, 319], "size": 31580.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [440, 271], "size": 691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 319], "size": 31592.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 271], "size": 696.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 319], "size": 31595.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 271], "size": 691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 319], "size": 31554.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [439, 272], "size": 682.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 319], "size": 31562.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [438, 272], "size": 671.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [647, 320], "size": 31574.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [438, 272], "size": 669.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [646, 320], "size": 31593.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [438, 272], "size": 671.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [646, 320], "size": 31590.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [438, 272], "size": 669.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [646, 320], "size": 31590.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [438, 272], "size": 678.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [646, 320], "size": 31560.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [438, 272], "size": 678.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [646, 321], "size": 31538.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [438, 273], "size": 671.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [646, 321], "size": 31583.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [438, 273], "size": 672.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [646, 321], "size": 31580.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [438, 273], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [645, 322], "size": 31588.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [438, 274], "size": 680.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [645, 322], "size": 31550.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [438, 274], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [645, 323], "size": 31635.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [438, 275], "size": 678.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [645, 324], "size": 31601.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [438, 276], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [645, 326], "size": 31595.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [437, 277], "size": 667.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [645, 327], "size": 31518.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [437, 279], "size": 666.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [645, 330], "size": 31544.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [437, 281], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [644, 331], "size": 31563.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [437, 283], "size": 665.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [645, 334], "size": 31636.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [437, 286], "size": 689.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [644, 336], "size": 31628.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [437, 288], "size": 684.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [644, 338], "size": 31659.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [437, 290], "size": 700.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [644, 340], "size": 31701.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [437, 292], "size": 689.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [644, 343], "size": 31668.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [436, 295], "size": 701.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [644, 345], "size": 31655.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [436, 297], "size": 661.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [644, 348], "size": 31543.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [436, 300], "size": 656.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [644, 350], "size": 31535.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [436, 302], "size": 649.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [643, 353], "size": 31522.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [436, 305], "size": 668.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [644, 355], "size": 31494.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [436, 307], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [643, 358], "size": 31544.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [435, 310], "size": 690.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [643, 360], "size": 31639.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [435, 313], "size": 696.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [643, 363], "size": 31664.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [436, 315], "size": 692.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [643, 366], "size": 31701.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [435, 317], "size": 675.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [643, 368], "size": 31604.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [435, 320], "size": 654.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [643, 371], "size": 31576.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [435, 323], "size": 668.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [643, 373], "size": 31649.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [435, 325], "size": 673.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [643, 376], "size": 31638.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [435, 328], "size": 668.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [643, 379], "size": 31694.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [435, 331], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [643, 381], "size": 31790.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [435, 333], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [642, 383], "size": 31704.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [435, 335], "size": 668.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [642, 385], "size": 31719.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [434, 336], "size": 659.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [642, 386], "size": 31662.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [434, 338], "size": 661.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [642, 387], "size": 31547.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [434, 339], "size": 627.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [642, 388], "size": 31543.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [434, 340], "size": 629.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [642, 389], "size": 31535.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [434, 340], "size": 637.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [642, 390], "size": 31548.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [434, 341], "size": 643.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [641, 390], "size": 31538.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [434, 341], "size": 638.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [642, 390], "size": 31500.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [434, 342], "size": 642.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [642, 390], "size": 31480.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [434, 342], "size": 641.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [641, 390], "size": 31461.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [433, 341], "size": 655.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [641, 390], "size": 31455.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [433, 341], "size": 656.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [641, 390], "size": 31473.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [433, 341], "size": 659.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [641, 390], "size": 31500.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [433, 341], "size": 658.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [641, 389], "size": 31491.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [433, 341], "size": 651.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [641, 389], "size": 31475.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [433, 341], "size": 650.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [640, 389], "size": 31449.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [433, 341], "size": 656.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [640, 389], "size": 31449.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [433, 341], "size": 661.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [640, 389], "size": 31450.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [433, 341], "size": 659.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [640, 389], "size": 31489.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [432, 340], "size": 664.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [640, 389], "size": 31530.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [432, 340], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [640, 388], "size": 31518.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [432, 340], "size": 672.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [640, 388], "size": 31535.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [432, 340], "size": 665.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [640, 388], "size": 31527.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [432, 340], "size": 659.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [639, 388], "size": 31526.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [432, 340], "size": 650.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [639, 388], "size": 31506.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [432, 339], "size": 659.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [639, 388], "size": 31513.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [431, 339], "size": 667.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [639, 387], "size": 31521.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [431, 338], "size": 661.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [638, 387], "size": 31530.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [431, 339], "size": 659.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [638, 387], "size": 31564.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [430, 338], "size": 652.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [638, 387], "size": 31543.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [430, 338], "size": 657.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [638, 387], "size": 31547.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [430, 338], "size": 662.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [638, 387], "size": 31600.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [430, 338], "size": 674.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [637, 387], "size": 31594.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [430, 338], "size": 666.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [637, 387], "size": 31603.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 338], "size": 668.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [637, 387], "size": 31628.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 338], "size": 663.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [637, 387], "size": 31626.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 338], "size": 655.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [637, 387], "size": 31630.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 338], "size": 660.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [637, 387], "size": 31656.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 338], "size": 664.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [637, 387], "size": 31643.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 338], "size": 673.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [637, 386], "size": 31706.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 338], "size": 669.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [637, 386], "size": 31710.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 338], "size": 670.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [637, 386], "size": 31700.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 338], "size": 672.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [637, 386], "size": 31696.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 338], "size": 671.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [637, 386], "size": 31692.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 338], "size": 670.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [637, 386], "size": 31704.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 337], "size": 664.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [637, 386], "size": 31704.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 337], "size": 669.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [637, 386], "size": 31696.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 337], "size": 663.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [636, 386], "size": 31713.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 337], "size": 663.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [636, 385], "size": 31695.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 337], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [636, 385], "size": 31674.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [428, 337], "size": 686.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [636, 385], "size": 31696.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [428, 336], "size": 684.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [635, 385], "size": 31684.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [428, 336], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [636, 384], "size": 31663.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [428, 336], "size": 693.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [636, 384], "size": 31660.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [428, 336], "size": 692.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [636, 384], "size": 31681.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [428, 336], "size": 689.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [636, 384], "size": 31674.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [428, 336], "size": 689.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [635, 384], "size": 31677.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [428, 336], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [635, 384], "size": 31667.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [428, 335], "size": 692.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [635, 383], "size": 31646.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [428, 335], "size": 694.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [635, 383], "size": 31651.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [427, 335], "size": 696.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [634, 383], "size": 31615.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [427, 335], "size": 687.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [634, 383], "size": 31584.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [427, 335], "size": 688.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [634, 383], "size": 31608.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [427, 334], "size": 669.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [634, 382], "size": 31635.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 334], "size": 684.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [634, 382], "size": 31610.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 334], "size": 680.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [634, 382], "size": 31609.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 334], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [634, 382], "size": 31593.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 334], "size": 685.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [634, 382], "size": 31642.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 334], "size": 680.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [633, 382], "size": 31660.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 334], "size": 678.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [633, 382], "size": 31673.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 334], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [633, 382], "size": 31684.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 334], "size": 680.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [633, 381], "size": 31636.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 333], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [633, 381], "size": 31656.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 333], "size": 687.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [633, 381], "size": 31661.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 333], "size": 689.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [633, 381], "size": 31685.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 333], "size": 694.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [633, 381], "size": 31646.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 333], "size": 694.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [633, 381], "size": 31644.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 333], "size": 692.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [633, 380], "size": 31614.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 332], "size": 696.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 380], "size": 31622.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 332], "size": 703.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 380], "size": 31607.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 332], "size": 698.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 380], "size": 31575.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 332], "size": 708.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 380], "size": 31565.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 332], "size": 702.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 380], "size": 31547.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 332], "size": 703.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 379], "size": 31597.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 331], "size": 707.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 379], "size": 31592.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 331], "size": 709.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 379], "size": 31585.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 331], "size": 710.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 379], "size": 31635.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 331], "size": 704.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 379], "size": 31662.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 331], "size": 707.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 379], "size": 31655.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 331], "size": 706.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 379], "size": 31631.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 330], "size": 705.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 378], "size": 31599.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 330], "size": 704.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 378], "size": 31575.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 330], "size": 703.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 378], "size": 31597.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 330], "size": 703.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 378], "size": 31608.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 329], "size": 701.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 378], "size": 31588.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 329], "size": 698.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 377], "size": 31560.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 329], "size": 704.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 377], "size": 31559.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 329], "size": 706.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 377], "size": 31604.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 328], "size": 689.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 377], "size": 31610.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 328], "size": 687.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 377], "size": 31562.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 328], "size": 693.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 377], "size": 31559.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 328], "size": 699.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 377], "size": 31567.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 328], "size": 707.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 377], "size": 31565.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 328], "size": 708.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 376], "size": 31574.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 328], "size": 704.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 376], "size": 31577.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 328], "size": 705.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 376], "size": 31607.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 328], "size": 702.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 376], "size": 31603.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 327], "size": 706.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 376], "size": 31552.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 327], "size": 698.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 376], "size": 31561.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 327], "size": 702.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 376], "size": 31553.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 327], "size": 699.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 376], "size": 31548.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 327], "size": 700.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [632, 375], "size": 31533.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 327], "size": 697.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 375], "size": 31499.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 327], "size": 697.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 375], "size": 31488.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 327], "size": 693.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 375], "size": 31473.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 327], "size": 693.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 375], "size": 31459.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 327], "size": 694.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 375], "size": 31486.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 326], "size": 697.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 375], "size": 31497.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 326], "size": 696.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 375], "size": 31497.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 326], "size": 697.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 375], "size": 31526.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 326], "size": 700.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 374], "size": 31553.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 326], "size": 700.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 374], "size": 31549.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 326], "size": 704.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 374], "size": 31507.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 325], "size": 703.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 374], "size": 31494.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 325], "size": 701.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 374], "size": 31515.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 325], "size": 702.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 374], "size": 31499.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 325], "size": 703.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 374], "size": 31506.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 325], "size": 701.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 373], "size": 31502.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 325], "size": 700.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 373], "size": 31494.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 325], "size": 700.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 373], "size": 31476.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 325], "size": 690.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 373], "size": 31447.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 325], "size": 690.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 373], "size": 31473.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 325], "size": 689.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 373], "size": 31486.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 325], "size": 688.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 373], "size": 31507.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 324], "size": 689.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 373], "size": 31521.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 324], "size": 696.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 373], "size": 31518.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 324], "size": 693.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 373], "size": 31504.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 324], "size": 692.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 373], "size": 31520.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 324], "size": 693.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 373], "size": 31511.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 324], "size": 691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 373], "size": 31483.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 324], "size": 695.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 373], "size": 31498.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 324], "size": 696.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 373], "size": 31489.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 324], "size": 696.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 372], "size": 31431.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 324], "size": 696.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [630, 372], "size": 31450.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 324], "size": 695.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [630, 372], "size": 31434.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 324], "size": 691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [630, 372], "size": 31499.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 324], "size": 704.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [630, 372], "size": 31488.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 324], "size": 700.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [630, 372], "size": 31490.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 324], "size": 701.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [630, 372], "size": 31478.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 324], "size": 699.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [631, 372], "size": 31528.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 324], "size": 692.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [568, 395], "size": 15198.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 323], "size": 696.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [594, 401], "size": 18656.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 322], "size": 618.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [596, 401], "size": 19587.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 322], "size": 633.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [612, 389], "size": 25925.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 321], "size": 660.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [624, 380], "size": 30466.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 321], "size": 665.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [618, 381], "size": 28881.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 322], "size": 665.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [616, 383], "size": 27447.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 322], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [615, 385], "size": 26198.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 322], "size": 680.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [614, 386], "size": 25420.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 322], "size": 692.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [610, 389], "size": 23866.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 322], "size": 685.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [608, 390], "size": 22978.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 322], "size": 687.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [605, 392], "size": 21177.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 322], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [604, 392], "size": 20479.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 322], "size": 661.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [602, 393], "size": 19819.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 321], "size": 627.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [601, 394], "size": 19354.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 322], "size": 655.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [600, 394], "size": 19340.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 322], "size": 648.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [601, 395], "size": 19368.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 322], "size": 665.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [600, 396], "size": 19196.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 322], "size": 685.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [599, 396], "size": 19408.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 322], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [599, 397], "size": 19520.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 322], "size": 680.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 2, "centroid": [593, 398], "size": 18595.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 322], "size": 691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [760, 223], "size": 88929.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [591, 399], "size": 18337.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 322], "size": 692.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [761, 223], "size": 90571.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [588, 400], "size": 18044.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 322], "size": 689.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [761, 222], "size": 93998.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [586, 400], "size": 17914.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 322], "size": 700.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [761, 221], "size": 97191.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [587, 401], "size": 17924.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 322], "size": 704.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [761, 221], "size": 98852.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [588, 401], "size": 18204.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 322], "size": 719.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [761, 221], "size": 101692.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [590, 402], "size": 18514.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 322], "size": 729.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [761, 221], "size": 103678.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [593, 402], "size": 18472.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 323], "size": 743.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [761, 221], "size": 105834.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [587, 404], "size": 17790.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 323], "size": 737.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [761, 221], "size": 107644.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [574, 402], "size": 15941.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 323], "size": 734.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [761, 219], "size": 108949.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [568, 400], "size": 14895.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 323], "size": 730.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [762, 219], "size": 110358.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [555, 395], "size": 12783.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 323], "size": 739.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [762, 218], "size": 111672.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [552, 394], "size": 12194.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 323], "size": 743.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [763, 219], "size": 113323.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [551, 393], "size": 11771.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 323], "size": 746.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [762, 217], "size": 113919.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [551, 392], "size": 11433.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 323], "size": 746.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [762, 217], "size": 115918.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [551, 390], "size": 11158.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 323], "size": 746.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [763, 217], "size": 118724.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [551, 389], "size": 11006.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 323], "size": 755.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [764, 217], "size": 120176.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [551, 388], "size": 10840.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 323], "size": 729.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [766, 219], "size": 123682.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [551, 389], "size": 10719.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 323], "size": 719.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [767, 219], "size": 124979.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [551, 389], "size": 10502.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 323], "size": 697.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [768, 219], "size": 126302.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [551, 388], "size": 10357.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 323], "size": 702.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [769, 219], "size": 127378.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [550, 388], "size": 10230.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 323], "size": 702.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [770, 218], "size": 128447.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [550, 387], "size": 10064.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 323], "size": 712.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [771, 217], "size": 129257.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [549, 387], "size": 9935.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 323], "size": 697.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [772, 216], "size": 129989.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [549, 387], "size": 9899.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 323], "size": 678.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [773, 216], "size": 131029.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [549, 386], "size": 9947.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 324], "size": 693.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [774, 215], "size": 131957.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [549, 386], "size": 9968.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 324], "size": 693.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [774, 214], "size": 132233.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [549, 386], "size": 10000.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 324], "size": 696.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [777, 214], "size": 133008.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [549, 386], "size": 9973.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 324], "size": 704.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [778, 214], "size": 133888.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [549, 386], "size": 9943.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 324], "size": 708.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [778, 215], "size": 135323.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [549, 386], "size": 10030.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 324], "size": 663.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [779, 215], "size": 136719.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [550, 386], "size": 10071.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 323], "size": 661.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [779, 216], "size": 139290.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [550, 386], "size": 10110.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [425, 323], "size": 653.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [780, 217], "size": 141942.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [550, 386], "size": 10068.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 323], "size": 635.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [779, 219], "size": 145697.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [550, 386], "size": 9954.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 323], "size": 639.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [780, 220], "size": 147213.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [549, 387], "size": 9915.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 323], "size": 643.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [780, 222], "size": 150111.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [549, 386], "size": 9867.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 324], "size": 657.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [780, 223], "size": 152907.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [549, 387], "size": 9893.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 324], "size": 660.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [780, 224], "size": 154743.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [549, 386], "size": 9891.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 324], "size": 662.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [781, 223], "size": 156160.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [549, 386], "size": 9886.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 324], "size": 661.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [782, 224], "size": 157688.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [548, 386], "size": 9781.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 324], "size": 657.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [781, 224], "size": 158781.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [548, 386], "size": 9665.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 324], "size": 666.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [780, 226], "size": 161826.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [548, 386], "size": 9536.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 324], "size": 675.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [779, 229], "size": 165827.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [548, 386], "size": 9432.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 324], "size": 705.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [778, 232], "size": 169165.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [547, 387], "size": 9282.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 324], "size": 708.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [777, 235], "size": 172796.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [547, 387], "size": 9133.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 324], "size": 691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [776, 236], "size": 174540.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [547, 387], "size": 9106.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [667, 392], "size": 16707.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [776, 238], "size": 176913.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [546, 388], "size": 8942.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 324], "size": 657.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [777, 237], "size": 177534.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [545, 388], "size": 8727.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 324], "size": 659.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [778, 238], "size": 179499.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [544, 388], "size": 8497.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 324], "size": 642.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [779, 238], "size": 180370.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [543, 389], "size": 8293.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 323], "size": 627.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [780, 238], "size": 180811.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [543, 389], "size": 8194.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 323], "size": 621.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [782, 238], "size": 182445.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [543, 390], "size": 8163.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 323], "size": 630.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [785, 238], "size": 183321.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [543, 390], "size": 8076.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 323], "size": 646.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [786, 238], "size": 184728.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [543, 391], "size": 7956.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [427, 323], "size": 633.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [788, 237], "size": 185579.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [543, 391], "size": 7888.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [427, 323], "size": 629.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [789, 236], "size": 186138.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [542, 392], "size": 7581.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [427, 323], "size": 623.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [791, 235], "size": 185787.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [541, 392], "size": 7455.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [427, 323], "size": 618.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [791, 234], "size": 186345.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [540, 392], "size": 7067.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [427, 323], "size": 608.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [791, 236], "size": 188861.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [537, 392], "size": 6622.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [427, 323], "size": 618.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [791, 237], "size": 191436.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [537, 394], "size": 6462.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [427, 323], "size": 619.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [793, 237], "size": 193649.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [530, 393], "size": 5574.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [427, 322], "size": 610.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [794, 238], "size": 195783.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [522, 392], "size": 4407.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [427, 322], "size": 619.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [794, 239], "size": 196718.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [520, 392], "size": 4057.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [427, 322], "size": 633.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [795, 241], "size": 200348.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [518, 392], "size": 3753.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [428, 322], "size": 639.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [796, 241], "size": 200589.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [517, 392], "size": 3508.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [428, 322], "size": 641.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [796, 241], "size": 200429.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [516, 392], "size": 3362.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [428, 322], "size": 642.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [799, 240], "size": 199784.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [514, 392], "size": 3191.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [428, 323], "size": 645.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [800, 240], "size": 200132.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [513, 392], "size": 3009.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [428, 323], "size": 653.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [801, 240], "size": 199433.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [512, 392], "size": 2917.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [428, 323], "size": 666.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [802, 240], "size": 200471.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [512, 392], "size": 2807.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [428, 323], "size": 663.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [803, 240], "size": 201219.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [512, 393], "size": 2809.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 323], "size": 677.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [803, 241], "size": 202572.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [512, 392], "size": 2820.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 323], "size": 674.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [805, 243], "size": 205059.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [513, 390], "size": 3032.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 324], "size": 685.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [805, 245], "size": 206965.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [514, 388], "size": 3212.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 324], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [806, 245], "size": 207619.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [516, 386], "size": 3464.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 324], "size": 680.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [807, 246], "size": 209458.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [517, 387], "size": 3664.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 324], "size": 688.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [808, 247], "size": 209986.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [518, 388], "size": 3734.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 324], "size": 688.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [809, 247], "size": 210547.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [519, 389], "size": 3811.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 324], "size": 684.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [810, 249], "size": 213372.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [518, 390], "size": 3733.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 324], "size": 681.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [811, 250], "size": 214897.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [520, 392], "size": 3958.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 324], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [811, 252], "size": 217358.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [520, 393], "size": 3855.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [430, 324], "size": 665.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [812, 253], "size": 218627.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [519, 392], "size": 3605.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [430, 324], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [812, 254], "size": 220068.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [520, 393], "size": 3674.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [430, 324], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [813, 255], "size": 221381.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [519, 393], "size": 3563.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [430, 324], "size": 671.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [813, 256], "size": 222307.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [519, 393], "size": 3532.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [431, 324], "size": 657.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [814, 258], "size": 223908.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [517, 391], "size": 3208.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [431, 324], "size": 659.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [815, 258], "size": 224934.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [518, 393], "size": 3356.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [432, 323], "size": 646.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [815, 259], "size": 225517.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [519, 395], "size": 3504.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [432, 323], "size": 641.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [816, 261], "size": 227664.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [518, 391], "size": 3118.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [432, 323], "size": 647.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [816, 262], "size": 229292.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [517, 389], "size": 2953.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [432, 323], "size": 651.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [815, 263], "size": 230990.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [515, 385], "size": 2526.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [433, 323], "size": 644.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [816, 264], "size": 231586.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [515, 386], "size": 2555.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [433, 323], "size": 645.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [816, 266], "size": 233902.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [516, 387], "size": 2758.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [433, 323], "size": 645.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [815, 268], "size": 236512.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [517, 385], "size": 2808.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [433, 324], "size": 650.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [814, 271], "size": 239193.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [519, 386], "size": 3129.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [433, 324], "size": 645.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [814, 274], "size": 240778.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [520, 385], "size": 3453.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [432, 325], "size": 653.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [814, 275], "size": 242539.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [520, 385], "size": 3504.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [430, 326], "size": 669.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [812, 278], "size": 244142.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [521, 386], "size": 3842.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [430, 326], "size": 666.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [811, 280], "size": 246566.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [520, 388], "size": 3983.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [429, 327], "size": 672.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [810, 282], "size": 247130.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [520, 390], "size": 4173.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [428, 328], "size": 661.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [809, 284], "size": 248258.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [518, 391], "size": 3924.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [426, 329], "size": 681.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [808, 285], "size": 249124.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [517, 392], "size": 3993.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [424, 330], "size": 701.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [808, 288], "size": 249571.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [514, 393], "size": 3903.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [423, 331], "size": 694.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [807, 291], "size": 251711.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [513, 392], "size": 3799.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [420, 332], "size": 691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [805, 293], "size": 253118.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [510, 393], "size": 3719.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [419, 333], "size": 703.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [802, 297], "size": 255394.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [508, 394], "size": 3676.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [416, 335], "size": 693.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [800, 298], "size": 256331.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [505, 396], "size": 3760.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [414, 335], "size": 680.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [795, 299], "size": 256400.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [505, 394], "size": 3997.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [412, 337], "size": 651.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [792, 300], "size": 258146.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [504, 393], "size": 4025.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [409, 338], "size": 651.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [790, 303], "size": 260224.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [502, 395], "size": 4104.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [406, 339], "size": 631.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [787, 305], "size": 261272.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [498, 396], "size": 4110.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [403, 340], "size": 651.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [784, 307], "size": 263307.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [495, 399], "size": 3991.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [400, 342], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [781, 311], "size": 265931.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [494, 398], "size": 4161.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [397, 343], "size": 671.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [778, 314], "size": 267795.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [491, 398], "size": 4215.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [394, 344], "size": 647.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [778, 316], "size": 270328.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [494, 396], "size": 4607.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [390, 345], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [775, 318], "size": 271050.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [497, 396], "size": 5312.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [386, 346], "size": 672.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [772, 320], "size": 271888.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [496, 397], "size": 5550.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [384, 348], "size": 657.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [771, 321], "size": 272014.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [493, 399], "size": 5531.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [381, 350], "size": 659.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [769, 323], "size": 272024.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [492, 399], "size": 5658.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [379, 351], "size": 675.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [766, 324], "size": 271892.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [491, 400], "size": 5894.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [376, 353], "size": 685.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [764, 326], "size": 272286.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [489, 401], "size": 5982.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [374, 354], "size": 680.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [762, 328], "size": 272927.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [487, 403], "size": 6074.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [371, 355], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [762, 330], "size": 274534.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [488, 405], "size": 6515.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [370, 356], "size": 706.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [761, 334], "size": 276856.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [491, 407], "size": 7258.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [368, 358], "size": 658.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [759, 339], "size": 281292.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [492, 409], "size": 7856.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [367, 359], "size": 662.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [758, 345], "size": 286664.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [492, 412], "size": 8000.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [365, 360], "size": 690.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [757, 351], "size": 291448.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [489, 415], "size": 8003.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [364, 361], "size": 685.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [756, 355], "size": 294075.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [489, 417], "size": 8238.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [364, 363], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [755, 360], "size": 297125.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [486, 419], "size": 8142.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [363, 365], "size": 687.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [755, 363], "size": 299139.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [486, 421], "size": 8277.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [363, 365], "size": 679.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [755, 367], "size": 301003.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [484, 424], "size": 7915.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [363, 367], "size": 685.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [756, 369], "size": 302406.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [483, 427], "size": 7718.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [363, 369], "size": 688.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [756, 372], "size": 303458.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [483, 429], "size": 7791.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [364, 369], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [757, 375], "size": 303952.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [483, 430], "size": 7630.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [365, 371], "size": 719.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [757, 377], "size": 305516.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [484, 432], "size": 7787.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [366, 372], "size": 682.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [759, 379], "size": 307387.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [484, 432], "size": 7704.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [367, 373], "size": 675.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [760, 387], "size": 313852.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [486, 434], "size": 7649.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [369, 375], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [762, 390], "size": 315608.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [489, 435], "size": 7931.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [370, 376], "size": 661.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [764, 393], "size": 316706.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [491, 438], "size": 7969.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [372, 377], "size": 656.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [766, 397], "size": 319564.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [493, 441], "size": 7871.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [373, 379], "size": 644.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [769, 400], "size": 319866.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [493, 446], "size": 7495.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [375, 381], "size": 669.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [771, 404], "size": 321956.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [493, 447], "size": 7456.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [376, 382], "size": 664.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [773, 409], "size": 325524.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [494, 450], "size": 7194.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [377, 383], "size": 694.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [775, 413], "size": 327739.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [495, 452], "size": 7068.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [379, 384], "size": 704.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [777, 416], "size": 329785.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [496, 454], "size": 6910.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [380, 386], "size": 685.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [779, 419], "size": 330328.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [496, 455], "size": 6777.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [381, 387], "size": 685.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [781, 421], "size": 332019.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [497, 456], "size": 6745.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [383, 388], "size": 696.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [782, 425], "size": 332594.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [498, 459], "size": 6470.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [384, 390], "size": 722.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [784, 427], "size": 333810.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [498, 460], "size": 6426.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [384, 391], "size": 709.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [786, 430], "size": 333834.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [499, 461], "size": 6356.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [386, 392], "size": 671.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [788, 431], "size": 335220.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [499, 463], "size": 6266.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [387, 394], "size": 681.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [789, 433], "size": 334705.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [499, 466], "size": 6049.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [387, 395], "size": 701.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [791, 435], "size": 335748.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [498, 467], "size": 5966.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [388, 396], "size": 678.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [792, 438], "size": 335826.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [498, 471], "size": 5762.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [389, 398], "size": 688.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [793, 441], "size": 335700.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [497, 473], "size": 5594.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [389, 399], "size": 663.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [794, 443], "size": 335943.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [494, 474], "size": 4942.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [389, 400], "size": 667.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [797, 447], "size": 337306.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [491, 476], "size": 4307.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [389, 401], "size": 648.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [799, 449], "size": 338912.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [487, 475], "size": 3585.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [389, 402], "size": 658.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [800, 452], "size": 338939.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [483, 476], "size": 3012.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [389, 404], "size": 687.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [801, 454], "size": 339912.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [480, 478], "size": 2507.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [389, 405], "size": 701.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [803, 456], "size": 340408.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [477, 479], "size": 2071.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [389, 406], "size": 694.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [803, 460], "size": 341100.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [476, 481], "size": 1833.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [389, 407], "size": 703.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [803, 462], "size": 341424.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [466, 476], "size": 1186.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [389, 408], "size": 712.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [805, 464], "size": 341176.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [460, 476], "size": 749.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [389, 410], "size": 695.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [807, 466], "size": 340511.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [460, 479], "size": 623.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [388, 412], "size": 667.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [809, 469], "size": 339958.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [458, 482], "size": 471.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [388, 413], "size": 675.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [811, 471], "size": 339570.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [454, 479], "size": 249.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [388, 414], "size": 678.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [812, 474], "size": 338766.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [388, 415], "size": 692.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [815, 476], "size": 338083.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [389, 416], "size": 676.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [819, 478], "size": 335454.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [390, 418], "size": 650.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [825, 480], "size": 333081.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [390, 419], "size": 671.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [830, 483], "size": 328766.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [390, 421], "size": 638.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [832, 486], "size": 324236.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [391, 423], "size": 657.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [835, 489], "size": 323230.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [391, 423], "size": 683.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [837, 491], "size": 322473.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [391, 422], "size": 664.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [839, 493], "size": 321594.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [392, 421], "size": 670.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [840, 496], "size": 321047.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [392, 419], "size": 673.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [841, 498], "size": 320487.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [393, 417], "size": 664.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [841, 499], "size": 320101.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [393, 414], "size": 669.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [842, 501], "size": 317257.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [392, 412], "size": 670.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [842, 501], "size": 315897.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [391, 409], "size": 665.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [844, 503], "size": 313652.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [390, 406], "size": 666.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [844, 504], "size": 312321.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [387, 403], "size": 664.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [843, 504], "size": 311308.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [384, 400], "size": 691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [842, 504], "size": 312463.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [381, 397], "size": 704.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [841, 504], "size": 312594.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [379, 394], "size": 718.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [840, 504], "size": 312531.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [378, 390], "size": 716.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [838, 504], "size": 313208.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [375, 387], "size": 704.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [836, 505], "size": 312716.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [373, 383], "size": 718.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [835, 506], "size": 312055.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [370, 380], "size": 678.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [835, 507], "size": 311480.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [368, 378], "size": 702.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [834, 509], "size": 308205.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [367, 377], "size": 727.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [833, 510], "size": 306370.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [365, 376], "size": 735.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [832, 515], "size": 300455.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [364, 377], "size": 745.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [831, 520], "size": 290349.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [365, 379], "size": 727.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [830, 524], "size": 282664.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [364, 381], "size": 734.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [828, 528], "size": 274250.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [363, 384], "size": 729.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [823, 532], "size": 266530.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [365, 387], "size": 734.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [824, 535], "size": 261881.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [365, 389], "size": 750.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [827, 540], "size": 256016.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [366, 392], "size": 717.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [826, 544], "size": 250481.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [366, 395], "size": 719.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [829, 549], "size": 243659.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [366, 396], "size": 710.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [835, 554], "size": 235963.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [366, 399], "size": 714.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [838, 558], "size": 229133.0, "prompt": "smoke" },
+    { "id": 3, "centroid": [366, 400], "size": 717.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [840, 562], "size": 222554.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [442, 467], "size": 12.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [365, 401], "size": 736.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [840, 565], "size": 218891.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [462, 453], "size": 398.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [366, 401], "size": 713.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [842, 567], "size": 215198.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [476, 456], "size": 1856.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [366, 401], "size": 736.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [845, 568], "size": 213262.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [498, 451], "size": 6248.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [366, 400], "size": 715.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [847, 569], "size": 211144.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [508, 447], "size": 8646.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [365, 398], "size": 710.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [849, 570], "size": 208932.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [532, 433], "size": 12204.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [365, 396], "size": 722.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [851, 570], "size": 207241.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [550, 422], "size": 15197.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [364, 394], "size": 752.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [854, 570], "size": 205262.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [553, 419], "size": 17167.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [364, 391], "size": 788.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [857, 570], "size": 202931.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [556, 417], "size": 19315.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [363, 387], "size": 777.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [862, 570], "size": 199562.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [555, 416], "size": 20294.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [361, 384], "size": 776.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [881, 569], "size": 188397.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [554, 415], "size": 21793.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [360, 380], "size": 770.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [884, 569], "size": 186742.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [554, 411], "size": 22659.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [358, 375], "size": 799.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [887, 568], "size": 186843.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [555, 409], "size": 23323.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [355, 371], "size": 806.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [892, 567], "size": 186279.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [554, 405], "size": 24618.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [351, 365], "size": 823.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [896, 565], "size": 188510.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [554, 401], "size": 25412.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [350, 361], "size": 835.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [898, 563], "size": 191099.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [555, 395], "size": 25585.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [345, 355], "size": 827.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [902, 560], "size": 193627.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [555, 388], "size": 25993.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [343, 350], "size": 874.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [905, 555], "size": 202377.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [555, 380], "size": 25454.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [340, 343], "size": 911.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [909, 552], "size": 207410.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [554, 374], "size": 26089.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [337, 338], "size": 887.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [911, 549], "size": 213133.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [554, 368], "size": 26670.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [334, 333], "size": 900.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [914, 548], "size": 212248.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [553, 364], "size": 27644.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [331, 326], "size": 914.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [912, 546], "size": 213748.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [553, 359], "size": 28675.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [329, 320], "size": 923.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [913, 543], "size": 211884.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [555, 354], "size": 29165.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [327, 314], "size": 927.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [912, 541], "size": 214162.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [556, 348], "size": 30166.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [326, 308], "size": 960.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [912, 539], "size": 213873.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [558, 343], "size": 31159.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [325, 301], "size": 974.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [915, 535], "size": 208963.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [561, 338], "size": 32460.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [325, 296], "size": 1001.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [888, 493], "size": 153601.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [564, 336], "size": 33218.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [325, 292], "size": 1048.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [844, 471], "size": 123341.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [567, 336], "size": 34687.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [325, 291], "size": 1066.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [831, 470], "size": 121657.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [570, 338], "size": 35861.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [326, 291], "size": 1086.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [847, 474], "size": 126534.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [575, 337], "size": 36162.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [326, 292], "size": 1088.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [862, 475], "size": 133025.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [579, 340], "size": 36501.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [327, 294], "size": 1104.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [874, 479], "size": 137566.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [582, 343], "size": 36865.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [328, 297], "size": 1103.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [883, 479], "size": 139925.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [586, 345], "size": 37440.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [329, 300], "size": 1151.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [894, 481], "size": 137852.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [591, 348], "size": 38421.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [330, 303], "size": 1167.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [905, 484], "size": 139628.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [594, 352], "size": 39355.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [330, 306], "size": 1166.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [911, 488], "size": 142977.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [595, 355], "size": 40516.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [330, 308], "size": 1191.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [925, 492], "size": 147922.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [598, 359], "size": 42335.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [326, 311], "size": 1224.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [935, 496], "size": 149698.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [598, 364], "size": 44941.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [317, 312], "size": 1336.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [941, 498], "size": 148393.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [598, 370], "size": 48896.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [307, 314], "size": 1392.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [951, 501], "size": 146328.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [597, 375], "size": 52397.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [296, 316], "size": 1427.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [958, 498], "size": 139463.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [595, 377], "size": 54570.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [285, 318], "size": 1510.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [946, 488], "size": 122552.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [591, 380], "size": 56937.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [273, 321], "size": 1582.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [920, 482], "size": 105807.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [588, 381], "size": 58393.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [262, 323], "size": 1691.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [894, 475], "size": 94295.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [581, 381], "size": 59071.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [249, 326], "size": 1765.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [876, 476], "size": 87043.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [576, 384], "size": 61697.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [236, 328], "size": 1877.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [879, 479], "size": 87420.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [571, 388], "size": 65097.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [222, 332], "size": 1980.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [847, 475], "size": 76168.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [567, 394], "size": 68981.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [208, 336], "size": 2104.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [795, 451], "size": 58638.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [565, 400], "size": 73371.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [196, 340], "size": 2229.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [793, 451], "size": 57498.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [565, 406], "size": 74372.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [196, 345], "size": 2241.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [794, 455], "size": 57838.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [566, 411], "size": 75689.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [195, 349], "size": 2210.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [793, 457], "size": 57399.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [566, 415], "size": 74969.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [195, 354], "size": 2206.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [796, 460], "size": 56649.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [567, 420], "size": 75201.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [204, 350], "size": 3048.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [794, 464], "size": 56989.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [566, 424], "size": 74331.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [194, 363], "size": 2234.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [795, 468], "size": 57855.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [567, 426], "size": 73115.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [194, 368], "size": 2208.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [797, 472], "size": 57599.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [568, 425], "size": 69525.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [196, 374], "size": 2178.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [803, 475], "size": 57599.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [570, 423], "size": 66407.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [197, 377], "size": 2187.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [805, 478], "size": 57007.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [572, 426], "size": 66292.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [198, 381], "size": 2250.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [809, 480], "size": 57365.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [575, 429], "size": 66809.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [201, 384], "size": 2208.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [817, 492], "size": 59984.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [579, 432], "size": 67627.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [202, 387], "size": 2219.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [823, 499], "size": 62444.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [582, 434], "size": 68328.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [204, 387], "size": 2224.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [828, 505], "size": 64618.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [586, 435], "size": 69444.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [206, 388], "size": 2223.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [833, 509], "size": 66092.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [588, 437], "size": 69782.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [210, 389], "size": 2199.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [837, 513], "size": 67331.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [592, 438], "size": 70886.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [211, 390], "size": 2217.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [842, 518], "size": 69617.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [595, 439], "size": 71751.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [213, 390], "size": 2195.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [844, 524], "size": 72043.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [598, 439], "size": 72196.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [215, 390], "size": 2236.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [845, 527], "size": 73489.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [602, 439], "size": 72440.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [217, 390], "size": 2227.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [849, 531], "size": 76321.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [604, 440], "size": 73525.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [229, 379], "size": 3112.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [852, 532], "size": 77293.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [606, 440], "size": 74700.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [221, 388], "size": 2253.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [856, 532], "size": 76645.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [608, 439], "size": 74988.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [222, 387], "size": 2241.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [863, 528], "size": 73959.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [610, 438], "size": 74939.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [223, 386], "size": 2267.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [867, 530], "size": 73564.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [610, 437], "size": 74248.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [224, 386], "size": 2281.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [868, 531], "size": 74927.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [608, 436], "size": 73563.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [222, 385], "size": 2283.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [869, 534], "size": 76508.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [608, 436], "size": 74088.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [222, 386], "size": 2291.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [869, 532], "size": 77458.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [608, 437], "size": 74834.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [220, 387], "size": 2256.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [868, 532], "size": 78911.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [609, 439], "size": 76090.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [218, 387], "size": 2260.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [867, 532], "size": 78262.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [608, 439], "size": 76757.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [215, 387], "size": 2252.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [864, 531], "size": 75980.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [603, 434], "size": 74248.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [211, 388], "size": 2252.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [857, 526], "size": 73351.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [598, 434], "size": 73968.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [206, 388], "size": 2249.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [850, 522], "size": 69185.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [591, 434], "size": 74064.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [199, 389], "size": 2243.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [831, 508], "size": 61140.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [582, 434], "size": 73512.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [191, 390], "size": 2244.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [803, 475], "size": 48400.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [572, 435], "size": 73242.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [181, 391], "size": 2291.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [787, 468], "size": 46273.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [561, 436], "size": 72385.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [181, 380], "size": 3087.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [780, 490], "size": 54709.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [551, 439], "size": 74068.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [162, 391], "size": 2278.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [782, 506], "size": 61116.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [541, 442], "size": 74413.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [154, 392], "size": 2305.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [778, 510], "size": 62853.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [533, 443], "size": 74104.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [146, 393], "size": 2307.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [772, 511], "size": 63010.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [526, 444], "size": 74532.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [138, 394], "size": 2282.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [767, 519], "size": 67013.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [519, 444], "size": 74294.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [131, 396], "size": 2309.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [761, 524], "size": 70001.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [514, 445], "size": 74568.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [125, 396], "size": 2299.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [758, 526], "size": 71826.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [511, 446], "size": 75177.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [121, 398], "size": 2341.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [754, 525], "size": 71340.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [507, 446], "size": 74847.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [117, 399], "size": 2359.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [751, 525], "size": 71385.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [506, 447], "size": 74370.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [115, 401], "size": 2319.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [748, 523], "size": 71530.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [505, 446], "size": 73923.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [113, 401], "size": 2312.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [746, 519], "size": 69442.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [506, 446], "size": 74009.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [112, 402], "size": 2307.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [745, 508], "size": 65049.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [508, 448], "size": 75118.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [113, 403], "size": 2347.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [747, 506], "size": 64282.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [503, 440], "size": 69360.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [113, 403], "size": 2364.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [750, 506], "size": 64869.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [504, 438], "size": 67817.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [114, 403], "size": 2382.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [755, 503], "size": 63576.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [507, 438], "size": 68308.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [124, 392], "size": 3214.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [757, 506], "size": 64919.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [509, 437], "size": 69096.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [117, 402], "size": 2392.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [760, 507], "size": 65889.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [511, 438], "size": 69785.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [117, 402], "size": 2363.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [763, 488], "size": 58301.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [512, 438], "size": 69836.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [119, 402], "size": 2353.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [763, 480], "size": 56349.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [514, 438], "size": 70468.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [119, 401], "size": 2385.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [761, 472], "size": 53994.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [517, 438], "size": 71659.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [120, 401], "size": 2354.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [762, 471], "size": 54275.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [519, 439], "size": 72323.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [121, 400], "size": 2377.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [764, 471], "size": 55031.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [520, 438], "size": 72506.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [121, 399], "size": 2361.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [763, 469], "size": 54950.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [521, 437], "size": 72996.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [121, 398], "size": 2383.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [765, 467], "size": 53870.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [522, 437], "size": 73706.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [121, 398], "size": 2371.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [768, 465], "size": 54052.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [523, 436], "size": 74009.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [122, 396], "size": 2402.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [771, 465], "size": 54589.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [526, 435], "size": 75033.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [124, 396], "size": 2407.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [774, 465], "size": 55624.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [528, 433], "size": 74314.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [126, 395], "size": 2400.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [779, 464], "size": 55689.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [531, 432], "size": 74718.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [127, 394], "size": 2405.0, "prompt": "vehicle" }
+  ],
+  [
+    { "id": 1, "centroid": [783, 464], "size": 56023.0, "prompt": "smoke" },
+    { "id": 2, "centroid": [536, 432], "size": 75851.0, "prompt": "vehicle" },
+    { "id": 3, "centroid": [130, 393], "size": 2428.0, "prompt": "vehicle" }
+  ]
+]
