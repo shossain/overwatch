@@ -1,17 +1,53 @@
 "use client";
 import Image from "next/image";
+import { useState } from "react";
+import axios from "axios";
+import { Button } from "@/components/ui/button";
+import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import { useDropzone } from "react-dropzone";
 
+const API_URL = "http://localhost:8080";
+
 export default function Home() {
+  const [uploadedVideo, setUploadedVideo] = useState<string | null>(null);
+  const [uploadStatus, setUploadStatus] = useState<"success" | "error" | null>(
+    null,
+  );
+  const [uploadMessage, setUploadMessage] = useState<string | null>(null);
+  const [showDropzone, setShowDropzone] = useState(true);
+
+  const handleDismiss = () => {
+    setUploadStatus(null);
+    setUploadMessage(null);
+    setShowDropzone(true);
+  };
+
   const { getRootProps, getInputProps, isDragActive } = useDropzone({
-    onDrop: (acceptedFiles) => {
-      acceptedFiles.forEach((file) => {
-        if (!file.name.endsWith(".mp4")) {
-          console.log("File type not supported");
-        } else {
-          handleVideoUpload(file);
+    onDrop: async (acceptedFiles: File[]) => {
+      const file = acceptedFiles[0];
+      if (file && file.name.endsWith(".mp4")) {
+        const formData = new FormData();
+        formData.append("file", file);
+
+        try {
+          const response = await axios.post(
+            `${API_URL}/drone_footage`,
+            formData,
+          );
+          setUploadedVideo(response.data.file);
+          setUploadStatus("success");
+          setUploadMessage("Video uploaded successfully!");
+        } catch (error) {
+          console.error("Error uploading video:", error);
+          setUploadStatus("error");
+          setUploadMessage("Failed to upload video. Please try again.");
+          setShowDropzone(false);
         }
-      });
+      } else {
+        console.log("File type not supported");
+        setUploadStatus("error");
+        setUploadMessage("Unsupported file type. Please upload an MP4 video.");
+      }
     },
     accept: {
       "video/mp4": [".mp4"],
@@ -34,31 +70,61 @@ export default function Home() {
         </div>
       </div>
 
-      <div
-        {...getRootProps()}
-        className={`relative flex items-center justify-center p-4 border-4 text-white text-lg transition-colors ${
-          isDragActive
-            ? "border-dashed border-white bg-white/10"
-            : "border-white hover:border-gray-300 hover:bg-gray-800/30"
-        }`}
-      >
-        <input {...getInputProps()} />
-        {isDragActive ? (
-          <p>Drop the drone footage here...</p>
-        ) : (
-          <span className="inline-flex items-center">
-            Upload drone footage
-            <Image
-              src="/right_arrow.svg"
-              alt="Right Arrow"
-              width={24}
-              height={24}
-              priority
-              className="ml-2 transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
-            />
-          </span>
-        )}
-      </div>
+      {showDropzone && (
+        <div
+          {...getRootProps()}
+          className={`relative flex items-center justify-center p-4 border-4 text-white text-lg transition-colors ${
+            isDragActive
+              ? "border-dashed border-white bg-white/10"
+              : "border-white hover:border-gray-300 hover:bg-gray-800/30"
+          }`}
+        >
+          <input {...getInputProps()} />
+          {isDragActive ? (
+            <p>Drop the drone footage here...</p>
+          ) : (
+            <span className="inline-flex items-center">
+              Upload drone footage
+              <Image
+                src="/right_arrow.svg"
+                alt="Right Arrow"
+                width={24}
+                height={24}
+                priority
+                className="ml-2 transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
+              />
+            </span>
+          )}
+        </div>
+      )}
+
+      {uploadStatus && (
+        <Alert
+          className="max-w-xl"
+          variant={uploadStatus === "success" ? "success" : "destructive"}
+        >
+          <AlertTitle>
+            {uploadStatus === "success" ? "Upload Success" : "Upload Error"}
+          </AlertTitle>
+          <AlertDescription>{uploadMessage}</AlertDescription>
+          <div className="mt-4">
+            <Button variant="outline" onClick={handleDismiss}>
+              Dismiss
+            </Button>
+          </div>
+        </Alert>
+      )}
+
+      {uploadedVideo && (
+        <div className="mt-8">
+          <video
+            src={`${API_URL}${uploadedVideo}`}
+            controls
+            width="640"
+            height="480"
+          />
+        </div>
+      )}
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-2 lg:text-left">
         <a
