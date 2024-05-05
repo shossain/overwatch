@@ -52,8 +52,10 @@ export default function Home() {
     var ctx = canvas.getContext("2d");
     ctx?.drawImage(video, 0, 0, 720, 500);
 
-    var matchingMessages = wsMessages.filter((message) =>
-      currentFrame - message.frame_idx < 5 && currentFrame - message.frame_idx >= 0
+    var matchingMessages = wsMessages.filter(
+      (message) =>
+        currentFrame - message.frame_idx < 5 &&
+        currentFrame - message.frame_idx >= 0,
     );
     for (const box of matchingMessages) {
       console.log("drawing bbox", box.bbox);
@@ -62,10 +64,10 @@ export default function Home() {
       if (!bbox.fixed) {
         const originalWidth = video.videoWidth;
 
-        bbox[0][0] = bbox[0][0] * 720 / originalWidth;
-        bbox[0][1] = bbox[0][1] * 500 / video.videoHeight;
-        bbox[1][0] = bbox[1][0] * 720 / originalWidth;
-        bbox[1][1] = bbox[1][1] * 500 / video.videoHeight;
+        bbox[0][0] = (bbox[0][0] * 720) / originalWidth;
+        bbox[0][1] = (bbox[0][1] * 500) / video.videoHeight;
+        bbox[1][0] = (bbox[1][0] * 720) / originalWidth;
+        bbox[1][1] = (bbox[1][1] * 500) / video.videoHeight;
       }
       const w = bbox[1][0] - bbox[0][0];
       const h = bbox[1][1] - bbox[0][1];
@@ -76,7 +78,6 @@ export default function Home() {
         ctx.lineWidth = 2;
         ctx?.stroke();
       }
-
     }
 
     setCurrentTime(currentTime);
@@ -91,7 +92,6 @@ export default function Home() {
       const frameRate = videoTracks[0].getSettings().frameRate || 30;
       setFrameRate(frameRate);
     }
-
 
     handleTimeUpdate(event);
   };
@@ -112,24 +112,27 @@ export default function Home() {
         try {
           setIsLoading(true);
           setWsMessages([]);
-          const response = await axios.get(`${API_URL}/video?video_name=${filename}`, {
-            responseType: "blob",
-          });
+          const response = await axios.get(
+            `${API_URL}/video?video_name=${filename}`,
+            {
+              responseType: "blob",
+            },
+          );
           setUploadedVideo(URL.createObjectURL(response.data));
           const metadataResponse = await axios.get(
             `${API_URL}/metadata?video_name=${filename}`,
           );
           setMetadata(metadataResponse.data);
-          const metadata = metadataResponse.data.map((data: string, index: number) => ({
-            timestamp: index / (frameRate || 30),
-            data,
-          }));
+          const metadata = metadataResponse.data.map(
+            (data: string, index: number) => ({
+              timestamp: index / (frameRate || 30),
+              data,
+            }),
+          );
           const filteredMetadata = metadata.filter(
             (data: any) => data.data !== "",
           );
-          setMetadataLog(
-            filteredMetadata
-          );
+          setMetadataLog(filteredMetadata);
           setUploadStatus(null);
           //setUploadMessage("Video uploaded successfully!");
           setShowDropzone(false);
@@ -153,13 +156,15 @@ export default function Home() {
 
   const search = () => {
     setWsMessages([]);
-    const websocket = new WebSocket(`ws://localhost:8080/ws?target_video=${fileaname}&query=${searchString}`);
+    const websocket = new WebSocket(
+      `ws://localhost:8080/ws?target_video=${fileaname}&query=${searchString}`,
+    );
     websocket.onmessage = (event) => {
       const data = JSON.parse(event.data);
       console.log(data);
       setWsMessages((prevMessages) => [...prevMessages, data]);
     };
-  }
+  };
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24 bg-black text-white">
@@ -178,13 +183,15 @@ export default function Home() {
         {showDropzone && (
           <div
             {...getRootProps()}
-            className={`relative flex items-center justify-center p-4 text-white text-lg transition-colors ${isLoading
-              ? ""
-              : `border-4 ${isDragActive
-                ? "border-dashed border-white bg-white/10"
-                : "border-white hover:border-gray-300 hover:bg-gray-800/30"
-              }`
-              }`}
+            className={`relative flex items-center justify-center p-4 text-white text-lg transition-colors ${
+              isLoading
+                ? ""
+                : `border-4 ${
+                    isDragActive
+                      ? "border-dashed border-white bg-white/10"
+                      : "border-white hover:border-gray-300 hover:bg-gray-800/30"
+                  }`
+            }`}
           >
             <input {...getInputProps()} />
             {isLoading ? (
@@ -212,8 +219,6 @@ export default function Home() {
           </div>
         )}
       </div>
-
-
 
       {uploadStatus && (
         <Alert
@@ -254,46 +259,73 @@ export default function Home() {
             <div className="bg-black shadow-md rounded-lg p-4 text-white">
               <div className="flex flex-col gap-y-2">
                 <div className="flex flex-row gap-x-2">
-
-                  <input type="text" value={searchString} onChange={(e) => setSearchString(e.target.value)} placeholder="Search video..." className="w-full p-2 bg-black border-b border-white focus:outline-none focus:border-gray-300" />
+                  <input
+                    type="text"
+                    value={searchString}
+                    onChange={(e) => setSearchString(e.target.value)}
+                    placeholder="Search video..."
+                    className="w-full p-2 bg-black border-b border-white focus:outline-none focus:border-gray-300"
+                  />
                   <button onClick={search}>Search </button>
                 </div>
-                {wsMessages?.length > 0 && <div className="font-bold">Search Results</div>}
-                {
-                  wsMessages.map((message, index) => {
-                    if (index > 0 && (message.frame_idx - wsMessages[index - 1].frame_idx <= 10)) {
-                      return null
-                    } else return (
-                      <div key={index} className="flex flex-row gap-x-2 content-center">
-                        <div onClick={() => {
-                          const video = document.querySelector("video") as HTMLVideoElement;
-                          video.currentTime = message.frame_idx / frameRate;
-                          video.play();
-                        }} className="border p-1 hover:border-rose-500">{message.label}</div>
-                        <div className="p-1">Start frame: {message.frame_idx}</div>
+                {wsMessages?.length > 0 && (
+                  <div className="font-bold">Search Results</div>
+                )}
+                {wsMessages.map((message, index) => {
+                  if (
+                    index > 0 &&
+                    message.frame_idx - wsMessages[index - 1].frame_idx <= 10
+                  ) {
+                    return null;
+                  } else
+                    return (
+                      <div
+                        key={index}
+                        className="flex flex-row gap-x-2 content-center"
+                      >
+                        <div
+                          onClick={() => {
+                            const video = document.querySelector(
+                              "video",
+                            ) as HTMLVideoElement;
+                            video.currentTime = message.frame_idx / frameRate;
+                            video.play();
+                          }}
+                          className="border p-1 hover:border-rose-500"
+                        >
+                          {message.label}
+                        </div>
+                        <div className="p-1">
+                          Start frame: {message.frame_idx}
+                        </div>
                       </div>
-                    )
-                  })
-                }
+                    );
+                })}
 
-
-                {currentMetadata && <><div className="font-bold mb-2">Current Metadata</div>
-                  <div>{currentMetadata}</div></>}
+                {currentMetadata && (
+                  <>
+                    <div className="font-bold mb-2">Current Metadata</div>
+                    <div>{currentMetadata}</div>
+                  </>
+                )}
                 <div className="mt-4">
                   <div className="font-bold mb-2">Metadata Log</div>
                   <div
                     className="max-h-64 overflow-y-auto"
-                  /* ref={(el) => el?.scrollIntoView({ behavior: "smooth" })} */
+                    /* ref={(el) => el?.scrollIntoView({ behavior: "smooth" })} */
                   >
                     {metadataLog.map((entry, index) => (
-                      <div key={index} className="mb-2 border p-2 rounded-md hover:border-rose-500 z-50" onClick={
-                        () => {
-                          const video = document.querySelector("video") as HTMLVideoElement;
+                      <div
+                        key={index}
+                        className="mb-2 border p-2 rounded-md hover:border-rose-500 z-50"
+                        onClick={() => {
+                          const video = document.querySelector(
+                            "video",
+                          ) as HTMLVideoElement;
                           video.currentTime = entry.timestamp;
                           video.play();
-                        }
-
-                      }>
+                        }}
+                      >
                         <div className="text-sm text-gray-300">
                           Timestamp: {formatTimestamp(entry.timestamp)}
                         </div>
@@ -305,29 +337,47 @@ export default function Home() {
               </div>
 
               <div className="localization mt-12">
-                <input type="text" value={localization} onChange={(e) => setLocalization(e.target.value)} placeholder="Localization..." className="w-full p-2 bg-black border-b border-white focus:outline-none focus:border-gray-300" />
-                <button onClick={async () => {
-                  // make request to https://252c-4-78-254-114.ngrok-free.app/heatmap?center={localization} and current frame of video as file
-                  const video = document.querySelector("video") as HTMLVideoElement;
-                  const canvas = document.querySelector("#canvas") as HTMLCanvasElement;
-                  const dataUrl = canvas.toDataURL();
-                  const blob = await fetch(dataUrl).then((res) => res.blob());
-                  const formData = new FormData();
-                  formData.append("file", blob, "frame.png");
-                  const response = await axios.post(`https://b887-12-94-170-82.ngrok-free.app/heatmap?center=${localization}`, formData, {
-                    headers: {
-                      "Content-Type": "multipart/form-data"
-                    }
-                  }
-                  );
-                  const data = response.data;
-                  setLocalizationResponse(data);
-                }}>Localize</button>
-                {localizationResponse && <div className="mt-4">
-                  <img src={localizationResponse} />
-                </div>}
+                <input
+                  type="text"
+                  value={localization}
+                  onChange={(e) => setLocalization(e.target.value)}
+                  placeholder="Localization..."
+                  className="w-full p-2 bg-black border-b border-white focus:outline-none focus:border-gray-300"
+                />
+                <button
+                  onClick={async () => {
+                    // make request to https://252c-4-78-254-114.ngrok-free.app/heatmap?center={localization} and current frame of video as file
+                    const video = document.querySelector(
+                      "video",
+                    ) as HTMLVideoElement;
+                    const canvas = document.querySelector(
+                      "#canvas",
+                    ) as HTMLCanvasElement;
+                    const dataUrl = canvas.toDataURL();
+                    const blob = await fetch(dataUrl).then((res) => res.blob());
+                    const formData = new FormData();
+                    formData.append("file", blob, "frame.png");
+                    const response = await axios.post(
+                      `https://b887-12-94-170-82.ngrok-free.app/heatmap?center=${localization}`,
+                      formData,
+                      {
+                        headers: {
+                          "Content-Type": "multipart/form-data",
+                        },
+                      },
+                    );
+                    const data = response.data;
+                    setLocalizationResponse(data);
+                  }}
+                >
+                  Localize
+                </button>
+                {localizationResponse && (
+                  <div className="mt-4">
+                    <img src={localizationResponse} />
+                  </div>
+                )}
               </div>
-
             </div>
           </div>
         </div>
