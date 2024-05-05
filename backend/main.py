@@ -1,14 +1,14 @@
 import json
+import logging
 import os
 
 import decord
 import torch
+import uvicorn
 from fastapi import FastAPI, HTTPException, UploadFile
 from PIL import Image
 from pydantic import BaseModel
 from transformers import AutoModelForZeroShotObjectDetection, AutoProcessor
-import logging
-import uvicorn
 
 FILE_PATH = "files"
 app = FastAPI()
@@ -24,7 +24,6 @@ try:
 except Exception as e:
     logging.error(f"Failed to load model or processor: {e}")
     raise
-
 
 
 class VideoMetadata(BaseModel):
@@ -89,6 +88,7 @@ async def run_grounding_dino(target_video: str, query: str):
         results.append(frame_results)
 
     return results
+
 
 if __name__ == "__main__":
     uvicorn.run("main:app", host="0.0.0.0", port=8080, reload=True)
