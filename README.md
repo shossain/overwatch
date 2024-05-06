@@ -24,6 +24,12 @@ poetry install --no-root
 poetry shell
 ```
 
+Then, in the root directory, create a file named `.env` and deposit your OpenAI API key there as follows:
+
+```
+OPENAI_API_KEY="YOUR_API_KEY_HERE"
+```
+
 Once this has been done, you may run the model inference pipeline on any JSON metadata output from a video as follows:
 
 ```
