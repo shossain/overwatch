@@ -1,11 +1,19 @@
 # Overwatch
+Parse through thousands of hours of video logs to find enemy combatants, equipment, and risks
 
-## Youtube Demo
-[Youtube Link](https://youtu.be/S2ik-Iu8BwY)
+![Overwatch Segmentation Example](media/segmented1.png)
+![Overwatch Segmentation Example](media/segmented2.png)
+
+
+
+
+## Demo
+ - [Watch the hackathon live demo](https://twitter.com/AlexReibman/status/1787643784366616773)
+ - [Youtube demo](https://youtu.be/S2ik-Iu8BwY)
 
 ## Systems Diagram
 
-![Overwatch Systems Diagram](overwatch_systems_diagram.png)
+![Overwatch Systems Diagram](media/overwatch_systems_diagram.png)
 
 ## Segmentation inference
 
